@@ -39,59 +39,59 @@ import matplotlib
 # filename = "Windows_2k.log"          # 66
 
 # char level and word level
-plt.plot([46], [874], 'purple',  marker=11, markersize=13, label="Apache_2k") # Apache_2k
-plt.plot([75], [2068], 'blue',  marker=11, markersize=13, label="BGL_2k") # BGL_2k
-plt.plot([91], [3123], 'orange',  marker=11, markersize=13, label="Combined_Dataset_2k") # Combined_Dataset_2k
-plt.plot([56], [3599], 'green',  marker=11, markersize=13, label="HDFS_2k") # HDFS_2k
-plt.plot([71], [1512], 'red',  marker=11, markersize=13, label="HealthApp_2k") # HealthApp_2k
-plt.plot([65], [510], 'brown',  marker=11, markersize=13, label="HPC_2k") # HPC_2k
-plt.plot([90], [2981], 'pink',  marker=11, markersize=13, label="Mac_2k") # Mac_2k
-plt.plot([72], [1445], 'gray',  marker=11, markersize=13, label="OpenStack_2k") # OpenStack_2k
-plt.plot([70], [1970], 'olive',  marker=11, markersize=13, label="Spark_2k") # Spark_2k
-plt.plot([82], [1206], 'cyan',  marker=11, markersize=13, label="Windows_2k") # Windows_2k
+plt.plot([46], [874], 'lightcoral',  marker="^", markersize=11, label="Apache_2k") # Apache_2k
+plt.plot([75], [2068], 'springgreen',  marker='v', markersize=11, label="BGL_2k") # BGL_2k
+plt.plot([91], [3123], 'mediumturquoise',  marker='P', markersize=11, label="Combined_Dataset_2k") # Combined_Dataset_2k
+plt.plot([56], [3599], 'mediumorchid',  marker='X', markersize=11, label="HDFS_2k") # HDFS_2k
+plt.plot([71], [1512], 'maroon',  marker='d', markersize=11, label="HealthApp_2k") # HealthApp_2k
+plt.plot([65], [510], 'goldenrod',  marker='.', markersize=11, label="HPC_2k") # HPC_2k
+plt.plot([90], [2981], 'darkorange',  marker='*', markersize=11, label="Mac_2k") # Mac_2k
+plt.plot([72], [1445], 'aquamarine',  marker='>', markersize=11, label="OpenStack_2k") # OpenStack_2k
+plt.plot([70], [1970], 'teal',  marker='o', markersize=11, label="Spark_2k") # Spark_2k
+plt.plot([82], [1206], 'olive',  marker='h', markersize=11, label="Windows_2k") # Windows_2k
 
-plt.axis([0, 100, 0, 3650])
-plt.xlabel("Number of unique characters")
-plt.ylabel("Number of unique words")
+plt.axis([0, 100, 0, 3700])
+plt.xlabel("Unique number of characters")
+plt.ylabel("Unique number of words")
 plt.legend(loc="upper left")
-plt.savefig('diagram_1.pgf')
+plt.savefig('diagram_2.pgf')
 plt.savefig('diagram_2.pdf')
 plt.show()
 
 # number of chars per line and words
-plt.plot([9], [874], 'purple',  marker=11, markersize=13, label="Apache_2k") # Apache_2k
-plt.plot([109], [2068], 'blue',  marker=11, markersize=13, label="BGL_2k") # BGL_2k
-plt.plot([157], [3123], 'orange',  marker=11, markersize=13, label="Combined_Dataset_2k") # Combined_Dataset_2k
-plt.plot([59], [3599], 'green',  marker=11, markersize=13, label="HDFS_2k") # HDFS_2k
-plt.plot([55], [1512], 'red',  marker=11, markersize=13, label="HealthApp_2k") # HealthApp_2k
-plt.plot([50], [510], 'brown',  marker=11, markersize=13, label="HPC_2k") # HPC_2k
-plt.plot([186], [2981], 'pink',  marker=11, markersize=13, label="Mac_2k") # Mac_2k
-plt.plot([50], [1445], 'gray',  marker=11, markersize=13, label="OpenStack_2k") # OpenStack_2k
-plt.plot([63], [1970], 'olive',  marker=11, markersize=13, label="Spark_2k") # Spark_2k
-plt.plot([66], [1206], 'cyan',  marker=11, markersize=13, label="Windows_2k") # Windows_2k
+plt.plot([9], [874], 'lightcoral',  marker="^", markersize=11, label="Apache_2k") # Apache_2k
+plt.plot([109], [2068], 'springgreen',  marker='v', markersize=11, label="BGL_2k") # BGL_2k
+plt.plot([157], [3123], 'mediumturquoise',  marker='P', markersize=11, label="Combined_Dataset_2k") # Combined_Dataset_2k
+plt.plot([59], [3599], 'mediumorchid',  marker='X', markersize=11, label="HDFS_2k") # HDFS_2k
+plt.plot([55], [1512], 'maroon',  marker='d', markersize=11, label="HealthApp_2k") # HealthApp_2k
+plt.plot([50], [510], 'goldenrod',  marker='.', markersize=11, label="HPC_2k") # HPC_2k
+plt.plot([186], [2981], 'darkorange',  marker='*', markersize=11, label="Mac_2k") # Mac_2k
+plt.plot([50], [1445], 'aquamarine',  marker='>', markersize=11, label="OpenStack_2k") # OpenStack_2k
+plt.plot([63], [1970], 'teal',  marker='o', markersize=11, label="Spark_2k") # Spark_2k
+plt.plot([66], [1206], 'olive',  marker='h', markersize=11, label="Windows_2k") # Windows_2k
 
-plt.axis([0, 200, 0, 3650])
-plt.xlabel("Number of unique length log lines")
-plt.ylabel("Number of unique words")
+plt.axis([0, 200, 0, 3700])
+plt.xlabel("Unique number of log lines' character length")
+plt.ylabel("Unique number of words")
 plt.legend(loc="lower right")
 plt.savefig('uql_uqw.pdf')
 plt.show()
 
 # number of chars per line and number
-plt.plot([9], [46], 'purple',  marker=11, markersize=13, label="Apache_2k") # Apache_2k
-plt.plot([114], [75], 'blue',  marker=11, markersize=13, label="BGL_2k") # BGL_2k
-plt.plot([157], [91], 'orange',  marker=11, markersize=13, label="Combined_Dataset_2k") # Combined_Dataset_2k
-plt.plot([59], [56], 'green',  marker=11, markersize=13, label="HDFS_2k") # HDFS_2k
-plt.plot([55], [71], 'red',  marker=11, markersize=13, label="HealthApp_2k") # HealthApp_2k
-plt.plot([50], [65], 'brown',  marker=11, markersize=13, label="HPC_2k") # HPC_2k
-plt.plot([186], [90], 'pink',  marker=11, markersize=13, label="Mac_2k") # Mac_2k
-plt.plot([50], [72], 'gray',  marker=11, markersize=13, label="OpenStack_2k") # OpenStack_2k
-plt.plot([63], [70], 'olive',  marker=11, markersize=13, label="Spark_2k") # Spark_2k
-plt.plot([66], [82], 'cyan',  marker=11, markersize=13, label="Windows_2k") # Windows_2k
+plt.plot([9], [46], 'lightcoral',  marker="^", markersize=11, label="Apache_2k") # Apache_2k
+plt.plot([114], [75], 'springgreen',  marker='v', markersize=11, label="BGL_2k") # BGL_2k
+plt.plot([157], [91], 'mediumturquoise',  marker='P', markersize=11, label="Combined_Dataset_2k") # Combined_Dataset_2k
+plt.plot([59], [56], 'mediumorchid',  marker='X', markersize=11, label="HDFS_2k") # HDFS_2k
+plt.plot([55], [71], 'maroon',  marker='d', markersize=11, label="HealthApp_2k") # HealthApp_2k
+plt.plot([50], [65], 'goldenrod',  marker='.', markersize=11, label="HPC_2k") # HPC_2k
+plt.plot([186], [90], 'darkorange',  marker='*', markersize=11, label="Mac_2k") # Mac_2k
+plt.plot([50], [72], 'aquamarine',  marker='>', markersize=11, label="OpenStack_2k") # OpenStack_2k
+plt.plot([63], [70], 'teal',  marker='o', markersize=11, label="Spark_2k") # Spark_2k
+plt.plot([66], [82], 'olive',  marker='h', markersize=11, label="Windows_2k") # Windows_2k
 
 plt.axis([0, 200, 0, 100])
-plt.xlabel("Number of unique length log lines")
-plt.ylabel("Number of unique characters")
+plt.xlabel("Unique number of log lines' character length")
+plt.ylabel("Unique number of characters")
 plt.legend(loc="lower right")
 plt.savefig('chars_numbers.pdf')
 plt.show()
