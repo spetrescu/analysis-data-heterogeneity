@@ -1,0 +1,2000 @@
+Directory index forbidden by rule: /var/www/html/
+script not found or unable to stat: /var/www/cgi-bin/awstats
+File does not exist: /var/www/html/xmlrpc
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+File does not exist: /var/www/html/awstats/awstats.pl
+File does not exist: /var/www/html/sumthin
+File does not exist: /var/www/html/blogs
+script not found or unable to stat
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+File does not exist: /var/www/html/drupal
+script not found or unable to stat
+File does not exist: /var/www/html/sumthin
+mod_jk child init 1 -2
+mod_jk child workerEnv in error state 3
+File does not exist: /var/www/html/mambo
+mod_jk child workerEnv in error state 3
+File does not exist: /var/www/html/blog
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 15730 in scoreboard slot 2
+File does not exist: /var/www/html/awstats/awstats.pl
+Directory index forbidden by rule: /var/www/html/
+mod_jk2 Shutting down
+script not found or unable to stat
+File does not exist: /var/www/html/blog
+jk2_init() Found child 1461 in scoreboard slot 4
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+File does not exist: /var/www/html/awstats/awstats.pl
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat: /var/www/cgi-bin/proxycheck.pl
+jk2_init() Found child 3010 in scoreboard slot 4
+mod_jk child workerEnv in error state 3
+File does not exist: /var/www/html/xmlrpc
+script not found or unable to stat
+File does not exist: /var/www/html/mambo
+jk2_init() Found child 25156 in scoreboard slot 5
+jk2_init() Found child 8946 in scoreboard slot 8
+Directory index forbidden by rule: /var/www/html/
+File does not exist: /var/www/html/blog
+jk2_init() Found child 3753 in scoreboard slot 10
+File does not exist: /var/www/html/msadc
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+File does not exist: /var/www/html/blog
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+File does not exist: /var/www/html/blog
+mod_jk child workerEnv in error state 4
+mod_jk child init 1 -2
+mod_jk child init 1 -2
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+File does not exist: /var/www/html/xmlrpc
+jk2_init() Found child 25246 in scoreboard slot 7
+Directory index forbidden by rule: /var/www/html/
+Directory index forbidden by rule: /var/www/html/
+File does not exist: /var/www/html/phpgroupware
+File does not exist: /var/www/html/blog
+jk2_init() Found child 25707 in scoreboard slot 9
+File does not exist: /var/www/html/cvs
+File does not exist: /var/www/html/phpgroupware
+Directory index forbidden by rule: /var/www/html/
+File does not exist: /var/www/html/mambo
+Directory index forbidden by rule: /var/www/html/
+File does not exist: /var/www/html/mambo
+script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+File does not exist: /var/www/html/phpmyadmin
+File does not exist: /var/www/html/xmlsrv
+File does not exist: /var/www/html/aws
+script not found or unable to stat: /var/www/cgi-bin/WebApp.pl
+env.createBean2(): Factory error creating vm: ( vm, )
+File does not exist: /var/www/html/xmlsrv
+File does not exist: /var/www/html/phpgroupware
+File does not exist: /var/www/html/mambo
+File does not exist: /var/www/html/cache
+Directory index forbidden by rule: /var/www/html/
+mod_jk child workerEnv in error state 4
+Directory index forbidden by rule: /var/www/html/
+Directory index forbidden by rule: /var/www/html/
+Directory index forbidden by rule: /var/www/html/
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 29377 in scoreboard slot 2
+File does not exist: /var/www/html/blog
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 5
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2
+File does not exist: /var/www/html/phpgroupware
+jk2_init() Found child 15562 in scoreboard slot 4
+File does not exist: /var/www/html/blog
+File does not exist: /var/www/html/trunk
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+File does not exist: /var/www/html/phpgroupware
+File does not exist: /var/www/html/_vti_bin
+File does not exist: /var/www/html/xmlrpc
+jk2_init() Found child 21513 in scoreboard slot 1
+script not found or unable to stat
+script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+child process 15190 still did not exit, sending a SIGTERM
+File does not exist: /var/www/html/scripts/..%2f..
+File does not exist: /var/www/html/phpgroupware
+script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+Directory index forbidden by rule: /var/www/html/
+File does not exist: /var/www/html/phpgroupware
+Directory index forbidden by rule: /var/www/html/
+mod_jk child workerEnv in error state 3
+File does not exist: /var/www/html/drupal
+mod_jk child init 1 -2
+Directory index forbidden by rule: /var/www/html/
+File does not exist: /var/www/html/scripts/..\xc0\xaf..
+File does not exist: /var/www/html/awstats/awstats.pl
+File does not exist: /var/www/html/drupal
+Directory index forbidden by rule: /var/www/html/
+mod_jk child workerEnv in error state 3
+jk2_init() Can't find child 25736 in scoreboard
+Directory index forbidden by rule: /var/www/html/
+child process 3075 still did not exit, sending a SIGTERM
+File does not exist: /var/www/html/xmlrpc
+File does not exist: /var/www/html/phpgroupware
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+File does not exist: /var/www/html/blogs
+File does not exist: /var/www/html/wordpress
+mod_jk child workerEnv in error state 6
+Directory index forbidden by rule: /var/www/html/
+File does not exist: /var/www/html/blogs
+File does not exist: /var/www/html/drupal
+script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+Directory index forbidden by rule: /var/www/html/
+Invalid URI in request GET  HTTP/1.1
+mod_jk child workerEnv in error state 5
+File does not exist: /var/www/html/xmlsrv
+File does not exist: /var/www/html/sumthin
+jk2_init() Found child 25990 in scoreboard slot 2
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+jk2_init() Found child 6029 in scoreboard slot 6
+Directory index forbidden by rule: /var/www/html/
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat: /var/www/cgi-bin/openwebmail
+jk2_init() Found child 4637 in scoreboard slot 7
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Can't find child 10197 in scoreboard
+script not found or unable to stat
+mod_jk child workerEnv in error state 6
+jk2_init() Can't find child 14435 in scoreboard
+mod_jk child init 1 -2
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+File does not exist: /var/www/html/awstats/awstats.pl
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk2 Shutting down
+Directory index forbidden by rule: /var/www/html/
+script not found or unable to stat
+jk2_init() Found child 21394 in scoreboard slot 5
+File does not exist: /var/www/html/wordpress
+File does not exist: /var/www/html/MSADC
+Digest: done
+jk2_init() Found child 27531 in scoreboard slot 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+File does not exist: /var/www/html/blogs
+script not found or unable to stat
+script not found or unable to stat
+mod_jk child workerEnv in error state 7
+Directory index forbidden by rule: /var/www/html/
+script not found or unable to stat: /var/www/cgi-bin/awstats
+File does not exist: /var/www/html/drupal
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+Directory index forbidden by rule: /var/www/html/
+File does not exist: /var/www/html/xmlsrv
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+Directory index forbidden by rule: /var/www/html/
+script not found or unable to stat
+jk2_init() Found child 25808 in scoreboard slot 4
+File does not exist: /var/www/html/xmlsrv
+Directory index forbidden by rule: /var/www/html/
+File does not exist: /var/www/html/awstats/awstats.pl
+File does not exist: /var/www/html/cacti
+jk2_init() Found child 1291 in scoreboard slot 6
+child process 892 still did not exit, sending a SIGTERM
+script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+script not found or unable to stat: /var/www/cgi-bin/awstats
+env.createBean2(): Factory error creating worker.jni:onStartup ( worker.jni, onStartup)
+File does not exist: /var/www/html/phpgroupware
+File does not exist: /var/www/html/awstats/awstats.pl
+Directory index forbidden by rule: /var/www/html/
+script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+jk2_init() Found child 25344 in scoreboard slot 1
+jk2_init() Found child 26451 in scoreboard slot 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+File does not exist: /var/www/html/sumthin
+File does not exist: /var/www/html/sumthin
+script not found or unable to stat
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+Directory index forbidden by rule: /var/www/html/
+File does not exist: /var/www/html/cvs
+File does not exist: /var/www/html/scripts/root.exe
+mod_jk child workerEnv in error state 6
+File does not exist: /var/www/html/xmlsrv
+script not found or unable to stat: /var/www/cgi-bin/awstats
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+Directory index forbidden by rule: /var/www/html/
+Directory index forbidden by rule: /var/www/html/
+script not found or unable to stat
+File does not exist: /var/www/html/phpgroupware
+script not found or unable to stat
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk2 Shutting down
+mod_jk2 Shutting down
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Can't find child 8731 in scoreboard
+jk2_init() Found child 4748 in scoreboard slot 25
+Directory index forbidden by rule: /var/www/html/
+File does not exist: /var/www/html/xmlrpc
+mod_jk child workerEnv in error state 5
+script not found or unable to stat
+File does not exist: /var/www/html/sumthin
+mod_jk2 Shutting down
+jk2_init() Can't find child 17477 in scoreboard
+mod_jk2 Shutting down
+mod_jk child init 1 0
+File does not exist: /var/www/html/mambo
+mod_jk child workerEnv in error state 4
+mod_jk child workerEnv in error state 6
+File does not exist: /var/www/html/phpgroupware
+File does not exist: /var/www/html/blog
+script not found or unable to stat
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 22218 in scoreboard slot 23
+jk2_init() Found child 5650 in scoreboard slot 9
+File does not exist: /var/www/html/blog
+File does not exist: /var/www/html/blog
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+File does not exist: /var/www/html/cacti
+File does not exist: /var/www/html/Calendar
+File does not exist: /var/www/html/scripts/root.exe
+File does not exist: /var/www/html/blog
+mod_jk child workerEnv in error state 3
+Directory index forbidden by rule: /var/www/html/
+File does not exist: /var/www/html/wordpress
+jk2_init() Found child 7254 in scoreboard slot 15
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+File does not exist: /var/www/html/mambo
+File does not exist: /var/www/html/xmlrpc
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+File does not exist: /var/www/html/sumthin
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+File does not exist: /var/www/html/xmlrpc
+env.createBean2(): Factory error creating vm: ( vm, )
+File does not exist: /var/www/html/blog
+script not found or unable to stat
+File does not exist: /var/www/html/drupal
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+File does not exist: /var/www/html/wordpress
+Directory index forbidden by rule: /var/www/html/
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+File does not exist: /var/www/html/blog
+script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+File does not exist: /var/www/html/blog
+File does not exist: /var/www/html/blog
+File does not exist: /var/www/html/msadc
+Directory index forbidden by rule: /var/www/html/
+File does not exist: /var/www/html/wordpress
+jk2_init() Can't find child 6145 in scoreboard
+jk2_init() Found child 6008 in scoreboard slot 8
+File does not exist: /var/www/html/xmlrpc
+Directory index forbidden by rule: /var/www/html/
+mod_jk child init 1 0
+script not found or unable to stat
+jk2_init() Found child 30799 in scoreboard slot 7
+script not found or unable to stat: /var/www/cgi-bin/awstats
+File does not exist: /var/www/html/adm
+request failed: URI too long (longer than 8190)
+File does not exist: /var/www/html/articles
+Directory index forbidden by rule: /var/www/html/
+mod_jk child workerEnv in error state 2
+File does not exist: /var/www/html/b2evo
+mod_jk child workerEnv in error state 3
+env.createBean2(): Factory error creating worker.jni:onShutdown ( worker.jni, onShutdown)
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+File does not exist: /var/www/html/wordpress
+File does not exist: /var/www/html/scripts/..\xc1\x1c..
+script not found or unable to stat
+Directory index forbidden by rule: /var/www/html/
+mod_jk child workerEnv in error state 5
+Directory index forbidden by rule: /var/www/html/
+File does not exist: /var/www/html/wordpress
+File does not exist: /var/www/html/cvs
+Directory index forbidden by rule: /var/www/html/
+jk2_init() Found child 21983 in scoreboard slot 4
+script not found or unable to stat
+File does not exist: /var/www/html/wordpress
+mod_jk child workerEnv in error state 4
+mod_jk child workerEnv in error state 4
+File does not exist: /var/www/html/xmlsrv
+script not found or unable to stat: /var/www/cgi-bin/awstats
+Directory index forbidden by rule: /var/www/html/
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+File does not exist: /var/www/html/xmlrpc
+File does not exist: /var/www/html/blog
+script not found or unable to stat
+File does not exist: /var/www/html/blog
+client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /
+File does not exist: /var/www/html/drupal
+jk2_init() Found child 31678 in scoreboard slot 7
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk2 Shutting down
+mod_jk child init 1 -2
+jk2_init() Found child 12587 in scoreboard slot 0
+attempt to invoke directory as script: /var/www/cgi-bin/
+Directory index forbidden by rule: /var/www/html/
+jk2_init() Found child 27920 in scoreboard slot 8
+script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+jk2_init() Found child 2642 in scoreboard slot 4
+jk2_init() Found child 3067 in scoreboard slot 16
+jk2_init() Found child 473 in scoreboard slot 41
+File does not exist: /var/www/html/articles
+File does not exist: /var/www/html/awstats/awstats.pl
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 3675 in scoreboard slot 7
+mod_jk2 Shutting down
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+File does not exist: /var/www/html/xmlsrv
+jk2_init() Found child 29681 in scoreboard slot 0
+jk2_init() Found child 14071 in scoreboard slot 5
+File does not exist: /var/www/html/xmlsrv
+script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+File does not exist: /var/www/html/drupal
+script not found or unable to stat
+mod_jk child workerEnv in error state 5
+kernel: Out of Memory: Killed process 21682 (httpd).
+ftpd[1351]: connection from 218.28.1.61 () at Fri Aug 12 12:53:21 2005 
+kernel:  [<0212d1de>] generic_file_aio_write_nolock+0x4fe/0x84e
+telnetd[15560]: ttloop:  read: Connection timed out
+sshd(pam_unix)[31407]: check pass; user unknown
+telnetd[15598]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+kernel:  [<0215456f>] inode_update_time+0x8e/0x96
+kernel: Out of Memory: Killed process 24254 (httpd).
+kernel:  [<021361c7>] do_no_page+0xa1/0x235
+kernel: Out of Memory: Killed process 29132 (httpd).
+kernel: Out of Memory: Killed process 23145 (httpd).
+kernel: Out of Memory: Killed process 32457 (httpd).
+kernel: apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac)
+named[2281]: listening on IPv4 interface eth0:22, 63.126.79.125#53
+kernel: Out of Memory: Killed process 11213 (httpd).
+ftpd[9775]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+kernel: Out of Memory: Killed process 28754 (sendmail).
+sshd(pam_unix)[3617]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+sshd(pam_unix)[30630]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+kernel: Out of Memory: Killed process 26901 (httpd).
+sshd(pam_unix)[2378]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dms.geos.ntnu.edu.tw 
+sshd(pam_unix)[27637]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.118.169.249  user=root
+sshd(pam_unix)[28534]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ztc2-f.nas.tiscali.de  user=root
+su(pam_unix)[15434]: session closed for user cyrus
+kernel: Out of Memory: Killed process 3254 (httpd).
+kernel: Out of Memory: Killed process 27115 (httpd).
+kernel: ICH: not 100%% native mode: will probe irqs later
+kernel: Out of Memory: Killed process 8294 (httpd).
+sshd(pam_unix)[23390]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85-95-176-2.saransk.ru 
+kernel: Failure registering capabilities with the kernel
+kernel: Out of Memory: Killed process 10080 (httpd).
+sshd(pam_unix)[12426]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+ftpd[929]: connection from 216.19.205.44 (216-19-205-44.getnet.net) at Wed Jan 25 01:48:27 2006 
+ftpd[26481]: connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005 
+kernel:  BIOS-e820: 0000000000100000 - 0000000007eae000 (usable)
+kernel: Out of Memory: Killed process 6437 (httpd).
+sshd(pam_unix)[20026]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.3 
+sshd(pam_unix)[4215]: session opened for user root by (uid=0)
+kernel: Out of Memory: Killed process 12064 (httpd).
+sshd(pam_unix)[4814]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.189.216.84  user=test
+kernel: Out of Memory: Killed process 8567 (httpd).
+kernel: Out of Memory: Killed process 6017 (httpd).
+ftpd[4763]: connection from 101.118.47.108 () at Sun Feb 12 13:11:23 2006 
+sshd(pam_unix)[16219]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host-xe04.kiosk.ws  user=root
+telnetd[16748]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+ftpd[13265]: connection from 61.74.96.178 () at Wed Jun 29 03:22:23 2005 
+sshd(pam_unix)[23311]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-232-147-37.nexg.net  user=root
+ftpd[4323]: connection from 209.184.7.130 () at Sat Jun 11 03:28:25 2005 
+kernel: Out of Memory: Killed process 24206 (httpd).
+ftpd[939]: connection from 216.19.205.44 (216-19-205-44.getnet.net) at Wed Jan 25 01:48:27 2006 
+kernel: Out of Memory: Killed process 1501 (httpd).
+sshd(pam_unix)[14192]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=59-106-15-121.r-bl100.sakura.ne.jp  user=root
+cannaserver[2102]: irw_killserver:cannaserver end 
+telnetd[16746]: ttloop:  read: Connection reset by peer
+ftpd[30260]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:10 2005 
+kernel: Out of Memory: Killed process 11238 (httpd).
+sshd(pam_unix)[7669]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.185.162.130  user=root
+sshd(pam_unix)[6554]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.229.150.228 
+ftpd[16387]: connection from 212.5.120.141 (host-141.STSK.macomnet.net) at Mon Jun 13 09:09:44 2005 
+kernel: Out of Memory: Killed process 1429 (httpd).
+kernel: Out of Memory: Killed process 27774 (httpd).
+kernel: Out of Memory: Killed process 25083 (httpd).
+sshd(pam_unix)[26106]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ap00.atfdc2-unet.ocn.ne.jp 
+sshd(pam_unix)[30678]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+kernel: Out of Memory: Killed process 3123 (httpd).
+kernel: Out of Memory: Killed process 29275 (httpd).
+sshd(pam_unix)[19719]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip67-90-201-250.z201-90-67.customer.algx.net 
+su(pam_unix)[26547]: session closed for user news
+sshd(pam_unix)[2380]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dms.geos.ntnu.edu.tw 
+kernel: Out of Memory: Killed process 5935 (httpd).
+kernel: Out of Memory: Killed process 18717 (python).
+kernel: Out of Memory: Killed process 26460 (python).
+kernel: PCI: Found IRQ 5 for device 0000:01:0c.0
+ftpd[7333]: connection from 211.234.84.17 () at Wed Aug 31 05:33:13 2005 
+kernel: Out of Memory: Killed process 28463 (httpd).
+kernel:  [<02114537>] do_page_fault+0x12f/0x446
+kernel: Out of Memory: Killed process 5597 (httpd).
+sshd(pam_unix)[22954]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36 
+kernel: Out of Memory: Killed process 22137 (httpd).
+kernel: Out of Memory: Killed process 21499 (httpd).
+logrotate: ALERT exited abnormally with [1]
+sshd(pam_unix)[13975]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+kernel: Out of Memory: Killed process 11295 (httpd).
+kernel: Out of Memory: Killed process 20157 (httpd).
+ftpd[16389]: connection from 212.5.120.141 (host-141.STSK.macomnet.net) at Mon Jun 13 09:09:44 2005 
+ftpd[25651]: connection from 84.139.180.196 (p548BB4C4.dip0.t-ipconnect.de) at Fri Jan  6 15:53:55 2006 
+kernel: Out of Memory: Killed process 2027 (httpd).
+kernel:  [<021303bd>] do_page_cache_readahead+0xa3/0x101
+sshd(pam_unix)[21675]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ponteix.ssd.sk.ca 
+sshd(pam_unix)[2141]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at 
+udev[2053]: creating device node '/udev/lp0'
+sshd(pam_unix)[28680]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ztc2-f.nas.tiscali.de  user=root
+kernel: Uniform CD-ROM driver Revision: 3.20
+kernel: Out of Memory: Killed process 1784 (httpd).
+kernel: Out of Memory: Killed process 4915 (httpd).
+kernel: Out of Memory: Killed process 32042 (httpd).
+kernel: Out of Memory: Killed process 26496 (httpd).
+kernel: Out of Memory: Killed process 25326 (httpd).
+udev[20402]: creating device node '/udev/vcsa2'
+named[2281]: no longer listening on 63.126.79.87#53
+kernel: Out of Memory: Killed process 26819 (httpd).
+kernel: Out of Memory: Killed process 2911 (httpd).
+kernel: Out of Memory: Killed process 26810 (httpd).
+sshd(pam_unix)[5293]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dialup-mum-203.94.231.54.mtnl.net.in  user=test
+kernel: Out of Memory: Killed process 14570 (httpd).
+kernel: EXT3-fs: write access will be enabled during recovery.
+login(pam_unix)[2420]: session opened for user root by LOGIN(uid=0)
+kernel: Out of Memory: Killed process 26007 (httpd).
+kernel:  [<0213f1ba>] rw_vm+0x1ce/0x1ea
+kernel: Out of Memory: Killed process 27665 (httpd).
+kernel: Out of Memory: Killed process 1668 (httpd).
+ftpd[23565]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005 
+kernel: Out of Memory: Killed process 31157 (httpd).
+kernel: Out of Memory: Killed process 32702 (httpd).
+ftpd[4847]: connection from 202.147.190.179 (host202-147-190-179.khi.dancom.net.pk) at Mon Feb 13 17:58:11 2006 
+sshd(pam_unix)[5692]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vedgi-gw.rosprint.net 
+kernel: Out of Memory: Killed process 19762 (python).
+kernel: Out of Memory: Killed process 27758 (httpd).
+kernel:  [<0227ecc1>] schedule+0x3ed/0x44d
+kernel: Out of Memory: Killed process 26418 (httpd).
+kernel:  [<0213d341>] read_swap_cache_async+0x41/0x84
+sshd(pam_unix)[23167]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+kernel: Out of Memory: Killed process 28213 (httpd).
+ftpd[4854]: connection from 202.147.190.179 (host202-147-190-179.khi.dancom.net.pk) at Mon Feb 13 17:58:11 2006 
+sshd(pam_unix)[23042]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36 
+sshd(pam_unix)[18527]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.69.8.78  user=test
+ftpd[3911]: ANONYMOUS FTP LOGIN FROM 81.240.142.171, 171-142.240.81.adsl.skynet.be (Sgpuser@home.com)
+kernel: Out of Memory: Killed process 27733 (httpd).
+kernel: Bluetooth: L2CAP ver 2.1
+ftpd[12227]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005 
+named[2305]: no longer listening on 63.126.79.105#53
+kernel: EXT3-fs: INFO: recovery required on readonly filesystem.
+kernel: Out of Memory: Killed process 6053 (httpd).
+kernel: Out of Memory: Killed process 30869 (httpd).
+sshd(pam_unix)[5379]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.168.14.22 
+sshd(pam_unix)[815]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+kernel: Out of Memory: Killed process 26747 (httpd).
+sshd(pam_unix)[2861]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.118.94.55 
+kernel: Out of Memory: Killed process 26085 (httpd).
+kernel:  [<0212ebf3>] __alloc_pages+0x274/0x281
+kernel: Out of Memory: Killed process 29815 (httpd).
+ftpd[4609]: connection from 85.219.160.32 (host-32-160.users.bzimage.us) at Fri Feb 10 21:55:50 2006 
+sshd(pam_unix)[15349]: check pass; user unknown
+sshd(pam_unix)[23724]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.157.209.133 
+kernel: Out of Memory: Killed process 14996 (httpd).
+kernel: Out of Memory: Killed process 24741 (httpd).
+kernel: Out of Memory: Killed process 29215 (httpd).
+sshd(pam_unix)[4501]: check pass; user unknown
+kernel: Out of Memory: Killed process 347 (httpd).
+sshd(pam_unix)[18615]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.145.53.114  user=root
+kernel:  [<0211476a>] do_page_fault+0x362/0x446
+named[2288]: listening on IPv4 interface eth0:16, 63.126.79.95#53
+sshd(pam_unix)[6512]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+kernel: Out of Memory: Killed process 12283 (python).
+ftpd[7243]: connection from 84.184.10.83 (p54B80A53.dip0.t-ipconnect.de) at Tue Jan 10 02:01:02 2006 
+kernel: Out of Memory: Killed process 32582 (httpd).
+kernel: Out of Memory: Killed process 11316 (httpd).
+kernel:  [<0213d341>] read_swap_cache_async+0x41/0x84
+kernel: RAMDISK driver initialized: 16 RAM disks of 16384K size 1024 blocksize
+sshd(pam_unix)[30886]: check pass; user unknown
+kernel: Out of Memory: Killed process 8598 (httpd).
+kernel: Out of Memory: Killed process 32729 (httpd).
+kernel: Out of Memory: Killed process 6242 (httpd).
+kernel: Out of Memory: Killed process 3197 (python).
+ -- root[2417]: ROOT LOGIN ON tty2
+sshd(pam_unix)[18515]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.69.8.78  user=test
+su(pam_unix)[8777]: session closed for user cyrus
+ftpd[6529]: connection from 83.27.214.35 () at Sun Feb 26 01:43:47 2006 
+kernel: Out of Memory: Killed process 25603 (httpd).
+ftpd[17586]: connection from 80.139.83.186 (p508B53BA.dip.t-dialin.net) at Sun Aug  7 21:36:25 2005 
+ftpd[6148]: connection from 84.102.20.91 (91.20.102-84.rev.gaoland.net) at Fri Feb 24 01:20:20 2006 
+ftpd[4322]: connection from 209.184.7.130 () at Sat Jun 11 03:28:24 2005 
+kernel: Out of Memory: Killed process 458 (httpd).
+kernel: Out of Memory: Killed process 20429 (python).
+named[2281]: no longer listening on 63.126.79.83#53
+kernel: Out of Memory: Killed process 18949 (python).
+named[2281]: listening on IPv4 interface eth0:2, 63.126.79.70#53
+kernel: agpgart: detected 4MB dedicated video ram.
+kernel: isapnp: Scanning for PnP cards...
+kernel:  [<02142ed7>] grow_dev_page+0x27/0xc3
+kernel: Out of Memory: Killed process 5745 (httpd).
+kernel: audit(1138296106.081:244398): avc:  denied  { read } for  pid=725 exe=/sbin/lvm.static dev= ino=1 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:devpts_t tclass=dir
+kernel: Out of Memory: Killed process 5775 (httpd).
+kernel: Out of Memory: Killed process 29791 (httpd).
+ftpd[28834]: connection from 211.107.232.1 () at Wed Aug  3 06:20:34 2005 
+named[2288]: listening on IPv4 interface eth0:21, 63.126.79.120#53
+ftpd[22668]: connection from 211.107.232.1 () at Sun Jul 24 13:46:34 2005 
+ftpd[24196]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:43 2005 
+kernel: Out of Memory: Killed process 28611 (httpd).
+sshd(pam_unix)[4064]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root
+kernel: NET: Registered protocol family 16
+kernel: Out of Memory: Killed process 14630 (httpd).
+kernel: Out of Memory: Killed process 24832 (httpd).
+kernel: Out of Memory: Killed process 25872 (httpd).
+ftpd[21290]: connection from 211.107.232.1 () at Sun Oct 16 12:31:50 2005 
+kernel: Out of Memory: Killed process 25875 (httpd).
+kernel: Out of Memory: Killed process 15698 (httpd).
+kernel: Out of Memory: Killed process 16493 (python).
+kernel: Call Trace:
+kernel: Out of Memory: Killed process 6430 (mrtg).
+kernel: Out of Memory: Killed process 29388 (httpd).
+kernel: Out of Memory: Killed process 26455 (httpd).
+sshd(pam_unix)[28801]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=mail.ntsec.gov.tw 
+kernel:  [<021060c2>] show_trace+0x92/0x97
+kernel: Out of Memory: Killed process 26234 (httpd).
+kernel: Out of Memory: Killed process 31801 (httpd).
+kernel: Out of Memory: Killed process 24952 (httpd).
+kernel: Out of Memory: Killed process 20859 (httpd).
+kernel: Out of Memory: Killed process 5005 (httpd).
+smartd: smartd startup succeeded
+su(pam_unix)[9572]: session closed for user news
+ftpd[29802]: connection from 200.247.141.95 (141095.fln.virtua.com.br) at Sun Aug 28 09:59:33 2005 
+sshd(pam_unix)[16983]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+sshd(pam_unix)[12392]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+kernel: Out of Memory: Killed process 6436 (httpd).
+sshd(pam_unix)[2111]: check pass; user unknown
+xinetd[2003]: bind failed (Address already in use (errno = 98)). service = telnet
+udev[12754]: removing device node '/udev/vcsa2'
+kernel: Out of Memory: Killed process 30079 (httpd).
+kernel: Out of Memory: Killed process 13825 (httpd).
+sshd(pam_unix)[7675]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.185.162.130  user=root
+kernel: Out of Memory: Killed process 8392 (httpd).
+ftpd[6500]: connection from 203.118.34.27 () at Sat Feb 25 18:33:27 2006 
+sshd(pam_unix)[18019]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.101.42.106  user=root
+kernel: Out of Memory: Killed process 29418 (httpd).
+canna:  succeeded
+ftpd[29790]: connection from 200.247.141.95 (141095.fln.virtua.com.br) at Sun Aug 28 09:59:33 2005 
+kernel: Out of Memory: Killed process 6072 (httpd).
+rpc.statd[1605]: gethostbyname error for ^X���^X���^Z���^Z���%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+kernel: Out of Memory: Killed process 25493 (httpd).
+sshd(pam_unix)[19642]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+sshd(pam_unix)[27320]: check pass; user unknown
+ftpd[14492]: connection from 212.194.100.8 (l03m-212-194-100-8.d4.club-internet.fr) at Thu Sep 22 22:41:33 2005 
+kernel: Out of Memory: Killed process 22157 (httpd).
+sshd(pam_unix)[3878]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.206.147  user=test
+kernel: Out of Memory: Killed process 26958 (httpd).
+kernel: Out of Memory: Killed process 24898 (httpd).
+kernel:  [<0211c38d>] proc_dointvec+0x11/0x15
+kernel: Out of Memory: Killed process 11376 (httpd).
+kernel: DMI 2.3 present.
+rc: Starting readahead:  succeeded
+sshd(pam_unix)[25752]: check pass; user unknown
+sshd(pam_unix)[6377]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.98.81.12  user=root
+kernel: Out of Memory: Killed process 13439 (sendmail).
+ftpd[29787]: connection from 200.247.141.95 (141095.fln.virtua.com.br) at Sun Aug 28 09:59:33 2005 
+ftpd[22071]: connection from 208.49.139.147 () at Fri Jan 13 07:12:14 2006 
+kernel: Out of Memory: Killed process 6541 (python).
+sshd(pam_unix)[19085]: check pass; user unknown
+ftpd[22068]: connection from 208.49.139.147 () at Fri Jan 13 07:12:14 2006 
+su(pam_unix)[31373]: session opened for user news by (uid=0)
+sshd(pam_unix)[2864]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.118.94.55 
+ftpd[11352]: connection from 84.57.172.16 (dslb-084-057-172-016.pools.arcor-ip.net) at Sat Nov  5 06:43:23 2005 
+unix_chkpwd[4309]: check pass; user unknown
+kernel: Out of Memory: Killed process 32558 (httpd).
+ftpd[24090]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:19 2005 
+sshd(pam_unix)[9866]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ev1s-216-127-80-2.ev1servers.net 
+kernel: Call Trace:
+sshd(pam_unix)[23784]: check pass; user unknown
+kernel: Out of Memory: Killed process 5036 (httpd).
+sshd(pam_unix)[28625]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ztc2-f.nas.tiscali.de  user=root
+smartd[1786]: Device: /dev/hda, found in smartd database. 
+sshd(pam_unix)[22918]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+unix_chkpwd[3565]: check pass; user unknown
+kernel:  [<0213647b>] handle_mm_fault+0x71/0xe2
+kernel: Out of Memory: Killed process 30206 (httpd).
+kernel: Out of Memory: Killed process 6144 (httpd).
+kernel:  [<0213f423>] put_user_size+0x29/0x2d
+ftpd[25055]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:18 2005 
+kernel: Out of Memory: Killed process 1483 (httpd).
+kernel: Out of Memory: Killed process 9211 (httpd).
+kernel: Out of Memory: Killed process 32708 (httpd).
+kernel: Out of Memory: Killed process 4906 (httpd).
+sshd(pam_unix)[6558]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-63-163-84.static.exatt.net  user=root
+named[2306]: listening on IPv4 interface eth0:21, 63.126.79.120#53
+logrotate: ALERT exited abnormally with [1]
+ftpd[7494]: connection from 64.34.92.187 () at Sat Oct  8 22:31:30 2005 
+kernel: cdrom: open failed.
+su(pam_unix)[27145]: session closed for user cyrus
+su(pam_unix)[5493]: session closed for user news
+kernel: Out of Memory: Killed process 3945 (httpd).
+kernel: Out of Memory: Killed process 7156 (httpd).
+ftpd[21277]: connection from 211.107.232.1 () at Sun Oct 16 12:31:50 2005 
+ftpd[28830]: connection from 211.107.232.1 () at Wed Aug  3 06:20:34 2005 
+kernel: Capability LSM initialized
+kernel: Out of Memory: Killed process 25817 (httpd).
+telnetd[16739]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+kernel: Out of Memory: Killed process 12145 (python).
+sshd(pam_unix)[19642]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.75.224.23  user=root
+ftpd[21297]: connection from 211.107.232.1 () at Sun Oct 16 12:31:51 2005 
+kernel: Out of Memory: Killed process 27765 (httpd).
+ftpd[30425]: connection from 211.107.232.1 () at Mon Sep  5 07:21:28 2005 
+sshd(pam_unix)[30484]: check pass; user unknown
+kernel: Out of Memory: Killed process 27632 (httpd).
+kernel: Out of Memory: Killed process 25188 (httpd).
+ftpd[28832]: connection from 85.182.21.189 (e182021189.adsl.alicedsl.de) at Mon Nov 14 20:48:03 2005 
+ -- root[2402]: ROOT LOGIN ON tty2
+kernel: Out of Memory: Killed process 5070 (httpd).
+su(pam_unix)[12717]: session closed for user cyrus
+kernel: Out of Memory: Killed process 25770 (httpd).
+ftpd[17683]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005 
+kernel: Out of Memory: Killed process 29165 (httpd).
+kernel: Out of Memory: Killed process 2006 (httpd).
+kernel: Out of Memory: Killed process 28257 (httpd).
+logrotate: ALERT exited abnormally with [1]
+kernel: Out of Memory: Killed process 29137 (httpd).
+kernel: Out of Memory: Killed process 14735 (httpd).
+su(pam_unix)[8809]: session opened for user news by (uid=0)
+sshd(pam_unix)[25752]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-77-13.hinet-ip.hinet.net 
+kernel: Out of Memory: Killed process 4695 (httpd).
+kernel: Out of Memory: Killed process 15145 (httpd).
+kernel: Out of Memory: Killed process 3118 (httpd).
+sshd(pam_unix)[16954]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4 
+cups: cupsd startup succeeded
+ftpd[10003]: connection from 66.15.25.56 (bdsl.66.15.25.56.gte.net) at Fri Nov 18 09:13:21 2005 
+kernel: audit(1138296111.616:324631): syscall=10 exit=0 a0=fef124d0 a1=8f30a88 a2=fef124d0 a3=fef125e8 items=1 pid=1205 loginuid=-1 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0
+kernel: Out of Memory: Killed process 20462 (httpd).
+kernel: Out of Memory: Killed process 3883 (httpd).
+kernel: Out of Memory: Killed process 8538 (httpd).
+sshd(pam_unix)[5992]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203186089173.ctinets.com  user=root
+sshd(pam_unix)[19434]: session closed for user test
+sshd(pam_unix)[3308]: check pass; user unknown
+kernel: Out of Memory: Killed process 8815 (httpd).
+sshd(pam_unix)[30885]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.183.248.130 
+ntpd[2310]: kernel time sync enabled 0001
+kernel: Out of Memory: Killed process 23258 (httpd).
+sshd(pam_unix)[1325]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root
+kernel: Out of Memory: Killed process 6138 (httpd).
+kernel:  [<0212c71b>] filemap_nopage+0x119/0x26d
+kernel: Out of Memory: Killed process 31187 (httpd).
+sshd(pam_unix)[24895]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=server3.sugolan.hu 
+ftpd[29667]: connection from 211.107.232.1 () at Fri Nov 11 08:45:20 2005 
+ftpd[6649]: connection from 148.223.155.2 () at Sun Feb 26 17:21:21 2006 
+ftpd[2308]: connection from 200.207.16.97 (200-207-16-97.dsl.telesp.net.br) at Thu Sep 15 17:30:15 2005 
+10.11.22.49,10.11.10.1 "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 200 len: 124 time: 0.0008800
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 211 time: 0.1013060
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2709739
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1575 time: 0.1918802
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2638071
+[instance: 0848507e-4a2e-4d97-b8b5-6e2551687d8a] VM Started (Lifecycle Event)
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.4147849
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1909 time: 0.2477260
+HTTP exception thrown: No instances found for any event
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage
+10.11.23.67,10.11.10.1 "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 119 time: 0.0010111
+[instance: f69e1c6e-99b5-42b9-8514-1cd84b8b883f] Creating image
+10.11.22.80,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.0009100
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2460160
+10.11.23.19,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.0007811
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 211 time: 0.0921841
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2619200
+[instance: 12810dab-abca-497a-934f-d31d11241d26] During sync_power_state the instance has a pending task (spawning). Skip.
+10.11.10.1 "DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/5f2d279b-0e0b-43aa-875e-051fe2d00788 HTTP/1.1" status: 204 len: 203 time: 0.2550051
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2755470
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+[instance: ec50359a-0be6-4590-a7ec-7169bc4080bb] Claim successful
+[instance: b9faa634-567b-4a9a-aa8f-ba70f17b0726] During sync_power_state the instance has a pending task (spawning). Skip.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2626898
+10.11.21.248,10.11.10.1 "GET /openstack/2013-10-17 HTTP/1.1" status: 200 len: 157 time: 0.2336731
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+Final resource view: name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB used_ram=2560MB phys_disk=15GB used_disk=20GB total_vcpus=16 used_vcpus=1 pci_stats=[]
+[instance: 63d444af-3e78-4fbb-a4bc-2660764cda7e] Took 19.86 seconds to spawn the instance on the hypervisor.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1910 time: 0.2872419
+10.11.21.189,10.11.10.1 "GET /openstack/2013-10-17/meta_data.json HTTP/1.1" status: 200 len: 967 time: 0.2353461
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.3508129
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1914 time: 0.2696900
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/81da3bf9-8ee9-4a9b-9247-945721862129 HTTP/1.1" status: 200 len: 1708 time: 0.2028770
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2632089
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2510600
+10.11.22.209,10.11.10.1 "GET /openstack/2013-10-17/user_data HTTP/1.1" status: 404 len: 176 time: 0.0009890
+Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1583 time: 0.3159201
+[instance: 52ce96af-f619-43fe-b23f-b18b1457f07f] During sync_power_state the instance has a pending task (spawning). Skip.
+10.11.22.178,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.0009360
+Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+[instance: 0d05e0d1-a5a4-4bfb-b792-caa3039d2ff7] Took 0.50 seconds to deallocate network for instance.
+[instance: c6dab644-7a8e-435d-bb95-3ae671f50415] Instance spawned successfully.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1759 time: 0.2737150
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+[instance: c4dd0e88-ddc1-4145-b263-268c84514a16] Took 0.49 seconds to deallocate network for instance.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1759 time: 0.2610021
+[instance: 78efac6c-e537-47b2-a472-a643970192ca] Deletion of /var/lib/nova/instances/78efac6c-e537-47b2-a472-a643970192ca_del complete
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+[instance: 596f0ebb-b925-45e5-934b-3855bdf2c84b] disk limit not specified, defaulting to unlimited
+Removable base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.22.41,10.11.10.1 "GET /openstack/2013-10-17/user_data HTTP/1.1" status: 404 len: 176 time: 0.0010989
+10.11.21.237,10.11.10.1 "GET /openstack/2013-10-17 HTTP/1.1" status: 200 len: 157 time: 0.0007958
+[instance: d64f094b-78f7-41e2-9507-5abfe6eb1677] Creating image
+10.11.10.1 "POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1" status: 200 len: 380 time: 0.1000991
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/d4ad9354-5b30-41dd-a6d1-64bba490b177 HTTP/1.1" status: 200 len: 1708 time: 0.1901529
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+[instance: e8ecd119-c0c2-4553-a97c-172be8c2909e] VM Paused (Lifecycle Event)
+10.11.10.1 "POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1" status: 404 len: 296 time: 0.0984080
+10.11.10.2 "GET /v2/e9746973ac574c6b8a9e8857f56a7608/images/0673dd71-34c5-4fbb-86c4-40623fbe45b4 HTTP/1.1" status: 200 len: 868 time: 0.1613109
+[instance: 5fbc00d0-d80d-443c-a788-2bbbbb289d55] Claim successful
+[instance: a3d558dd-c28f-49c8-94b7-e6953d9eb0d3] Deleting instance files /var/lib/nova/instances/a3d558dd-c28f-49c8-94b7-e6953d9eb0d3_del
+Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2647500
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2623291
+[instance: 2626b146-d0a7-444f-b114-e0040c9616c0] disk limit not specified, defaulting to unlimited
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2609200
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2543030
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2670140
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1915 time: 0.3151109
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+Removable base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+[instance: d0c4724b-7a63-4f94-829d-2e60f6f8373a] Deleting instance files /var/lib/nova/instances/d0c4724b-7a63-4f94-829d-2e60f6f8373a_del
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2734780
+[instance: 5abf034c-26bb-487b-a2db-6c4b068c7f88] Took 0.46 seconds to deallocate network for instance.
+10.11.23.51,10.11.10.1 "GET /openstack/2013-10-17/meta_data.json HTTP/1.1" status: 200 len: 967 time: 0.2352040
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.4340329
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2714422
+[instance: d21a1c8c-7cb5-4a44-9116-7b7db675add2] Terminating instance
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2608290
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.4212821
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2693400
+[instance: 4decc942-058b-4714-8c30-941a98268f24] Deleting instance files /var/lib/nova/instances/4decc942-058b-4714-8c30-941a98268f24_del
+[instance: 7a16f155-5396-4ef8-b2cb-f01a5329efa6] Took 1.02 seconds to destroy the instance on the hypervisor.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.4414010
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1915 time: 0.2960200
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2565382
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2565641
+10.11.21.143,10.11.10.1 "GET /openstack/2013-10-17/user_data HTTP/1.1" status: 404 len: 176 time: 0.2187860
+[instance: 5b539639-bf20-486e-be9c-fe8ebb07e39f] During sync_power_state the instance has a pending task (spawning). Skip.
+[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Took 0.46 seconds to deallocate network for instance.
+Base or swap file too young to remove: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.23.83,10.11.10.1 "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 200 len: 124 time: 0.0010009
+10.11.22.13,10.11.10.1 "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 200 len: 124 time: 0.2220340
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage
+10.11.23.57,10.11.10.1 "GET /openstack/2013-10-17 HTTP/1.1" status: 200 len: 157 time: 0.0011492
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1873 time: 0.1969230
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2500219
+10.11.22.64,10.11.10.1 "GET /latest/meta-data/reservation-id HTTP/1.1" status: 200 len: 127 time: 0.0006311
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2708201
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2679939
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.3752551
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.4230561
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/b661e958-4019-40b9-a4f6-e7a87a07065b HTTP/1.1" status: 200 len: 1708 time: 0.1930552
+[instance: d0c4724b-7a63-4f94-829d-2e60f6f8373a] Claim successful
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2720389
+[instance: 0c00aa0a-aa89-4853-8b8b-dec763187de3] During sync_power_state the instance has a pending task (spawning). Skip.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1583 time: 0.1822610
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2514780
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2797019
+[instance: c63205b0-986c-4eea-99d5-798bbd7d3e6c] During sync_power_state the instance has a pending task (spawning). Skip.
+[instance: b8ff50d1-a85a-4a34-afd7-907b7f7c8f25] Took 1.02 seconds to destroy the instance on the hypervisor.
+10.11.22.197,10.11.10.1 "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 119 time: 0.0008900
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1910 time: 0.2556820
+10.11.22.3,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.2380669
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2691691
+Compute_service record updated for cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1759 time: 0.2759531
+The instance sync for host 'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us' did not match. Re-created its InstanceList.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2525041
+[instance: 072ee339-469e-4fc7-a63b-76ae84e40468] memory limit: 96258.00 MB, free: 95746.00 MB
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+Removable base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2747571
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2717781
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1916 time: 0.2938459
+10.11.22.113,10.11.10.1 "GET /openstack/2013-10-17/user_data HTTP/1.1" status: 404 len: 176 time: 0.0011160
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2707901
+Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+[instance: 84559170-4caa-4346-a612-1a85643a004b] Took 0.49 seconds to deallocate network for instance.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2667661
+Removing base or swap file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+Removing base or swap file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2690351
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2629969
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+[instance: ea432c2b-b487-4589-b8b7-6f7c42061901] Total vcpu: 16 VCPU, used: 0.00 VCPU
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2564881
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2682528
+[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 211 time: 0.1035738
+10.11.22.52,10.11.10.1 "GET /openstack/2013-10-17 HTTP/1.1" status: 200 len: 157 time: 0.0008938
+10.11.22.145,10.11.10.1 "GET /openstack/2013-10-17/meta_data.json HTTP/1.1" status: 200 len: 967 time: 0.2191091
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.3695500
+[instance: 4c05d52b-13c2-403a-8550-82cc48281502] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU
+[instance: 368ddf11-aef5-4759-9564-fabb3dc85944] VM Resumed (Lifecycle Event)
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2576230
+[instance: 73e637e2-4d0b-4fc5-9879-ad54bed8eb67] VM Stopped (Lifecycle Event)
+[instance: 7521581b-d4a0-42ad-b932-32a6cc4670ae] Instance destroyed successfully.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1583 time: 0.1948431
+HTTP exception thrown: No instances found for any event
+10.11.22.234,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.0009000
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2668700
+[instance: f0714595-fe6d-4058-9656-f6df6f650da6] memory limit: 96258.00 MB, free: 95746.00 MB
+Creating event network-vif-plugged:a299074d-4d32-4521-9008-8f48b60e74cc for instance 4ebf6f8b-cff3-4d30-b3ae-bf79dff9612c
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 211 time: 0.0954969
+[instance: b3f0545e-984a-4f38-b791-167aefdd15de] Total disk: 15 GB, used: 0.00 GB
+[instance: 707c4300-560b-45f1-8e35-006fca731ef7] Deleting instance files /var/lib/nova/instances/707c4300-560b-45f1-8e35-006fca731ef7_del
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+[instance: 8ce3e487-6ddb-4e85-997b-c2e12d7cec27] VM Resumed (Lifecycle Event)
+10.11.22.92,10.11.10.1 "GET /latest/meta-data/placement/availability-zone HTTP/1.1" status: 200 len: 120 time: 0.0009131
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2722781
+[instance: ee612186-b333-472a-9177-cf887b38e50c] VM Paused (Lifecycle Event)
+[instance: bf157c45-e307-4b58-9e7f-b23afa35a1a8] Took 20.22 seconds to build instance.
+HTTP exception thrown: No instances found for any event
+[instance: c3e7b38c-29b7-4ecf-be65-d07c152c72a0] VM Resumed (Lifecycle Event)
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1874 time: 0.1961801
+[instance: bf8c824d-f099-4433-a41e-e3da7578262e] Instance spawned successfully.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2726750
+10.11.21.232,10.11.10.1 "GET /openstack/2013-10-17/user_data HTTP/1.1" status: 404 len: 176 time: 0.2252851
+[instance: e36998cb-4105-4dc2-bd10-3bdc58754e85] During sync_power_state the instance has a pending task (spawning). Skip.
+10.11.10.2 "GET /v2/e9746973ac574c6b8a9e8857f56a7608/servers/detail?all_tenants=True&changes-since=2017-05-16T11%3A05%3A11.545043%2B00%3A00&host=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us HTTP/1.1" status: 200 len: 24903 time: 0.3452101
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2718050
+[instance: c88d8f83-c75d-42ff-9438-a71901b1bce4] VM Stopped (Lifecycle Event)
+Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+Removable base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2569928
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/bbf045ee-b149-478f-881b-91910d61a237 HTTP/1.1" status: 200 len: 1708 time: 0.2096272
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2499459
+10.11.22.175,10.11.10.1 "GET /openstack/2012-08-10/meta_data.json HTTP/1.1" status: 200 len: 264 time: 0.3796000
+10.11.22.73,10.11.10.1 "GET /openstack/2013-10-17/user_data HTTP/1.1" status: 404 len: 176 time: 0.0015390
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2515409
+10.11.22.204,10.11.10.1 "GET /latest/meta-data/local-hostname HTTP/1.1" status: 200 len: 130 time: 0.0008459
+HTTP exception thrown: No instances found for any event
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1910 time: 0.2593510
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2551749
+[instance: bf4d95b9-1a26-4197-9247-5175f8edf2da] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU
+10.11.22.223,10.11.10.1 "GET /openstack/2013-10-17/meta_data.json HTTP/1.1" status: 200 len: 967 time: 0.2194850
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2632790
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2608709
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1583 time: 0.1817310
+10.11.21.245,10.11.10.1 "GET /openstack/2013-10-17/meta_data.json HTTP/1.1" status: 200 len: 967 time: 0.0013561
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+[instance: aed1bc1c-a084-4de7-b100-5cbcc35168b7] memory limit: 96258.00 MB, free: 95746.00 MB
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2575231
+10.11.10.1 "POST /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers HTTP/1.1" status: 202 len: 733 time: 0.4942961
+10.11.22.143,10.11.10.1 "GET /latest/meta-data/public-hostname HTTP/1.1" status: 200 len: 130 time: 0.0006731
+[instance: ec564347-1498-4111-a940-82b3b6466b33] VM Started (Lifecycle Event)
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2501070
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2704518
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+10.11.21.139,10.11.10.1 "GET /openstack/2012-08-10/meta_data.json HTTP/1.1" status: 200 len: 264 time: 0.2261620
+[instance: d5000396-5d1e-48b2-9252-b625aa019c78] disk limit not specified, defaulting to unlimited
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 211 time: 0.0971401
+10.11.10.1 "POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1" status: 404 len: 296 time: 0.0832429
+[instance: a3d558dd-c28f-49c8-94b7-e6953d9eb0d3] Took 20.16 seconds to spawn the instance on the hypervisor.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1575 time: 0.2004640
+HTTP exception thrown: No instances found for any event
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2485890
+10.11.23.3,10.11.10.1 "GET /openstack/2013-10-17 HTTP/1.1" status: 200 len: 157 time: 0.0005701
+[instance: 40260cde-fb03-4cbf-a092-72c0567adab8] During sync_power_state the instance has a pending task (spawning). Skip.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/dd148c9a-7111-4c36-8a9c-257ff7b91676 HTTP/1.1" status: 200 len: 1708 time: 0.1845880
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2484341
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2657800
+[instance: ecb81c5b-d5f6-44fb-8ca2-33b08e17a2d6] VM Resumed (Lifecycle Event)
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.3890018
+[instance: 1c8ffc22-6cc5-401d-958c-868ab9751dfa] Claim successful
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2549970
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2724361
+Auditing locally available compute resources for node cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+Final resource view: name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB used_ram=2560MB phys_disk=15GB used_disk=20GB total_vcpus=16 used_vcpus=1 pci_stats=[]
+[instance: 3c36a177-d3f9-4a56-bc54-ca63a5b47191] disk limit not specified, defaulting to unlimited
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/ec564347-1498-4111-a940-82b3b6466b33 HTTP/1.1" status: 200 len: 1708 time: 0.1920340
+[instance: 46c7c600-a921-4c6a-92f0-de5fd5ddf5da] Deleting instance files /var/lib/nova/instances/46c7c600-a921-4c6a-92f0-de5fd5ddf5da_del
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2746820
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2739339
+[instance: 465bb2f8-7656-48b1-bcbb-09ee3689ff96] VM Paused (Lifecycle Event)
+10.11.23.53,10.11.10.1 "GET /latest/meta-data/ HTTP/1.1" status: 200 len: 328 time: 0.0009520
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2585580
+10.11.23.5,10.11.10.1 "GET /openstack/2013-10-17 HTTP/1.1" status: 200 len: 157 time: 0.2234800
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.3695650
+[instance: e244a902-f56e-4dee-9c5d-cf9a29530eff] Creating image
+[instance: d30ce55b-5fbf-411c-be3a-60ae8ed042c2] Took 20.34 seconds to build instance.
+Removable base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.21.192,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.2328150
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1874 time: 0.2083008
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2550619
+[instance: 1c394f79-f847-47d6-bfdb-71af12b013bc] Took 1.02 seconds to destroy the instance on the hypervisor.
+[instance: 4c7ab76b-1116-41a5-ab7f-7679bb705fcd] Claim successful
+[instance: 4479562d-016e-4608-94c1-41b4b5e5a6b2] Took 19.28 seconds to spawn the instance on the hypervisor.
+[instance: dc9531d8-1f60-48b5-b92f-b12f5f2f194a] Deleting instance files /var/lib/nova/instances/dc9531d8-1f60-48b5-b92f-b12f5f2f194a_del
+[instance: 28175f2d-d99c-4f83-89f5-64839f5a9122] VM Resumed (Lifecycle Event)
+[instance: 30f37fa4-d3ca-4fde-9747-c6352ba6c4cd] Deletion of /var/lib/nova/instances/30f37fa4-d3ca-4fde-9747-c6352ba6c4cd_del complete
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+10.11.10.1 "POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1" status: 200 len: 380 time: 0.0928779
+10.11.10.1 "POST /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers HTTP/1.1" status: 202 len: 733 time: 0.5185781
+Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2638021
+[instance: 6d638795-cb9b-4436-a09e-2626e8736908] VM Resumed (Lifecycle Event)
+10.11.10.1 "POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1" status: 200 len: 380 time: 0.0883870
+10.11.22.131,10.11.10.1 "GET /openstack/2013-10-17 HTTP/1.1" status: 200 len: 157 time: 0.0008821
+[instance: 61e4de4e-0d2b-44ff-abe4-a80a69fb401e] Took 18.90 seconds to spawn the instance on the hypervisor.
+10.11.22.220,10.11.10.1 "GET /openstack/2013-10-17/meta_data.json HTTP/1.1" status: 200 len: 967 time: 0.2277350
+10.11.23.152,10.11.10.1 "GET /openstack/2013-10-17/meta_data.json HTTP/1.1" status: 200 len: 967 time: 0.0009539
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+[instance: 0b6043cc-82fc-422a-87f2-11772af8f038] Deletion of /var/lib/nova/instances/0b6043cc-82fc-422a-87f2-11772af8f038_del complete
+[instance: 562b21b2-1c01-44b6-832a-2e676ba40387] Total memory: 64172 MB, used: 512.00 MB
+Compute_service record updated for cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2765160
+10.11.21.124,10.11.10.1 "GET /openstack/2013-10-17/meta_data.json HTTP/1.1" status: 200 len: 967 time: 0.2326000
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2742682
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1873 time: 0.2093039
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1910 time: 0.2513249
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1759 time: 0.2756851
+[instance: ee5c5fce-3fa7-4ed3-a5bc-8107e9f3b86e] During sync_power_state the instance has a pending task (spawning). Skip.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1759 time: 0.3888381
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2821000
+Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.22.185,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.2278359
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.23.45,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.2326381
+[instance: 9c7f8485-8acd-4525-9953-cfdf56ffc87e] Total memory: 64172 MB, used: 512.00 MB
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2595351
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+[instance: b62b548c-f9d6-4943-97fc-00887728434b] Instance destroyed successfully.
+Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+[instance: 5d1df174-b0a7-4eed-852b-d7c944d102c0] vcpu limit not specified, defaulting to unlimited
+10.11.21.243,10.11.10.1 "GET /openstack/2013-10-17/user_data HTTP/1.1" status: 404 len: 176 time: 0.0010149
+[instance: 76162958-8610-4988-a3ff-2647c28ca028] VM Stopped (Lifecycle Event)
+Removable base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+[instance: 588c1967-e353-4a5d-bdc1-8ce3c545cf94] VM Paused (Lifecycle Event)
+10.11.22.39,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.0008631
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.4434240
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2544849
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+[instance: 465bb2f8-7656-48b1-bcbb-09ee3689ff96] disk limit not specified, defaulting to unlimited
+[instance: 1a4e14d3-31d8-40ee-836b-d20ef49b2cc0] memory limit: 96258.00 MB, free: 95746.00 MB
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2672272
+Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2663500
+[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] During sync_power_state the instance has a pending task (spawning). Skip.
+[instance: dd687fcd-b266-4ca7-8824-3c5365738b34] Creating image
+[instance: 8846d4cc-f2cd-45ec-9d97-962a9206e070] Creating image
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2431300
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage
+10.11.22.245,10.11.10.1 "GET /openstack/2013-10-17/user_data HTTP/1.1" status: 404 len: 176 time: 0.0029571
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1583 time: 0.1943228
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+HTTP exception thrown: No instances found for any event
+Creating event network-vif-plugged:e96d6cae-dbfa-4288-9719-37edd46923ad for instance bdcd8b9c-d6cf-4ecc-928b-47bf93cf5542
+[instance: ac58d7b1-6ee0-48da-b83c-895fd60d2f31] Instance destroyed successfully.
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+[instance: f62173ce-6976-4b89-949e-491776eddf4a] Took 0.58 seconds to deallocate network for instance.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2739770
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1910 time: 0.2588530
+Auditing locally available compute resources for node cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us
+10.11.10.1 "POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1" status: 200 len: 380 time: 0.0979149
+[instance: d6f2630d-1a41-4891-bb57-407ddd63e20c] Terminating instance
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2457311
+[instance: dd3f60d2-51ec-4485-80d4-fcc68bc09152] Creating image
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2581029
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1892 time: 0.2582281
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1759 time: 0.2650902
+[instance: d0463ab4-d5fa-4519-960e-c93d3f17843e] Took 0.44 seconds to deallocate network for instance.
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage
+[instance: c2d6fb8f-e346-40e9-8443-b2be00c3a9a9] VM Paused (Lifecycle Event)
+executor.Executor: Finished task 24690.0 in stage 0.0 (TID 23304). 1835 bytes result sent to driver
+executor.CoarseGrainedExecutorBackend: Got assigned task 6419
+executor.Executor: Finished task 47454.0 in stage 0.0 (TID 45365). 1835 bytes result sent to driver
+executor.Executor: Running task 27070.0 in stage 0.0 (TID 25593)
+executor.Executor: Running task 17158.0 in stage 0.0 (TID 15998)
+executor.Executor: Running task 35750.0 in stage 0.0 (TID 34096)
+executor.Executor: Running task 34042.0 in stage 0.0 (TID 32415)
+executor.CoarseGrainedExecutorBackend: Registered signal handlers for [TERM, HUP, INT]
+executor.Executor: Running task 8982.0 in stage 0.0 (TID 8127)
+Remoting: Remoting started; listening on addresses :[akka.tcp://driverPropsFetcher@mesos-slave-30:48707]
+executor.Executor: Finished task 32278.0 in stage 0.0 (TID 30689). 1835 bytes result sent to driver
+executor.CoarseGrainedExecutorBackend: Got assigned task 53756
+executor.Executor: Finished task 11894.0 in stage 0.0 (TID 10940). 1835 bytes result sent to driver
+executor.CoarseGrainedExecutorBackend: Got assigned task 22736
+executor.Executor: Running task 46838.0 in stage 0.0 (TID 44804)
+executor.Executor: Finished task 59662.0 in stage 0.0 (TID 56808). 1835 bytes result sent to driver
+executor.Executor: Running task 59074.0 in stage 0.0 (TID 56332)
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00082214.JPEG:0+152877
+storage.MemoryStore: Block broadcast_0 stored as values in memory (estimated size 330.9 KB, free 529.9 MB)
+executor.Executor: Finished task 5482.0 in stage 0.0 (TID 4737). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00034467.JPEG:0+121537,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00034468.JPEG:0+144207
+executor.Executor: Running task 20630.0 in stage 0.0 (TID 19363)
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00076450.JPEG:0+110998,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00076465.JPEG:0+152831
+executor.CoarseGrainedExecutorBackend: Got assigned task 4737
+executor.Executor: Finished task 38046.0 in stage 0.0 (TID 36307). 1835 bytes result sent to driver
+executor.Executor: Running task 30542.0 in stage 0.0 (TID 28999)
+executor.CoarseGrainedExecutorBackend: Got assigned task 39125
+util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 40385.
+spark.SecurityManager: Changing modify acls to: yarn,yxsu
+executor.Executor: Finished task 15394.0 in stage 0.0 (TID 14311). 1835 bytes result sent to driver
+executor.CoarseGrainedExecutorBackend: Got assigned task 9255
+executor.Executor: Running task 49778.0 in stage 0.0 (TID 47592)
+executor.Executor: Running task 582.0 in stage 0.0 (TID 513)
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00021361.JPEG:0+88737,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00021414.JPEG:0+102193
+executor.Executor: Finished task 39754.0 in stage 0.0 (TID 37990). 1835 bytes result sent to driver
+executor.Executor: Finished task 23542.0 in stage 0.0 (TID 22166). 1835 bytes result sent to driver
+executor.Executor: Running task 39166.0 in stage 0.0 (TID 37437)
+executor.CoarseGrainedExecutorBackend: Got assigned task 30689
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00073466.JPEG:0+129847,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00073496.JPEG:0+81715
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00022616.JPEG:0+168517
+broadcast.TorrentBroadcast: Reading broadcast variable 0 took 199 ms
+executor.Executor: Running task 50926.0 in stage 0.0 (TID 48699)
+executor.Executor: Finished task 15982.0 in stage 0.0 (TID 14881). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00086982.JPEG:0+159275
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00033703.JPEG:0+178008
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00029921.JPEG:0+167281
+executor.Executor: Running task 27630.0 in stage 0.0 (TID 26168)
+executor.Executor: Finished task 46838.0 in stage 0.0 (TID 44804). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00037474.JPEG:0+75657,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00037487.JPEG:0+91873
+executor.Executor: Running task 13658.0 in stage 0.0 (TID 12640)
+executor.Executor: Finished task 48602.0 in stage 0.0 (TID 46471). 1835 bytes result sent to driver
+broadcast.TorrentBroadcast: Started reading broadcast variable 1
+executor.Executor: Running task 25894.0 in stage 0.0 (TID 24465)
+executor.CoarseGrainedExecutorBackend: Got assigned task 37990
+executor.Executor: Running task 56162.0 in stage 0.0 (TID 53756)
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00022362.JPEG:0+166205
+executor.CoarseGrainedExecutorBackend: Got assigned task 59943
+executor.CoarseGrainedExecutorBackend: Got assigned task 49253
+executor.Executor: Finished task 50926.0 in stage 0.0 (TID 48699). 1835 bytes result sent to driver
+executor.Executor: Running task 24102.0 in stage 0.0 (TID 22736)
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00099245.JPEG:0+113845,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00099247.JPEG:0+82894
+executor.Executor: Running task 28218.0 in stage 0.0 (TID 26732)
+executor.CoarseGrainedExecutorBackend: Got assigned task 41372
+executor.Executor: Running task 3718.0 in stage 0.0 (TID 3145)
+executor.Executor: Running task 29954.0 in stage 0.0 (TID 28431)
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00016666.JPEG:0+45194,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00016682.JPEG:0+223454
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00038481.JPEG:0+172027
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00093645.JPEG:0+74945,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00093646.JPEG:0+151050
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00050783.JPEG:0+7868,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00050835.JPEG:0+163263
+executor.CoarseGrainedExecutorBackend: Got assigned task 8127
+Remoting: Remoting started; listening on addresses :[akka.tcp://sparkExecutor@mesos-slave-30:47645]
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00025235.JPEG:0+111900,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00025244.JPEG:0+193646
+executor.CoarseGrainedExecutorBackend: Got assigned task 14881
+executor.Executor: Running task 59662.0 in stage 0.0 (TID 56808)
+executor.CoarseGrainedExecutorBackend: Got assigned task 14311
+storage.MemoryStore: Block broadcast_0_piece0 stored as bytes in memory (estimated size 19.6 KB, free 530.3 MB)
+executor.Executor: Finished task 7246.0 in stage 0.0 (TID 6419). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00094557.JPEG:0+61530,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00094565.JPEG:0+126593
+executor.Executor: Running task 9570.0 in stage 0.0 (TID 8690)
+executor.Executor: Running task 58486.0 in stage 0.0 (TID 55856)
+executor.Executor: Finished task 28806.0 in stage 0.0 (TID 27299). 1835 bytes result sent to driver
+executor.CoarseGrainedExecutorBackend: Got assigned task 41936
+executor.Executor: Running task 60782.0 in stage 0.0 (TID 57617)
+executor.Executor: Finished task 22394.0 in stage 0.0 (TID 21040). 1835 bytes result sent to driver
+executor.CoarseGrainedExecutorBackend: Connecting to driver: akka.tcp://sparkDriver@10.10.18.32:65488/user/CoarseGrainedScheduler
+executor.Executor: Finished task 3718.0 in stage 0.0 (TID 3145). 1835 bytes result sent to driver
+executor.Executor: Running task 53278.0 in stage 0.0 (TID 50933)
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00071487.JPEG:0+36704,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00071511.JPEG:0+78899,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00071545.JPEG:0+125981
+executor.CoarseGrainedExecutorBackend: Got assigned task 9821
+executor.Executor: Running task 32278.0 in stage 0.0 (TID 30689)
+executor.CoarseGrainedExecutorBackend: Got assigned task 43615
+executor.Executor: Finished task 1422.0 in stage 0.0 (TID 1179). 1835 bytes result sent to driver
+executor.CoarseGrainedExecutorBackend: Got assigned task 26168
+executor.Executor: Finished task 31102.0 in stage 0.0 (TID 29563). 1835 bytes result sent to driver
+storage.MemoryStore: Block broadcast_1_piece0 stored as bytes in memory (estimated size 1097.0 B, free 530.3 MB)
+executor.CoarseGrainedExecutorBackend: Got assigned task 10374
+executor.Executor: Running task 55042.0 in stage 0.0 (TID 52642)
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00057453.JPEG:0+180049
+executor.Executor: Finished task 13070.0 in stage 0.0 (TID 12078). 1835 bytes result sent to driver
+Remoting: Starting remoting
+executor.Executor: Running task 40342.0 in stage 0.0 (TID 38554)
+executor.CoarseGrainedExecutorBackend: Got assigned task 23304
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00031808.JPEG:0+94794,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00031820.JPEG:0+153001
+storage.DiskBlockManager: Created local directory at /opt/hdfs/nodemanager/usercache/yxsu/appcache/application_1440487435730_0039/blockmgr-fd0cece4-fcf5-4808-800f-3d520a9e96b3
+executor.Executor: Finished task 27630.0 in stage 0.0 (TID 26168). 1835 bytes result sent to driver
+executor.Executor: Running task 1422.0 in stage 0.0 (TID 1179)
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00051747.JPEG:0+170005
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00027081.JPEG:0+362588
+executor.Executor: Running task 45018.0 in stage 0.0 (TID 43056)
+executor.Executor: Finished task 51514.0 in stage 0.0 (TID 49253). 1835 bytes result sent to driver
+executor.Executor: Running task 2598.0 in stage 0.0 (TID 2018)
+storage.MemoryStore: MemoryStore started with capacity 530.3 MB
+executor.Executor: Finished task 30542.0 in stage 0.0 (TID 28999). 1835 bytes result sent to driver
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+executor.Executor: Finished task 55042.0 in stage 0.0 (TID 52642). 1835 bytes result sent to driver
+util.Utils: Successfully started service 'sparkExecutor' on port 47645.
+executor.Executor: Finished task 582.0 in stage 0.0 (TID 513). 1835 bytes result sent to driver
+executor.CoarseGrainedExecutorBackend: Got assigned task 27869
+storage.BlockManagerMaster: Trying to register BlockManager
+executor.Executor: Finished task 42050.0 in stage 0.0 (TID 40235). 1835 bytes result sent to driver
+executor.Executor: Finished task 9570.0 in stage 0.0 (TID 8690). 1835 bytes result sent to driver
+executor.Executor: Finished task 41518.0 in stage 0.0 (TID 39676). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00040596.JPEG:0+107332,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00040597.JPEG:0+183701
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00019463.JPEG:0+185789
+executor.CoarseGrainedExecutorBackend: Got assigned task 45921
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00088825.JPEG:0+20200,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00088830.JPEG:0+5970,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00088846.JPEG:0+2917530
+executor.Executor: Finished task 2598.0 in stage 0.0 (TID 2018). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00006104.JPEG:0+188232
+executor.CoarseGrainedExecutorBackend: Got assigned task 20485
+executor.CoarseGrainedExecutorBackend: Got assigned task 16559
+executor.CoarseGrainedExecutorBackend: Got assigned task 32415
+executor.CoarseGrainedExecutorBackend: Got assigned task 4175
+executor.Executor: Running task 44430.0 in stage 0.0 (TID 42496)
+spark.SecurityManager: Changing modify acls to: yarn,yxsu
+executor.Executor: Running task 3130.0 in stage 0.0 (TID 2574)
+executor.Executor: Running task 14218.0 in stage 0.0 (TID 13192)
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00030904.JPEG:0+93314,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00030913.JPEG:0+264831
+executor.Executor: Running task 53838.0 in stage 0.0 (TID 51497)
+executor.Executor: Running task 37458.0 in stage 0.0 (TID 35752)
+executor.Executor: Finished task 58486.0 in stage 0.0 (TID 55856). 1835 bytes result sent to driver
+executor.CoarseGrainedExecutorBackend: Got assigned task 51497
+executor.Executor: Finished task 13658.0 in stage 0.0 (TID 12640). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00066827.JPEG:0+210745
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00000955.JPEG:0+137257
+storage.MemoryStore: ensureFreeSpace(1776) called with curMem=1097, maxMem=556038881
+executor.Executor: Running task 57338.0 in stage 0.0 (TID 54862)
+executor.Executor: Finished task 6070.0 in stage 0.0 (TID 5291). 1835 bytes result sent to driver
+executor.Executor: Running task 32866.0 in stage 0.0 (TID 31268)
+executor.Executor: Running task 47454.0 in stage 0.0 (TID 45365)
+executor.CoarseGrainedExecutorBackend: Got assigned task 52051
+executor.Executor: Finished task 34630.0 in stage 0.0 (TID 32974). 1835 bytes result sent to driver
+executor.Executor: Running task 39754.0 in stage 0.0 (TID 37990)
+executor.Executor: Running task 13804.0 in stage 0.0 (TID 59549)
+executor.Executor: Finished task 40930.0 in stage 0.0 (TID 39125). 1835 bytes result sent to driver
+executor.CoarseGrainedExecutorBackend: Got assigned task 13753
+executor.CoarseGrainedExecutorBackend: Got assigned task 45365
+executor.Executor: Running task 15394.0 in stage 0.0 (TID 14311)
+executor.CoarseGrainedExecutorBackend: Got assigned task 60601
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00034758.JPEG:0+187998
+executor.Executor: Running task 10158.0 in stage 0.0 (TID 9255)
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00079341.JPEG:0+104451,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00079344.JPEG:0+131484
+executor.Executor: Running task 35162.0 in stage 0.0 (TID 33533)
+executor.Executor: Running task 34630.0 in stage 0.0 (TID 32974)
+executor.Executor: Running task 48042.0 in stage 0.0 (TID 45921)
+executor.Executor: Finished task 35162.0 in stage 0.0 (TID 33533). 1835 bytes result sent to driver
+executor.CoarseGrainedExecutorBackend: Got assigned task 17116
+executor.CoarseGrainedExecutorBackend: Got assigned task 34655
+executor.Executor: Running task 52130.0 in stage 0.0 (TID 49814)
+executor.CoarseGrainedExecutorBackend: Got assigned task 3659
+executor.Executor: Running task 38606.0 in stage 0.0 (TID 36873)
+executor.Executor: Finished task 35750.0 in stage 0.0 (TID 34096). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00049900.JPEG:0+16486,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00049917.JPEG:0+183040
+executor.CoarseGrainedExecutorBackend: Got assigned task 30125
+executor.Executor: Finished task 52130.0 in stage 0.0 (TID 49814). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00039348.JPEG:0+73553,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00039356.JPEG:0+164589
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00020394.JPEG:0+97964,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00020402.JPEG:0+106654
+storage.DiskBlockManager: Shutdown hook called
+executor.Executor: Running task 56750.0 in stage 0.0 (TID 54307)
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00005121.JPEG:0+100072,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00005128.JPEG:0+244435
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00045171.JPEG:0+140005
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00059365.JPEG:0+131675,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00059375.JPEG:0+148340
+storage.MemoryStore: Block broadcast_1 stored as values in memory (estimated size 1776.0 B, free 530.3 MB)
+executor.CoarseGrainedExecutorBackend: Got assigned task 28431
+executor.Executor: Finished task 24836.0 in stage 0.0 (TID 59943). 1835 bytes result sent to driver
+executor.Executor: Finished task 50366.0 in stage 0.0 (TID 48147). 1835 bytes result sent to driver
+executor.Executor: Finished task 43260.0 in stage 0.0 (TID 60601). 1835 bytes result sent to driver
+executor.CoarseGrainedExecutorBackend: Got assigned task 33533
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00055626.JPEG:0+147971
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00036588.JPEG:0+142787
+storage.BlockManagerMaster: Registered BlockManager
+executor.Executor: Running task 15982.0 in stage 0.0 (TID 14881)
+executor.Executor: Running task 7246.0 in stage 0.0 (TID 6419)
+executor.Executor: Running task 6658.0 in stage 0.0 (TID 5862)
+executor.CoarseGrainedExecutorBackend: Got assigned task 34096
+executor.Executor: Finished task 39166.0 in stage 0.0 (TID 37437). 1835 bytes result sent to driver
+remote.RemoteActorRefProvider$RemotingTerminator: Remoting shut down.
+executor.Executor: Finished task 1982.0 in stage 0.0 (TID 1525). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00052715.JPEG:0+94303,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00052718.JPEG:0+129729
+executor.CoarseGrainedExecutorBackend: Got assigned task 27299
+executor.Executor: Finished task 26482.0 in stage 0.0 (TID 25030). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00097509.JPEG:0+74032,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00097511.JPEG:0+179390
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00096442.JPEG:0+61063,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00096458.JPEG:0+200825
+executor.Executor: Finished task 19454.0 in stage 0.0 (TID 18241). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00044277.JPEG:0+164082
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00010942.JPEG:0+172790
+executor.Executor: Running task 7834.0 in stage 0.0 (TID 6987)
+Remoting: Starting remoting
+executor.Executor: Finished task 13804.0 in stage 0.0 (TID 59549). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00089836.JPEG:0+202927
+executor.CoarseGrainedExecutorBackend: Got assigned task 55388
+storage.MemoryStore: ensureFreeSpace(1097) called with curMem=0, maxMem=556038881
+executor.Executor: Running task 19454.0 in stage 0.0 (TID 18241)
+executor.Executor: Running task 8394.0 in stage 0.0 (TID 7567)
+executor.Executor: Running task 54398.0 in stage 0.0 (TID 52051)
+executor.CoarseGrainedExecutorBackend: Got assigned task 5862
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00072527.JPEG:0+341609
+executor.CoarseGrainedExecutorBackend: Got assigned task 11510
+executor.CoarseGrainedExecutorBackend: Got assigned task 37437
+executor.CoarseGrainedExecutorBackend: Got assigned task 21040
+executor.Executor: Finished task 25306.0 in stage 0.0 (TID 23881). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00054642.JPEG:0+37087,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00054675.JPEG:0+190914
+executor.Executor: Running task 43786.0 in stage 0.0 (TID 41936)
+executor.Executor: Running task 26482.0 in stage 0.0 (TID 25030)
+executor.CoarseGrainedExecutorBackend: Got assigned task 18241
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00014772.JPEG:0+255625
+executor.Executor: Running task 24836.0 in stage 0.0 (TID 59943)
+executor.Executor: Running task 28806.0 in stage 0.0 (TID 27299)
+executor.Executor: Running task 13070.0 in stage 0.0 (TID 12078)
+executor.Executor: Finished task 10158.0 in stage 0.0 (TID 9255). 1835 bytes result sent to driver
+executor.CoarseGrainedExecutorBackend: Got assigned task 47592
+executor.CoarseGrainedExecutorBackend: Got assigned task 31835
+executor.Executor: Finished task 29394.0 in stage 0.0 (TID 27869). 1835 bytes result sent to driver
+storage.MemoryStore: ensureFreeSpace(338816) called with curMem=22983, maxMem=556038881
+broadcast.TorrentBroadcast: Started reading broadcast variable 0
+executor.Executor: Finished task 36338.0 in stage 0.0 (TID 34655). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00008062.JPEG:0+151429
+executor.CoarseGrainedExecutorBackend: Got assigned task 59809
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00012884.JPEG:0+134512,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00012889.JPEG:0+99715
+executor.Executor: Running task 17746.0 in stage 0.0 (TID 16559)
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00041346.JPEG:0+98444,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00041347.JPEG:0+139640
+executor.Executor: Running task 24690.0 in stage 0.0 (TID 23304)
+executor.Executor: Running task 5482.0 in stage 0.0 (TID 4737)
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00087931.JPEG:0+92203,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00087941.JPEG:0+88509
+executor.Executor: Finished task 16570.0 in stage 0.0 (TID 15434). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00024192.JPEG:0+134217,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00024229.JPEG:0+109945
+executor.Executor: Running task 49190.0 in stage 0.0 (TID 47032)
+executor.Executor: Running task 21084.0 in stage 0.0 (TID 59809)
+executor.Executor: Running task 41518.0 in stage 0.0 (TID 39676)
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00017579.JPEG:0+142852
+executor.Executor: Finished task 7834.0 in stage 0.0 (TID 6987). 1835 bytes result sent to driver
+executor.Executor: Running task 51514.0 in stage 0.0 (TID 49253)
+executor.CoarseGrainedExecutorBackend: Got assigned task 57279
+executor.CoarseGrainedExecutorBackend: Got assigned task 25593
+remote.RemoteActorRefProvider$RemotingTerminator: Remote daemon shut down; proceeding with flushing remote transports.
+executor.CoarseGrainedExecutorBackend: Got assigned task 21605
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00028076.JPEG:0+103071,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00028082.JPEG:0+120916
+executor.CoarseGrainedExecutorBackend: Got assigned task 35210
+executor.Executor: Finished task 38606.0 in stage 0.0 (TID 36873). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00061133.JPEG:0+172769
+executor.CoarseGrainedExecutorBackend: Got assigned task 23881
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00007074.JPEG:0+243315
+executor.Executor: Finished task 11306.0 in stage 0.0 (TID 10374). 1835 bytes result sent to driver
+executor.Executor: Finished task 55602.0 in stage 0.0 (TID 53203). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00035622.JPEG:0+172109
+executor.Executor: Running task 42050.0 in stage 0.0 (TID 40235)
+executor.CoarseGrainedExecutorBackend: Got assigned task 8690
+executor.Executor: Running task 46250.0 in stage 0.0 (TID 44244)
+executor.Executor: Running task 48602.0 in stage 0.0 (TID 46471)
+executor.Executor: Finished task 18894.0 in stage 0.0 (TID 17675). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00002352.JPEG:0+154429
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00040367.JPEG:0+132111,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00040372.JPEG:0+97095
+executor.Executor: Finished task 18306.0 in stage 0.0 (TID 17116). 1835 bytes result sent to driver
+executor.CoarseGrainedExecutorBackend: Got assigned task 56332
+executor.Executor: Running task 10718.0 in stage 0.0 (TID 9821)
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00015720.JPEG:0+36039,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00015721.JPEG:0+221853
+executor.CoarseGrainedExecutorBackend: Got assigned task 47032
+executor.CoarseGrainedExecutorBackend: Got assigned task 46471
+executor.Executor: Finished task 20042.0 in stage 0.0 (TID 18804). 1835 bytes result sent to driver
+executor.Executor: Running task 11306.0 in stage 0.0 (TID 10374)
+executor.CoarseGrainedExecutorBackend: Got assigned task 6987
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00048956.JPEG:0+54223,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00048958.JPEG:0+233805
+executor.Executor: Running task 42610.0 in stage 0.0 (TID 40804)
+executor.Executor: Using REPL class URI: http://10.10.18.32:65475
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00067806.JPEG:0+192958
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00086008.JPEG:0+153529
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00062109.JPEG:0+144718
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00064074.JPEG:0+142235
+executor.Executor: Finished task 33454.0 in stage 0.0 (TID 31835). 1835 bytes result sent to driver
+executor.CoarseGrainedExecutorBackend: Got assigned task 22166
+executor.Executor: Running task 23542.0 in stage 0.0 (TID 22166)
+executor.CoarseGrainedExecutorBackend: Got assigned task 61137
+executor.Executor: Finished task 53278.0 in stage 0.0 (TID 50933). 1835 bytes result sent to driver
+executor.Executor: Running task 4894.0 in stage 0.0 (TID 4175)
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00068633.JPEG:0+122084,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00068651.JPEG:0+177356
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00085153.JPEG:0+149432
+executor.CoarseGrainedExecutorBackend: Successfully registered with driver
+executor.CoarseGrainedExecutorBackend: Got assigned task 48699
+executor.Executor: Finished task 17746.0 in stage 0.0 (TID 16559). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00048039.JPEG:0+142536
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00001334.JPEG:0+75678,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00001336.JPEG:0+144458
+executor.CoarseGrainedExecutorBackend: Got assigned task 50933
+executor.CoarseGrainedExecutorBackend: Got assigned task 44804
+executor.CoarseGrainedExecutorBackend: Got assigned task 15998
+executor.CoarseGrainedExecutorBackend: Got assigned task 54862
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00091683.JPEG:0+194790
+executor.Executor: Finished task 14218.0 in stage 0.0 (TID 13192). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00053691.JPEG:0+204362
+executor.Executor: Running task 18306.0 in stage 0.0 (TID 17116)
+executor.Executor: Running task 50366.0 in stage 0.0 (TID 48147)
+executor.CoarseGrainedExecutorBackend: Got assigned task 32974
+executor.Executor: Finished task 54398.0 in stage 0.0 (TID 52051). 1835 bytes result sent to driver
+executor.CoarseGrainedExecutorBackend: Got assigned task 38554
+broadcast.TorrentBroadcast: Reading broadcast variable 1 took 422 ms
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00075470.JPEG:0+182731
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00043285.JPEG:0+127774,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00043304.JPEG:0+188307
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00078429.JPEG:0+30267,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00078448.JPEG:0+112014
+executor.Executor: Running task 1982.0 in stage 0.0 (TID 1525)
+executor.CoarseGrainedExecutorBackend: Got assigned task 55856
+remote.RemoteActorRefProvider$RemotingTerminator: Shutting down remote daemon.
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00081256.JPEG:0+123846,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00081258.JPEG:0+68943
+util.Utils: Successfully started service 'driverPropsFetcher' on port 48707.
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00047070.JPEG:0+249830
+executor.Executor: Running task 52662.0 in stage 0.0 (TID 50372)
+executor.Executor: Running task 38046.0 in stage 0.0 (TID 36307)
+executor.Executor: Running task 22394.0 in stage 0.0 (TID 21040)
+spark.SecurityManager: Changing view acls to: yarn,yxsu
+executor.Executor: Finished task 29954.0 in stage 0.0 (TID 28431). 1835 bytes result sent to driver
+rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00063044.JPEG:0+167167
+executor.Executor: Finished task 40342.0 in stage 0.0 (TID 38554). 1835 bytes result sent to driver
+executor.Executor: Finished task 27070.0 in stage 0.0 (TID 25593). 1835 bytes result sent to driver
+executor.CoarseGrainedExecutorBackend: Got assigned task 36873
+executor.Executor: Finished task 60250.0 in stage 0.0 (TID 57279). 1835 bytes result sent to driver
+executor.Executor: Finished task 806.0 in stage 0.0 (TID 799). 1835 bytes result sent to driver
+[IPC Server handler 17 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000002_0 is : 0.27772525
+[IPC Server handler 22 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000000_0 is : 0.34491253
+[IPC Server handler 19 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: MapCompletionEvents request from attempt_1445062781478_0011_r_000000_0. startIndex 9 maxEvents 10000
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: attempt_1445062781478_0011_m_000000_0 TaskAttempt Transitioned from SUCCESS_CONTAINER_CLEANUP to SUCCEEDED
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: attempt_1445062781478_0011_m_000004_0 TaskAttempt Transitioned from ASSIGNED to RUNNING
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: Recalculating schedule, headroom=<memory:3072, vCores:-32>
+[AsyncDispatcher event handler] org.apache.hadoop.yarn.util.RackResolver: Resolved MSRA-SA-41.fareast.corp.microsoft.com to /default-rack
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+[IPC Server handler 10 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000007_1 is : 0.09710924
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+[IPC Server handler 9 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000004_0 is : 0.91984534
+[IPC Server handler 18 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000008_0 is : 0.61747587
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: Assigned container container_1445062781478_0011_01_000006 to attempt_1445062781478_0011_m_000004_0
+	at org.apache.hadoop.ipc.Server.access$2800(Server.java:135)
+[IPC Server handler 19 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000002_0 is : 0.6171619
+[IPC Server handler 0 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000000_0 is : 0.39668205
+[IPC Server handler 14 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000001_0 is : 0.9055817
+java.io.IOException: An existing connection was forcibly closed by the remote host
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskImpl: task_1445062781478_0011_m_000001 Task Transitioned from NEW to SCHEDULED
+[IPC Server handler 23 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: MapCompletionEvents request from attempt_1445062781478_0011_r_000000_0. startIndex 4 maxEvents 10000
+[IPC Server handler 19 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000008_0 is : 0.667
+[IPC Server handler 27 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000008_0 is : 0.27811313
+Container killed on request. Exit code is 137
+[main] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: maxContainerCapability: <memory:8192, vCores:32>
+[IPC Server handler 6 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000000_0 is : 0.15326358
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: attempt_1445062781478_0011_m_000007_1 TaskAttempt Transitioned from RUNNING to KILL_CONTAINER_CLEANUP
+[IPC Server handler 18 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000007_1 is : 0.0833192
+[IPC Server handler 1 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000008_0 is : 0.4738664
+[IPC Server handler 29 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000009_0 is : 0.5323719
+[TaskHeartbeatHandler PingChecker] org.apache.hadoop.mapreduce.v2.app.TaskHeartbeatHandler: TaskHeartbeatHandler thread interrupted
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: Diagnostics report from attempt_1445062781478_0011_m_000006_1: Container killed by the ApplicationMaster.
+[IPC Server handler 0 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000008_0 is : 0.6207798
+[IPC Server handler 29 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000004_0 is : 0.9378089
+[ContainerLauncher #0] org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl: Launching attempt_1445062781478_0011_m_000000_0
+[IPC Server handler 11 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: MapCompletionEvents request from attempt_1445062781478_0011_r_000000_0. startIndex 8 maxEvents 10000
+[IPC Server handler 11 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: MapCompletionEvents request from attempt_1445062781478_0011_r_000000_0. startIndex 8 maxEvents 10002
+[main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: job_1445062781478_0011Job Transitioned from NEW to INITED
+[IPC Server handler 6 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_0 is : 0.8003783
+[IPC Server handler 21 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: MapCompletionEvents request from attempt_1445062781478_0011_r_000000_0. startIndex 7 maxEvents 10000
+[IPC Server handler 8 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_1 is : 0.5677025
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: Reduce slow start threshold not met. completedMapsForReduceSlowstart 1
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Num completed Tasks: 7
+Container killed on request. Exit code is 137
+[IPC Server handler 13 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000002_0 is : 0.36317363
+[main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: MRAppMaster launching normal, non-uberized, multi-container job job_1445062781478_0011.
+[AsyncDispatcher event handler] org.apache.hadoop.yarn.util.RackResolver: Resolved MSRA-SA-41.fareast.corp.microsoft.com to /default-rack
+[IPC Server handler 5 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_r_000000_0 is : 0.6954033
+	at org.apache.hadoop.ipc.Server.access$2800(Server.java:135)
+[IPC Server handler 8 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: JVM with ID: jvm_1445062781478_0011_m_000012 given task: attempt_1445062781478_0011_m_000006_1
+[IPC Server handler 19 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: MapCompletionEvents request from attempt_1445062781478_0011_r_000000_0. startIndex 8 maxEvents 10000
+[AsyncDispatcher event handler] org.apache.hadoop.yarn.util.RackResolver: Resolved MSRA-SA-41.fareast.corp.microsoft.com to /default-rack
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: Received completed container container_1445062781478_0011_01_000011
+[Socket Reader #1 for port 47455] org.apache.hadoop.ipc.Server: Starting Socket Reader #1 for port 47455
+[IPC Server handler 17 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_r_000000_0 is : 0.84576535
+[IPC Server handler 19 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000000_0 is : 0.9253882
+[main] org.apache.hadoop.yarn.event.AsyncDispatcher: Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler
+[Socket Reader #1 for port 47468] SecurityLogger.org.apache.hadoop.ipc.Server: Auth successful for job_1445062781478_0011 (auth:SIMPLE)
+[IPC Server handler 25 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000005_0 is : 0.667
+[IPC Server Responder] org.apache.hadoop.ipc.Server: Stopping IPC Server Responder
+[IPC Server handler 19 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000005_0 is : 0.27813601
+[IPC Server handler 13 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_0 is : 0.12408431
+[IPC Server handler 11 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000005_0 is : 0.91630477
+[IPC Server handler 0 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000004_0 is : 0.79187286
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.speculate.DefaultSpeculator: ATTEMPT_START task_1445062781478_0011_m_000003
+[IPC Server handler 16 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000002_0 is : 0.54961467
+[IPC Server handler 18 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: MapCompletionEvents request from attempt_1445062781478_0011_r_000000_0. startIndex 8 maxEvents 10000
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerRequestor: getResources() for application_1445062781478_0011: ask=1 release= 0 newContainers=1 finishedContainers=1 resourcelimit=<memory:0, vCores:-35> knownNMs=5
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: Diagnostics report from attempt_1445062781478_0011_m_000005_0: Container killed by the ApplicationMaster.
+[IPC Server handler 26 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_0 is : 0.53543663
+[IPC Server handler 27 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_0 is : 0.7252275
+[IPC Server handler 12 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000007_0 is : 0.19255035
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.speculate.DefaultSpeculator: ATTEMPT_START task_1445062781478_0011_m_000007
+[IPC Server handler 3 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000000_0 is : 0.10635664
+[IPC Server handler 27 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000009_0 is : 0.295472
+[IPC Server handler 1 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000001_0 is : 0.6445631
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Num completed Tasks: 5
+[IPC Server handler 1 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_0 is : 0.36404583
+[ContainerLauncher #3] org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl: Processing the event EventType: CONTAINER_REMOTE_CLEANUP for container container_1445062781478_0011_01_000002 taskAttempt attempt_1445062781478_0011_m_000000_0
+[IPC Server handler 2 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000009_0 is : 0.59386617
+[IPC Server handler 8 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: MapCompletionEvents request from attempt_1445062781478_0011_r_000000_0. startIndex 4 maxEvents 10000
+[IPC Server handler 20 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_0 is : 0.34522313
+[IPC Server handler 6 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_r_000000_0 is : 0.9993825
+[IPC Server handler 15 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_r_000000_0 is : 0.13333334
+[Socket Reader #1 for port 47468] SecurityLogger.org.apache.hadoop.ipc.Server: Auth successful for job_1445062781478_0011 (auth:SIMPLE)
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: TaskAttempt: [attempt_1445062781478_0011_m_000007_0] using containerId: [container_1445062781478_0011_01_000009 on NM: [MSRA-SA-39.fareast.corp.microsoft.com:49130]
+[main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using mapred newApiCommitter.
+[IPC Server handler 4 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000008_0 is : 0.2976724
+[IPC Server handler 4 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000008_0 is : 0.2976722
+[ContainerLauncher #6] org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl: Shuffle port returned by ContainerManager for attempt_1445062781478_0011_m_000006_1 : 13562
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskImpl: task_1445062781478_0011_m_000002 Task Transitioned from NEW to SCHEDULED
+[IPC Server handler 6 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_1 is : 0.36404583
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: Got allocated containers 10
+[IPC Server handler 8 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000001_0 is : 0.32696438
+[IPC Server handler 20 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_1 is : 0.15176594
+[IPC Server handler 0 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_r_000000_0 is : 0.6954033
+[IPC Server handler 12 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000007_0 is : 0.8135109
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: Reduce slow start threshold not met. completedMapsForReduceSlowstart 1
+[ContainerLauncher #9] org.apache.hadoop.yarn.client.api.impl.ContainerManagementProtocolProxy: Opening proxy : MSRA-SA-41.fareast.corp.microsoft.com:42313
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.speculate.DefaultSpeculator: ATTEMPT_START task_1445062781478_0011_m_000006
+[IPC Server handler 1 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000004_0 is : 0.533576
+[DefaultSpeculator background processing] org.apache.hadoop.mapreduce.v2.app.speculate.DefaultSpeculator: DefaultSpeculator.addSpeculativeAttempt -- we are speculating task_1445062781478_0011_m_000006
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerRequestor: getResources() for application_1445062781478_0011: ask=4 release= 0 newContainers=0 finishedContainers=0 resourcelimit=<memory:0, vCores:-35> knownNMs=5
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: Got allocated containers 1
+[IPC Server handler 11 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_r_000000_0 is : 0.16666667
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: attempt_1445062781478_0011_m_000008_0 TaskAttempt Transitioned from SUCCESS_CONTAINER_CLEANUP to SUCCEEDED
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskImpl: task_1445062781478_0011_m_000000 Task Transitioned from SCHEDULED to RUNNING
+[IPC Server handler 25 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000005_0 is : 0.10685723
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: attempt_1445062781478_0011_m_000003_0 TaskAttempt Transitioned from UNASSIGNED to ASSIGNED
+[IPC Server handler 23 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_0 is : 1.0
+[ContainerLauncher #5] org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl: Processing the event EventType: CONTAINER_REMOTE_LAUNCH for container container_1445062781478_0011_01_000007 taskAttempt attempt_1445062781478_0011_m_000005_0
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: Diagnostics report from attempt_1445062781478_0011_m_000002_0: Container killed by the ApplicationMaster.
+[IPC Server handler 9 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_1 is : 0.016607514
+[IPC Server handler 11 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_1 is : 0.2783809
+[IPC Server handler 28 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000004_0 is : 0.23155917
+[AsyncDispatcher event handler] org.apache.hadoop.yarn.util.RackResolver: Resolved MSRA-SA-41.fareast.corp.microsoft.com to /default-rack
+[IPC Server handler 15 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000000_0 is : 0.19158794
+[IPC Server handler 28 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000008_0 is : 0.19258286
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Num completed Tasks: 11
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: Diagnostics report from attempt_1445062781478_0011_m_000000_0: Container killed by the ApplicationMaster.
+[IPC Server handler 3 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_r_000000_0 is : 0.930416
+[IPC Server handler 2 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: MapCompletionEvents request from attempt_1445062781478_0011_r_000000_0. startIndex 4 maxEvents 10000
+[IPC Server handler 11 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000004_0 is : 0.8287435
+[IPC Server listener on 47468] org.apache.hadoop.ipc.Server: IPC Server listener on 47468: starting
+[IPC Server handler 13 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000008_0 is : 0.3038585
+[AsyncDispatcher event handler] org.apache.hadoop.yarn.util.RackResolver: Resolved MSRA-SA-39.fareast.corp.microsoft.com to /default-rack
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: attempt_1445062781478_0011_m_000006_1 TaskAttempt Transitioned from KILL_CONTAINER_CLEANUP to KILL_TASK_CLEANUP
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: attempt_1445062781478_0011_m_000006_1 TaskAttempt Transitioned from ASSIGNED to RUNNING
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: After Scheduling: PendingReds:0 ScheduledMaps:1 ScheduledReds:0 AssignedMaps:9 AssignedReds:1 CompletedMaps:2 CompletedReds:0 ContAlloc:12 ContRel:0 HostLocal:11 RackLocal:0
+[main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Created MRAppMaster for application appattempt_1445062781478_0011_000001
+[IPC Server handler 17 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_r_000000_0 is : 0.26666668
+[ContainerLauncher #5] org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl: Launching attempt_1445062781478_0011_m_000005_0
+[IPC Server handler 16 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000007_0 is : 0.5352825
+[ContainerLauncher #0] org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl: Shuffle port returned by ContainerManager for attempt_1445062781478_0011_m_000000_0 : 13562
+[IPC Server handler 1 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000003_0 is : 0.3536914
+[IPC Server handler 19 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000000_0 is : 0.44789755
+[ContainerLauncher #5] org.apache.hadoop.yarn.client.api.impl.ContainerManagementProtocolProxy: Opening proxy : MSRA-SA-41.fareast.corp.microsoft.com:42313
+[IPC Server handler 14 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: MapCompletionEvents request from attempt_1445062781478_0011_r_000000_0. startIndex 0 maxEvents 10000
+[AsyncDispatcher event handler] org.apache.hadoop.yarn.util.RackResolver: Resolved MSRA-SA-41.fareast.corp.microsoft.com to /default-rack
+[ContainerLauncher #8] org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl: Processing the event EventType: CONTAINER_REMOTE_CLEANUP for container container_1445062781478_0011_01_000011 taskAttempt attempt_1445062781478_0011_m_000009_0
+[Thread-101] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Deleting staging directory hdfs://msra-sa-41:9000 /tmp/hadoop-yarn/staging/msrabi/.staging/job_1445062781478_0011
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: attempt_1445062781478_0011_m_000005_0 TaskAttempt Transitioned from RUNNING to SUCCESS_CONTAINER_CLEANUP
+[IPC Server handler 27 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000004_0 is : 0.63899136
+[IPC Server handler 16 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000005_0 is : 0.80490553
+[IPC Server handler 13 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_1 is : 0.19266446
+[IPC Server handler 27 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000007_0 is : 0.44964966
+[IPC Server handler 8 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_r_000000_0 is : 0.3
+[IPC Server handler 14 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000001_0 is : 0.45411125
+[ContainerLauncher #9] org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl: KILLING attempt_1445062781478_0011_m_000007_1
+[IPC Server handler 19 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: MapCompletionEvents request from attempt_1445062781478_0011_r_000000_0. startIndex 9 maxEvents 10000
+[ContainerLauncher #4] org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl: Launching attempt_1445062781478_0011_m_000004_0
+[Thread-101] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: History url is http://MSRA-SA-41.fareast.corp.microsoft.com:19888/jobhistory/job/job_1445062781478_0011
+[IPC Server handler 1 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000008_0 is : 0.15726237
+[ContainerLauncher #0] org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl: Processing the event EventType: CONTAINER_REMOTE_LAUNCH for container container_1445062781478_0011_01_000002 taskAttempt attempt_1445062781478_0011_m_000000_0
+[ContainerLauncher #6] org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl: Processing the event EventType: CONTAINER_REMOTE_LAUNCH for container container_1445062781478_0011_01_000012 taskAttempt attempt_1445062781478_0011_m_000006_1
+							/history/done_intermediate/msrabi/job_1445062781478_0011_conf.xml
+[IPC Server handler 24 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000008_0 is : 0.44228736
+	at org.apache.hadoop.ipc.Server$Listener$Reader.run(Server.java:607)
+[IPC Server handler 15 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000002_0 is : 0.71909183
+[IPC Server handler 5 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000004_0 is : 0.20583165
+[IPC Server handler 8 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000008_0 is : 0.8254299
+[IPC Server handler 24 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000002_0 is : 0.6196791
+[IPC Server handler 26 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_0 is : 0.2783809
+[Socket Reader #1 for port 47468] SecurityLogger.org.apache.hadoop.ipc.Server: Auth successful for job_1445062781478_0011 (auth:SIMPLE)
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskImpl: Issuing kill to other attempt attempt_1445062781478_0011_m_000007_1
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: Ramping up 1
+Container exited with a non-zero exit code 137
+[IPC Server handler 10 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: MapCompletionEvents request from attempt_1445062781478_0011_r_000000_0. startIndex 8 maxEvents 10000
+[IPC Server handler 4 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000001_0 is : 0.53425497
+Container killed on request. Exit code is 137
+[IPC Server handler 10 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000000_0 is : 0.42836267
+[IPC Server handler 6 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000004_0 is : 0.9600281
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskImpl: task_1445062781478_0011_m_000001 Task Transitioned from SCHEDULED to RUNNING
+[Thread-101] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: We are finishing cleanly so this is the last retry
+[ContainerLauncher #1] org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl: KILLING attempt_1445062781478_0011_r_000000_0
+[IPC Server handler 21 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000002_0 is : 0.7929754
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: attempt_1445062781478_0011_m_000007_1 TaskAttempt Transitioned from KILL_TASK_CLEANUP to KILLED
+[IPC Server handler 16 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_0 is : 0.2302554
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: attempt_1445062781478_0011_m_000001_0 TaskAttempt Transitioned from SUCCESS_CONTAINER_CLEANUP to SUCCEEDED
+[IPC Server handler 14 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_r_000000_0 is : 0.865559
+[AsyncDispatcher event handler] org.apache.hadoop.yarn.util.RackResolver: Resolved MSRA-SA-39.fareast.corp.microsoft.com to /default-rack
+Container killed on request. Exit code is 137
+[Thread-101] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Notify RMCommunicator isAMLastRetry: true
+[IPC Server handler 2 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_0 is : 0.106964506
+[IPC Server handler 0 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000000_0 is : 0.65932703
+[AsyncDispatcher event handler] org.apache.hadoop.yarn.util.RackResolver: Resolved MSRA-SA-41.fareast.corp.microsoft.com to /default-rack
+[IPC Server handler 7 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000004_0 is : 0.5507043
+[IPC Server handler 22 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_0 is : 0.6210422
+[IPC Server handler 18 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_0 is : 0.48298714
+[Thread-101] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: Waiting for application to be successfully unregistered.
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: Recalculating schedule, headroom=<memory:7168, vCores:-28>
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: Reduce slow start threshold not met. completedMapsForReduceSlowstart 1
+[IPC Server handler 11 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000008_0 is : 1.0
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: After Scheduling: PendingReds:0 ScheduledMaps:0 ScheduledReds:0 AssignedMaps:2 AssignedReds:1 CompletedMaps:9 CompletedReds:0 ContAlloc:13 ContRel:0 HostLocal:12 RackLocal:0
+[IPC Server handler 0 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: JVM with ID: jvm_1445062781478_0011_m_000005 given task: attempt_1445062781478_0011_m_000003_0
+[main] org.apache.hadoop.yarn.webapp.WebApps: Web app /mapreduce started at 47462
+[IPC Server handler 23 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000009_0 is : 0.3861577
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: Diagnostics report from attempt_1445062781478_0011_m_000008_0: Container killed by the ApplicationMaster.
+[ContainerLauncher #1] org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl: Shuffle port returned by ContainerManager for attempt_1445062781478_0011_m_000007_1 : 13562
+[IPC Server Responder] org.apache.hadoop.ipc.Server: IPC Server Responder: starting
+[IPC Server handler 24 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000005_0 is : 0.6658388
+[main] org.apache.hadoop.http.HttpServer2: adding path spec: /ws/*
+[IPC Server handler 26 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000008_0 is : 0.9850503
+[IPC Server handler 18 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_0 is : 0.2455647
+[IPC Server handler 7 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_0 is : 0.44980705
+[IPC Server handler 5 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000007_1 is : 0.058817852
+[IPC Server handler 29 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000000_0 is : 0.27780753
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Num completed Tasks: 10
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: TaskAttempt: [attempt_1445062781478_0011_m_000007_1] using containerId: [container_1445062781478_0011_01_000014 on NM: [MSRA-SA-41.fareast.corp.microsoft.com:42313]
+java.io.IOException: An existing connection was forcibly closed by the remote host
+[AsyncDispatcher event handler] org.apache.hadoop.yarn.util.RackResolver: Resolved MSRA-SA-39.fareast.corp.microsoft.com to /default-rack
+[IPC Server handler 4 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: MapCompletionEvents request from attempt_1445062781478_0011_r_000000_0. startIndex 4 maxEvents 10000
+[IPC Server handler 11 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000002_0 is : 0.43120337
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: Before Scheduling: PendingReds:0 ScheduledMaps:0 ScheduledReds:0 AssignedMaps:9 AssignedReds:1 CompletedMaps:4 CompletedReds:0 ContAlloc:13 ContRel:0 HostLocal:12 RackLocal:0
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: Assigned to reduce
+[AsyncDispatcher event handler] org.apache.hadoop.yarn.util.RackResolver: Resolved MSRA-SA-41.fareast.corp.microsoft.com to /default-rack
+[IPC Server handler 12 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: MapCompletionEvents request from attempt_1445062781478_0011_r_000000_0. startIndex 9 maxEvents 10000
+[ContainerLauncher #8] org.apache.hadoop.yarn.client.api.impl.ContainerManagementProtocolProxy: Opening proxy : MSRA-SA-39.fareast.corp.microsoft.com:49130
+[IPC Server handler 29 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000005_0 is : 0.5352021
+[IPC Server handler 8 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000007_0 is : 0.26830998
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: After Scheduling: PendingReds:0 ScheduledMaps:0 ScheduledReds:0 AssignedMaps:6 AssignedReds:1 CompletedMaps:7 CompletedReds:0 ContAlloc:13 ContRel:0 HostLocal:12 RackLocal:0
+[IPC Server handler 14 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000007_1 is : 0.10681946
+[IPC Server handler 20 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_0 is : 0.106964506
+[main] org.apache.hadoop.mapreduce.v2.jobhistory.JobHistoryUtils: Default file system [hdfs://msra-sa-41:9000]
+Container exited with a non-zero exit code 137
+[IPC Server handler 20 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000002_0 is : 0.52984405
+[IPC Server handler 25 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000003_0 is : 0.27765483
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: Received completed container container_1445062781478_0011_01_000007
+[main] org.apache.hadoop.metrics2.impl.MetricsSystemImpl: MRAppMaster metrics system started
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskImpl: Task succeeded with attempt attempt_1445062781478_0011_m_000008_0
+[IPC Server handler 10 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000001_0 is : 0.43445972
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: attempt_1445062781478_0011_m_000006_1 TaskAttempt Transitioned from UNASSIGNED to ASSIGNED
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: attempt_1445062781478_0011_m_00000s6_1 TaskAttempt Transitioned from UNASSIGNED to ASSIGNED
+[ContainerLauncher #6] org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl: KILLING attempt_1445062781478_0011_m_000007_0
+[IPC Server handler 21 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000005_0 is : 0.6209487
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: attempt_1445062781478_0011_m_000006_0 TaskAttempt Transitioned from NEW to UNASSIGNED
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: Reduce slow start threshold not met. completedMapsForReduceSlowstart 1
+[IPC Server handler 19 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: MapCompletionEvents request from attempt_1445062781478_0011_r_000000_0. startIndex 9 maxEvents 10000
+[main] org.apache.hadoop.mapreduce.v2.app.client.MRClientService: Instantiated MRClientService at MSRA-SA-41.fareast.corp.microsoft.com/10.190.173.170:47455
+[IPC Server handler 10 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000009_0 is : 0.9750354
+[IPC Server handler 11 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000004_0 is : 0.5750809
+[IPC Server handler 27 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_1 is : 0.36404583
+[IPC Server handler 12 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000007_0 is : 0.37192723
+[IPC Server handler 19 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Done acknowledgement from attempt_1445062781478_0011_m_000004_0
+[IPC Server handler 29 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_1 is : 0.106964506
+[IPC Server handler 8 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000007_0 is : 0.99267614
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: Diagnostics report from attempt_1445062781478_0011_m_000007_1: Container killed by the ApplicationMaster.
+[ContainerLauncher #6] org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl: Launching attempt_1445062781478_0011_m_000006_1
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: attempt_1445062781478_0011_m_000003_0 TaskAttempt Transitioned from RUNNING to SUCCESS_CONTAINER_CLEANUP
+[IPC Server handler 6 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_1 is : 0.106964506
+[IPC Server handler 24 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000007_0 is : 0.84389484
+							/history/done_intermediate/msrabi/job_1445062781478_0011-1445067474313-msrabi-pagerank-1445067766465-10-1-SUCCEEDED-default-1445067479468.jhist_tmp to hdfs://msra-sa-41:9000/tmp/hadoop-yarn/staging
+[IPC Server handler 28 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000005_0 is : 0.44950968
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Num completed Tasks: 1
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskImpl: Task succeeded with attempt attempt_1445062781478_0011_m_000009_0
+[IPC Server handler 28 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000004_0 is : 0.59795403
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: Diagnostics report from attempt_1445062781478_0011_m_000003_0: Container killed by the ApplicationMaster.
+[IPC Server handler 6 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000002_0 is : 0.6644439
+[IPC Server handler 7 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_r_000000_0 is : 0.13333334
+[IPC Server handler 23 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000002_0 is : 0.36317363
+[ResponseProcessor for block BP-1347369012-10.190.173.170-1444972147527:blk_1073742514_1708] org.apache.hadoop.hdfs.DFSClient: DFSOutputStream ResponseProcessor exception  for block BP-1347369012-10.190.173.170-1444972147527:blk_1073742514_1708
+[ContainerLauncher #2] org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl: Shuffle port returned by ContainerManager for attempt_1445062781478_0011_m_000002_0 : 13562
+[IPC Server handler 24 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: JVM with ID: jvm_1445062781478_0011_m_000011 given task: attempt_1445062781478_0011_m_000009_0
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+[IPC Server handler 15 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000005_0 is : 0.5808417
+[IPC Server handler 26 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: MapCompletionEvents request from attempt_1445062781478_0011_r_000000_0. startIndex 8 maxEvents 10000
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: Recalculating schedule, headroom=<memory:0, vCores:-35>
+[IPC Server handler 6 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_0 is : 0.32502994
+[IPC Server handler 9 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000003_0 is : 0.106493875
+[ContainerLauncher #8] org.apache.hadoop.yarn.client.api.impl.ContainerManagementProtocolProxy: Opening proxy : MSRA-SA-39.fareast.corp.microsoft.com:49130
+[IPC Server handler 29 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000003_0 is : 0.106493875
+[IPC Server handler 3 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000002_0 is : 0.9390342
+[AsyncDispatcher event handler] org.apache.hadoop.yarn.util.RackResolver: Resolved MSRA-SA-41.fareast.corp.microsoft.com to /default-rack
+[IPC Server handler 4 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000000_0 is : 0.6763529
+[ContainerLauncher #8] org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl: KILLING attempt_1445062781478_0011_m_000008_0
+[IPC Server handler 22 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000008_0 is : 0.12761278
+[IPC Server handler 27 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000000_0 is : 1.0
+[IPC Server handler 24 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000003_0 is : 0.27765483
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: Recalculating schedule, headroom=<memory:10240, vCores:-25>
+[IPC Server handler 26 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000007_0 is : 0.3638923
+[IPC Server handler 0 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_0 is : 0.15144187
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: Reduce slow start threshold not met. completedMapsForReduceSlowstart 1
+[AsyncDispatcher event handler] org.apache.hadoop.yarn.util.RackResolver: Resolved MSRA-SA-39.fareast.corp.microsoft.com to /default-rack
+[IPC Server handler 9 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000008_0 is : 0.76607764
+[IPC Server handler 5 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000009_0 is : 0.38885322
+[IPC Server handler 25 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_0 is : 0.6802496
+[main] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerRequestor: blacklistDisablePercent is 33
+							/history/done_intermediate/msrabi/job_1445062781478_0011-1445067474313-msrabi-pagerank-1445067766465-10-1-SUCCEEDED-default-1445067479468.jhist
+[IPC Server handler 20 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000001_0 is : 0.19211523
+[IPC Server handler 9 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000000_0 is : 0.6302427
+[IPC Server handler 12 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000005_0 is : 0.9908032
+[IPC Server handler 29 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: MapCompletionEvents request from attempt_1445062781478_0011_r_000000_0. startIndex 4 maxEvents 10000
+[IPC Server handler 17 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: JVM with ID : jvm_1445062781478_0011_m_000009 asked for a task
+[RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: Assigned container container_1445062781478_0011_01_000013 to attempt_1445062781478_0011_r_000000_0
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskImpl: task_1445062781478_0011_m_000002 Task Transitioned from RUNNING to SUCCEEDED
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: attempt_1445062781478_0011_m_000006_0 TaskAttempt Transitioned from SUCCESS_CONTAINER_CLEANUP to SUCCEEDED
+[IPC Server handler 0 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: JVM with ID : jvm_1445062781478_0011_m_000005 asked for a task
+[IPC Server handler 8 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: MapCompletionEvents request from attempt_1445062781478_0011_r_000000_0. startIndex 4 maxEvents 10000
+[IPC Server handler 23 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000004_0 is : 0.71709144
+[IPC Server handler 24 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_1 is : 0.49023053
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: attempt_1445062781478_0011_m_000002_0 TaskAttempt Transitioned from UNASSIGNED to ASSIGNED
+[IPC Server handler 29 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000003_0 is : 0.667
+[eventHandlingThread] org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler: Event Writer setup for JobId: job_1445062781478_0011, File: hdfs://msra-sa-41:9000/tmp/hadoop-yarn/staging/msrabi/.staging/job_1445062781478_0011/job_1445062781478_0011_1.jhist
+[IPC Server handler 19 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: MapCompletionEvents request from attempt_1445062781478_0011_r_000000_0. startIndex 9 maxEvents 10000
+[IPC Server handler 29 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_r_000000_0 is : 0.3
+[Socket Reader #1 for port 47468] SecurityLogger.org.apache.hadoop.ipc.Server: Auth successful for job_1445062781478_0011 (auth:SIMPLE)
+[main] org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl: Upper limit on the thread pool size is 500
+[IPC Server handler 16 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000007_0 is : 0.29343957
+[IPC Server handler 17 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000004_0 is : 0.90268505
+[IPC Server handler 15 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000004_0 is : 0.99202824
+[IPC Server handler 21 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000004_0 is : 0.36388028
+[IPC Server handler 28 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000001_0 is : 0.4123117
+[ContainerLauncher #7] org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl: Processing the event EventType: CONTAINER_REMOTE_LAUNCH for container container_1445062781478_0011_01_000013 taskAttempt attempt_1445062781478_0011_r_000000_0
+[IPC Server handler 10 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000007_0 is : 0.19255035
+[IPC Server handler 25 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000007_0 is : 0.41850245
+[IPC Server handler 3 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Done acknowledgement from attempt_1445062781478_0011_m_000000_0
+[IPC Server handler 13 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000000_0 is : 0.3624012
+[IPC Server handler 3 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: MapCompletionEvents request from attempt_1445062781478_0011_r_000000_0. startIndex 4 maxEvents 10000
+[IPC Server handler 25 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000002_0 is : 0.45074397
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskImpl: task_1445062781478_0011_m_000003 Task Transitioned from SCHEDULED to RUNNING
+[IPC Server handler 9 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000002_0 is : 0.10660437
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl: The job-conf file on the remote FS is /tmp/hadoop-yarn/staging/msrabi/.staging/job_1445062781478_0011/job.xml
+[IPC Server handler 4 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000000_0 is : 0.19158794
+[main] org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Scheduled snapshot period at 10 second(s).
+[AsyncDispatcher event handler] org.apache.hadoop.mapreduce.v2.app.job.impl.TaskImpl: task_1445062781478_0011_m_000001 Task Transitioned from RUNNING to SUCCEEDED
+[IPC Server handler 16 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_0 is : 0.44911548
+[IPC Server handler 0 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000008_0 is : 0.3637686
+[IPC Server handler 26 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000001_0 is : 0.60088533
+[IPC Server handler 7 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000002_0 is : 0.7559191
+[IPC Server handler 8 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_0 is : 0.66374123
+[AsyncDispatcher event handler] org.apache.hadoop.yarn.util.RackResolver: Resolved MSRA-SA-41.fareast.corp.microsoft.com to /default-rack
+[IPC Server handler 10 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Progress of TaskAttempt attempt_1445062781478_0011_m_000006_0 is : 0.16349196
+[IPC Server handler 19 on 47468] org.apache.hadoop.mapred.TaskAttemptListenerImpl: Done acknowledgement from attempt_1445062781478_0011_m_000005_0
+Interrupting SendWorker
+Expiring session 0x34edfaa9c220047, timeout of 10000ms exceeded
+Send worker leaving thread
+Received connection request /10.10.34.13:33350
+Received connection request /10.10.34.11:59328
+Established session 0x34ee30a5c530019 with negotiated timeout 10000 for client /10.10.34.11:59187
+Connection broken for id 188978561024, my id = 2, error = 
+Received connection request /10.10.34.13:45070
+binding to port 0.0.0.0/0.0.0.0:2181
+Connection request from old client /10.10.34.11:58926; will be dropped if server is in r-o mode
+Interrupting SendWorker
+Received connection request /10.10.34.11:48273
+Interrupting SendWorker
+Send worker leaving thread
+Send worker leaving thread
+Connection broken for id 188978561024, my id = 1, error = 
+Connection request from old client /10.10.34.28:52142; will be dropped if server is in r-o mode
+Send worker leaving thread
+Received connection request /10.10.34.12:50318
+Received connection request /10.10.34.13:44344
+Client attempting to establish new session at /10.10.34.12:56427
+Closed socket connection for client /10.10.34.29:50502 which had sessionid 0x34ede65503f0061
+Connection broken for id 188978561024, my id = 1, error = 
+Cannot open channel to 3 at election address /10.10.34.13:3888
+Notification: 3 (n.leader), 0x10000006b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0x1 (n.peerEPoch), LEADING (my state)
+Cannot open channel to 2 at election address /10.10.34.12:3888
+Interrupted while waiting for message on queue
+Received connection request /10.10.34.11:48903
+Interrupted while waiting for message on queue
+Closed socket connection for client /10.10.34.35:42255 which had sessionid 0x24ed93119420048
+Client attempting to establish new session at /10.10.34.12:54600
+Interrupted while waiting for message on queue
+Connection broken for id 188978561024, my id = 2, error = 
+Interrupting SendWorker
+Send worker leaving thread
+Interrupting SendWorker
+Interrupting SendWorker
+Received connection request /10.10.34.13:43514
+Send worker leaving thread
+Connection broken for id 188978561024, my id = 3, error = 
+Send worker leaving thread
+Connection broken for id 188978561024, my id = 1, error = 
+Received connection request /10.10.34.12:50526
+Received connection request /10.10.34.13:58481
+Connection broken for id 188978561024, my id = 2, error = 
+Interrupted while waiting for message on queue
+Notification time out: 400
+Interrupted while waiting for message on queue
+Connection broken for id 188978561024, my id = 2, error = 
+Connection broken for id 188978561024, my id = 3, error = 
+Interrupted while waiting for message on queue
+Interrupting SendWorker
+Interrupting SendWorker
+Send worker leaving thread
+Received connection request /10.10.34.12:55420
+Connection request from old client /10.10.34.13:37340; will be dropped if server is in r-o mode
+Send worker leaving thread
+Send worker leaving thread
+Interrupting SendWorker
+Interrupted while waiting for message on queue
+Unexpected exception causing shutdown while sock still open
+Processed session termination for sessionid: 0x24f0557806a0017
+Send worker leaving thread
+Established session 0x34ee30a5c530029 with negotiated timeout 10000 for client /10.10.34.38:46079
+Closed socket connection for client /10.10.34.23:57779 which had sessionid 0x14ee3e057ed000f
+Interrupted while waiting for message on queue
+Interrupted while waiting for message on queue
+Send worker leaving thread
+Interrupted while waiting for message on queue
+Expiring session 0x34ede65503f0056, timeout of 10000ms exceeded
+Received connection request /10.10.34.11:46750
+Connection broken for id 188978561024, my id = 2, error = 
+Connection broken for id 188978561024, my id = 3, error = 
+Received connection request /10.10.34.11:59993
+Accepted socket connection from /10.10.34.31:34887
+Connection request from old client /10.10.34.25:33588; will be dropped if server is in r-o mode
+Processed session termination for sessionid: 0x34f4a63146b004a
+Accepted socket connection from /10.10.34.20:56380
+Interrupted while waiting for message on queue
+Closed socket connection for client /10.10.34.11:48701 which had sessionid 0x24ed9311942006f
+Interrupting SendWorker
+Interrupted while waiting for message on queue
+Send worker leaving thread
+Interrupted while waiting for message on queue
+Interrupting SendWorker
+Received connection request /10.10.34.12:47079
+Send worker leaving thread
+Interrupting SendWorker
+Cannot open channel to 3 at election address /10.10.34.13:3888
+Interrupted while waiting for message on queue
+Send worker leaving thread
+Interrupting SendWorker
+Interrupting SendWorker
+Interrupted while waiting for message on queue
+Received connection request /10.10.34.13:46434
+Received connection request /10.10.34.13:47485
+Received connection request /10.10.34.13:60495
+Closed socket connection for client /10.10.34.11:41378 which had sessionid 0x34ed9ac1c1e00ba
+Interrupting SendWorker
+Accepted socket connection from /10.10.34.13:58247
+Connection broken for id 188978561024, my id = 2, error = 
+Processed session termination for sessionid: 0x14ede63a5a70013
+Send worker leaving thread
+Connection broken for id 188978561024, my id = 1, error = 
+Interrupted while waiting for message on queue
+Cannot open channel to 2 at election address /10.10.34.12:3888
+Interrupted while waiting for message on queue
+Established session 0x24ed931194200a8 with negotiated timeout 10000 for client /10.10.34.37:36139
+Accepted socket connection from /10.10.34.11:54175
+Accepted socket connection from /10.10.34.13:45816
+Interrupted while waiting for message on queue
+Received connection request /10.10.34.11:49793
+Connection broken for id 188978561024, my id = 1, error = 
+Received connection request /10.10.34.13:44158
+Connection broken for id 188978561024, my id = 3, error = 
+Send worker leaving thread
+Interrupting SendWorker
+Closed socket connection for client /10.10.34.34:56149 which had sessionid 0x24edfaa8717002c
+Received connection request /10.10.34.11:49076
+Send worker leaving thread
+Interrupting SendWorker
+Interrupted while waiting for message on queue
+Received connection request /10.10.34.13:57863
+Connection broken for id 188978561024, my id = 1, error = 
+Interrupted while waiting for message on queue
+Received connection request /10.10.34.11:59400
+Notification time out: 60000
+Connection broken for id 188978561024, my id = 3, error = 
+Cannot open channel to 2 at election address /10.10.34.12:3888
+Connection broken for id 188978561024, my id = 3, error = 
+Interrupted while waiting for message on queue
+Interrupting SendWorker
+Interrupting SendWorker
+Client attempting to renew session 0x14f05578bd80017 at /10.10.34.12:46304
+Received connection request /10.10.34.12:58000
+Interrupted while waiting for message on queue
+Interrupted while waiting for message on queue
+Interrupted while waiting for message on queue
+Accepted socket connection from /10.10.34.22:46856
+Interrupted while waiting for message on queue
+******* GOODBYE /10.10.34.12:59262 ********
+Processed session termination for sessionid: 0x14f4a6318b8001f
+Expiring session 0x34ede65503f001c, timeout of 10000ms exceeded
+Interrupted while waiting for message on queue
+Closed socket connection for client /10.10.34.13:38089 which had sessionid 0x14ede63a5a70049
+Accepted socket connection from /10.10.34.13:54374
+Notification time out: 60000
+Send worker leaving thread
+Interrupting SendWorker
+Connection broken for id 188978561024, my id = 1, error = 
+Connection broken for id 188978561024, my id = 2, error = 
+Send worker leaving thread
+Connection broken for id 188978561024, my id = 3, error = 
+Received connection request /10.10.34.11:48672
+Send worker leaving thread
+Received connection request /10.10.34.12:50943
+Connection broken for id 188978561024, my id = 2, error = 
+Received connection request /10.10.34.11:49434
+Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running
+Closed socket connection for client /10.10.34.22:60471 which had sessionid 0x34f4a63146b0032
+Closed socket connection for client /10.10.34.26:51769 which had sessionid 0x24ede63a01b0014
+Interrupting SendWorker
+Client attempting to establish new session at /10.10.34.38:43524
+Received connection request /10.10.34.12:50966
+Send worker leaving thread
+Received connection request /10.10.34.13:43970
+Interrupting SendWorker
+Interrupted while waiting for message on queue
+Received connection request /10.10.34.12:47614
+Processed session termination for sessionid: 0x14ed93111f20035
+Interrupted while waiting for message on queue
+Send worker leaving thread
+Send worker leaving thread
+Received connection request /10.10.34.12:54897
+Received connection request /10.10.34.11:60224
+Received connection request /10.10.34.13:60231
+Interrupting SendWorker
+Closed socket connection for client /10.10.34.13:54265 (no session established for client)
+Send worker leaving thread
+Interrupted while waiting for message on queue
+Send worker leaving thread
+Received connection request /10.10.34.12:48802
+Notification time out: 60000
+Received connection request /10.10.34.11:46810
+Connection broken for id 188978561024, my id = 1, error = 
+Received connection request /10.10.34.12:48050
+Connection broken for id 188978561024, my id = 2, error = 
+Received connection request /10.10.34.12:51147
+Notification time out: 60000
+Connection broken for id 188978561024, my id = 3, error = 
+Interrupting SendWorker
+Notification time out: 60000
+Processed session termination for sessionid: 0x34edfaa9c22003a
+Connection broken for id 188978561024, my id = 3, error = 
+Received connection request /10.10.34.12:49966
+Closed socket connection for client /10.10.34.12:36373 (no session established for client)
+Received connection request /10.10.34.13:47449
+Interrupting SendWorker
+Send worker leaving thread
+Interrupted while waiting for message on queue
+Client attempting to establish new session at /10.10.34.26:36975
+Interrupted while waiting for message on queue
+Interrupted while waiting for message on queue
+Processed session termination for sessionid: 0x34ed9ac1c1e00b6
+Received connection request /10.10.34.13:44843
+Connection broken for id 188978561024, my id = 1, error = 
+Cannot open channel to 3 at election address /10.10.34.13:3888
+Interrupting SendWorker
+Interrupted while waiting for message on queue
+Interrupting SendWorker
+Connection broken for id 188978561024, my id = 1, error = 
+Interrupting SendWorker
+Received connection request /10.10.34.11:58515
+Interrupting SendWorker
+Interrupted while waiting for message on queue
+Connection broken for id 188978561024, my id = 2, error = 
+Interrupted while waiting for message on queue
+Cannot open channel to 3 at election address /10.10.34.13:3888
+Follower sid: 2 : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@9317ccb
+Send worker leaving thread
+Closed socket connection for client /10.10.34.13:50242 which had sessionid 0x34ede65503f0047
+caught end of stream exception
+Interrupting SendWorker
+Connection request from old client /10.10.34.11:37024; will be dropped if server is in r-o mode
+caught end of stream exception
+Interrupting SendWorker
+Cannot open channel to 3 at election address /10.10.34.13:3888
+Received connection request /10.10.34.11:59820
+Received connection request /10.10.34.11:47347
+Connection broken for id 188978561024, my id = 1, error = 
+Received connection request /10.10.34.12:57642
+Processed session termination for sessionid: 0x24f0557806a0005
+Send worker leaving thread
+Send worker leaving thread
+Received connection request /10.10.34.13:44190
+Interrupting SendWorker
+Received connection request /10.10.34.12:50703
+Received connection request /10.10.34.12:47787
+Connection broken for id 188978561024, my id = 1, error = 
+Getting a diff from the leader 0xa0000009a
+Connection broken for id 188978561024, my id = 2, error = 
+Send worker leaving thread
+Send worker leaving thread
+Send worker leaving thread
+Interrupted while waiting for message on queue
+Interrupted while waiting for message on queue
+Connection broken for id 188978561024, my id = 2, error = 
+Interrupted while waiting for message on queue
+Server environment:java.version=1.7.0_79
+Accepted socket connection from /10.10.34.12:58919
+Interrupted while waiting for message on queue
+Connection broken for id 188978561024, my id = 2, error = 
+Send worker leaving thread
+Client attempting to establish new session at /10.10.34.13:45817
+Interrupted while waiting for message on queue
+Send worker leaving thread
+Interrupted while waiting for message on queue
+Notification time out: 60000
+Connection request from old client /10.10.34.24:35019; will be dropped if server is in r-o mode
+Interrupting SendWorker
+Interrupted while waiting for message on queue
+caught end of stream exception
+Received connection request /10.10.34.12:47343
+Interrupting SendWorker
+Interrupted while waiting for message on queue
+Send worker leaving thread
+Interrupting SendWorker
+Established session 0x24ed931194200b7 with negotiated timeout 10000 for client /10.10.34.11:57761
+Expiring session 0x24ede63a01b006b, timeout of 10000ms exceeded
+Notification time out: 60000
+Interrupting SendWorker
+Send worker leaving thread
+Interrupting SendWorker
+Connection broken for id 188978561024, my id = 2, error = 
+Established session 0x34ed9ac1c1e0012 with negotiated timeout 10000 for client /10.10.34.12:59240
+Processed session termination for sessionid: 0x24f0557806a001c
+Client attempting to establish new session at /10.10.34.13:42039
+Notification time out: 60000
+Processed session termination for sessionid: 0x24ed931194200c3
+Send worker leaving thread
+Interrupted while waiting for message on queue
+Cannot open channel to 2 at election address /10.10.34.12:3888
+Connection broken for id 188978561024, my id = 2, error = 
+Unexpected exception causing shutdown while sock still open
+Interrupted while waiting for message on queue
+Interrupted while waiting for message on queue
+Interrupting SendWorker
+Send worker leaving thread
+Cannot open channel to 3 at election address /10.10.34.13:3888
+Interrupting SendWorker
+Connection broken for id 188978561024, my id = 1, error = 
+Expiring session 0x24ed931194200c3, timeout of 10000ms exceeded
+Interrupting SendWorker
+Expiring session 0x34ed93485090008, timeout of 10000ms exceeded
+Connection broken for id 188978561024, my id = 1, error = 
+Connection broken for id 188978561024, my id = 2, error = 
+Notification time out: 60000
+Notification time out: 60000
+Connection request from old client /10.10.34.11:50396; will be dropped if server is in r-o mode
+Processed session termination for sessionid: 0x14ee3e057ed0020
+Connection broken for id 188978561024, my id = 2, error = 
+Connection broken for id 188978561024, my id = 2, error = 
+Cannot open channel to 2 at election address /10.10.34.12:3888
+Cannot open channel to 2 at election address /10.10.34.12:3888
+Interrupted while waiting for message on queue
+Send worker leaving thread
+Established session 0x24ed9311942008e with negotiated timeout 10000 for client /10.10.34.24:50284
+Send worker leaving thread
+Send worker leaving thread
+Send worker leaving thread
+Connection broken for id 188978561024, my id = 3, error = 
+Interrupting SendWorker
+Connection broken for id 188978561024, my id = 2, error = 
+Received connection request /10.10.34.11:59732
+Closed socket connection for client /10.10.34.14:49851 which had sessionid 0x34ede65503f0049
+Received connection request /10.10.34.13:59722
+Send worker leaving thread
+Expiring session 0x34ed9ac1c1e0055, timeout of 10000ms exceeded
+caught end of stream exception
+Connection request from old client /10.10.34.25:57499; will be dropped if server is in r-o mode
+Closed socket connection for client /10.10.34.11:51551 which had sessionid 0x24f1724b8af0017
+Interrupting SendWorker
+Send worker leaving thread
+Interrupted while waiting for message on queue
+Connection broken for id 188978561024, my id = 3, error = 
+Connection broken for id 188978561024, my id = 3, error = 
+Established session 0x24ee30a54f50008 with negotiated timeout 10000 for client /10.10.34.22:58788
+Connection request from old client /10.10.34.26:60257; will be dropped if server is in r-o mode
+Send worker leaving thread
+Interrupted while waiting for message on queue
+******* GOODBYE /10.10.34.12:59108 ********
+Interrupted while waiting for message on queue
+Closed socket connection for client /10.10.34.11:54135 which had sessionid 0x24ed93119420094
+Send worker leaving thread
+Interrupted while waiting for message on queue

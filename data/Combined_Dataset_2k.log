@@ -1,0 +1,2000 @@
+mod_jk child workerEnv in error state 7
+mod_jk child workerEnv in error state 7
+jk2_init() Found child 6750 in scoreboard slot 7
+jk2_init() Found child 6751 in scoreboard slot 9
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+mod_jk child workerEnv in error state 6
+mod_jk child workerEnv in error state 6
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 8744 in scoreboard slot 8
+mod_jk child workerEnv in error state 7
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 25805 in scoreboard slot 9
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 32353 in scoreboard slot 10
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 32410 in scoreboard slot 7
+jk2_init() Found child 32420 in scoreboard slot 7
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 32432 in scoreboard slot 7
+mod_jk child workerEnv in error state 7
+mod_jk child workerEnv in error state 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 32449 in scoreboard slot 9
+jk2_init() Found child 32475 in scoreboard slot 8
+jk2_init() Found child 32478 in scoreboard slot 11
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+mod_jk child workerEnv in error state 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 32546 in scoreboard slot 8
+jk2_init() Found child 32552 in scoreboard slot 7
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 32553 in scoreboard slot 9
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 32576 in scoreboard slot 7
+jk2_init() Found child 32597 in scoreboard slot 10
+jk2_init() Found child 32601 in scoreboard slot 7
+jk2_init() Found child 32605 in scoreboard slot 9
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 32641 in scoreboard slot 6
+jk2_init() Found child 32648 in scoreboard slot 9
+mod_jk child workerEnv in error state 8
+jk2_init() Found child 32664 in scoreboard slot 8
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 32676 in scoreboard slot 9
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 32683 in scoreboard slot 10
+jk2_init() Found child 32685 in scoreboard slot 6
+jk2_init() Found child 32688 in scoreboard slot 11
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 8
+jk2_init() Found child 32729 in scoreboard slot 6
+jk2_init() Found child 32754 in scoreboard slot 11
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 8
+jk2_init() Found child 32762 in scoreboard slot 9
+mod_jk child workerEnv in error state 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 1255 in scoreboard slot 8
+jk2_init() Found child 1277 in scoreboard slot 7
+jk2_init() Found child 1278 in scoreboard slot 8
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 1308 in scoreboard slot 6
+jk2_init() Found child 1309 in scoreboard slot 7
+jk2_init() Found child 1324 in scoreboard slot 7
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 1375 in scoreboard slot 9
+jk2_init() Found child 1377 in scoreboard slot 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 1393 in scoreboard slot 8
+mod_jk child workerEnv in error state 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 1502 in scoreboard slot 6
+jk2_init() Found child 1499 in scoreboard slot 11
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[client 61.138.216.82] Directory index forbidden by rule: /var/www/html/
+jk2_init() Found child 1520 in scoreboard slot 8
+jk2_init() Found child 1568 in scoreboard slot 13
+jk2_init() Found child 1788 in scoreboard slot 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 1833 in scoreboard slot 7
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 1836 in scoreboard slot 6
+mod_jk child workerEnv in error state 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 1862 in scoreboard slot 6
+mod_jk child workerEnv in error state 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 1913 in scoreboard slot 7
+jk2_init() Found child 1932 in scoreboard slot 8
+jk2_init() Found child 1933 in scoreboard slot 6
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 1950 in scoreboard slot 9
+jk2_init() Found child 1951 in scoreboard slot 7
+jk2_init() Found child 1948 in scoreboard slot 8
+mod_jk child workerEnv in error state 10
+jk2_init() Found child 2005 in scoreboard slot 7
+jk2_init() Found child 2004 in scoreboard slot 6
+jk2_init() Found child 2008 in scoreboard slot 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 7
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 2815 in scoreboard slot 8
+mod_jk child workerEnv in error state 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 2824 in scoreboard slot 10
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 2857 in scoreboard slot 9
+mod_jk child workerEnv in error state 6
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 2866 in scoreboard slot 7
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 3672 in scoreboard slot 7
+mod_jk child workerEnv in error state 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 4905 in scoreboard slot 8
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 4935 in scoreboard slot 9
+jk2_init() Found child 4950 in scoreboard slot 7
+jk2_init() Found child 4962 in scoreboard slot 7
+jk2_init() Found child 4960 in scoreboard slot 9
+jk2_init() Found child 4976 in scoreboard slot 7
+jk2_init() Found child 5003 in scoreboard slot 6
+jk2_init() Found child 5020 in scoreboard slot 9
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 5344 in scoreboard slot 7
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 5366 in scoreboard slot 9
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 5386 in scoreboard slot 9
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 5426 in scoreboard slot 6
+jk2_init() Found child 5435 in scoreboard slot 7
+jk2_init() Found child 5482 in scoreboard slot 9
+jk2_init() Found child 5480 in scoreboard slot 7
+jk2_init() Found child 5479 in scoreboard slot 6
+jk2_init() Found child 5494 in scoreboard slot 8
+jk2_init() Found child 5496 in scoreboard slot 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 5499 in scoreboard slot 9
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 5567 in scoreboard slot 12
+mod_jk child workerEnv in error state 6
+mod_jk child workerEnv in error state 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child init 1 -2
+jk2_init() Can't find child 5621 in scoreboard
+jk2_init() Can't find child 5622 in scoreboard
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 5798 in scoreboard slot 8
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 5817 in scoreboard slot 8
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 5893 in scoreboard slot 9
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 5918 in scoreboard slot 9
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 8
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 5956 in scoreboard slot 9
+jk2_init() Found child 5960 in scoreboard slot 9
+mod_jk child workerEnv in error state 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 5991 in scoreboard slot 7
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 5996 in scoreboard slot 8
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 6011 in scoreboard slot 7
+mod_jk child workerEnv in error state 7
+mod_jk child workerEnv in error state 6
+mod_jk child workerEnv in error state 6
+mod_jk child workerEnv in error state 9
+mod_jk child workerEnv in error state 8
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 6279 in scoreboard slot 6
+jk2_init() Found child 6333 in scoreboard slot 8
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 6387 in scoreboard slot 7
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 6399 in scoreboard slot 6
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 6434 in scoreboard slot 7
+jk2_init() Found child 6442 in scoreboard slot 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+mod_jk child workerEnv in error state 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 6684 in scoreboard slot 7
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 6733 in scoreboard slot 8
+mod_jk child workerEnv in error state 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+instruction cache parity error corrected
+generating core.2275
+generating core.3276
+generating core.1414
+force load/store alignment...............0
+generating core.6471
+generating core.6990
+generating core.5854
+generating core.7457
+generating core.3488
+generating core.2286
+generating core.851
+1 ddr errors(s) detected and corrected on rank 0, symbol 25, bit 1
+data TLB error interrupt
+data TLB error interrupt
+data TLB error interrupt
+data TLB error interrupt
+data TLB error interrupt
+data TLB error interrupt
+data TLB error interrupt
+data TLB error interrupt
+ciod: Message code 0 is not 51 or 4294967295
+data storage interrupt
+data storage interrupt
+data storage interrupt
+data storage interrupt
+data storage interrupt
+machine check: i-fetch......................0
+program interrupt: illegal instruction......0
+floating pt ex mode 0 enable......0
+data address space................0
+guaranteed data cache block touch........1
+lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000
+core configuration register: 0x00002000
+generating core.16218
+instruction cache parity error corrected
+generating core.8531
+1 ddr errors(s) detected and corrected on rank 0, symbol 17, bit 1
+259822751 double-hummer alignment exceptions
+generating core.45353
+generating core.28370
+data store interrupt caused by icbi.........0
+generating core.14700
+program interrupt
+generating core.5935
+ciod: Error creating node map from file /p/gb2/welcome3/32k_128x256x1_8x4x4.map: Bad file descriptor
+CE sym 22, at 0x049af800, mask 0x02
+generating core.1165
+generating core.15655
+1146800 double-hummer alignment exceptions
+1146800 double-hummer alignment exceptions
+generating core.1351
+generating core.9739
+generating core.7915
+generating core.815
+generating core.24671
+generating core.40979
+generating core.6682
+generating core.5781
+generating core.57863
+generating core.7167
+generating core.52376
+generating core.46559
+generating core.13592
+generating core.10842
+generating core.20970
+generating core.21145
+generating core.11564
+generating core.3111
+generating core.12643
+generating core.6917
+CE sym 2, at 0x0d09f1c0, mask 0x80
+generating core.6711
+generating core.14070
+total of 1 ddr error(s) detected and corrected
+112762744 double-hummer alignment exceptions
+114147592 double-hummer alignment exceptions
+115325776 double-hummer alignment exceptions
+116332728 double-hummer alignment exceptions
+generating core.12883
+generating core.22494
+generating core.2600
+generating core.15192
+generating core.26224
+generating core.8374
+generating core.1103
+generating core.3343
+generating core.3510
+generating core.26735
+generating core.5785
+generating core.27577
+generating core.22967
+generating core.3980
+generating core.22325
+generating core.896
+generating core.84
+generating core.20595
+generating core.17212
+generating core.36787
+generating core.22273
+generating core.46157
+generating core.51421
+generating core.30886
+generating core.25367
+8 floating point alignment exceptions
+8 floating point alignment exceptions
+8 floating point alignment exceptions
+generating core.9021
+15 floating point alignment exceptions
+generating core.2241
+generating core.29493
+15 floating point alignment exceptions
+15 floating point alignment exceptions
+15 floating point alignment exceptions
+generating core.15063
+5 floating point alignment exceptions
+5 floating point alignment exceptions
+generating core.2317
+1005 floating point alignment exceptions
+generating core.45168
+generating core.50
+generating core.38843
+generating core.29755
+generating core.63787
+idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+Node card VPD check: U01 node in processor card slot J14 do not match. VPD ecid 074C04C10F7BFFFF08051AE08ED2, found 04C180A5D12FFFFF05081BD088E2
+PrepareForService shutting down NodeCard(mLctn(R25-M1-N2), mCardSernum(203231503833343000000000594c31304b34333431303158), mLp(FF:F2:9F:16:CF:0F:00:0D:60:E9:30:F0), mIp(10.2.2.80), mType(4)) as part of Service Action 310
+Can not get assembly information for node card
+Can not get assembly information for node card
+Can not get assembly information for node card
+CE sym 28, at 0x0fe65820, mask 0x04
+CE sym 25, at 0x10e1b8a0, mask 0x10
+ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+ciod: Error loading /bgl/apps/scaletest/stability/MDCASK/WORK/65576/inferno: invalid or missing program image, No such file or directory
+ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi
+iar 003a9294 dear 00c06c48
+iar 003a9254 dear 00f05688
+CE sym 10, at 0x01d7a160, mask 0x10
+156055738 double-hummer alignment exceptions
+139632470 double-hummer alignment exceptions
+iar 0014a150 dear 0072b9f8
+23768676 double-hummer alignment exceptions
+47332148 double-hummer alignment exceptions
+iar 0014a150 dear 0098e178
+3 ddr errors(s) detected and corrected on rank 0, symbol 18, bit 0
+CE sym 35, at 0x1317cee0, mask 0x10
+4 ddr errors(s) detected and corrected on rank 0, symbol 29, bit 4
+Lustre mount FAILED : bglio136 : point /p/gb1
+Ido chip status changed: FF:F2:9F:15:7B:E0:00:0D:60:EA:84:1F ip=10.7.0.130 v=13 t=1 status=M Sat Sep 17 07:49:04 PDT 2005
+idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.01) failed: No such file or directory
+CE sym 21, at 0x13d38aa0, mask 0x40
+CE sym 16, at 0x0149a040, mask 0x80
+ciod: generated 128 core files for program /bgl/apps/SWL/stability/DDCMD//ddcMDbglV
+CE sym 5, at 0x0e37bbe0, mask 0x40
+CE sym 9, at 0x11b9cc60, mask 0x04
+total of 2 ddr error(s) detected and corrected
+ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/torus-latency.rts: invalid or missing program image, No such file or directory
+4 ddr errors(s) detected and corrected on rank 0, symbol 13, bit 5
+data cache search parity error detected. attempting to correct
+data cache search parity error detected. attempting to correct
+ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image, Exec format error
+ciod: Error loading allreduce_int_V1R1.rts: invalid or missing program image, No such file or directory
+ciod: Error loading /home.old/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDGbglV: invalid or missing program image, No such file or directory
+iar 001061dc dear 0244c22c
+iar 001061dc dear 0244c25c
+iar 00106228 dear 0244c27c
+iar 00106228 dear 0244c27c
+iar 00106580 dear 02494bcc
+iar 00106534 dear 02494c3c
+iar 00106580 dear 045e148c
+2354412 floating point alignment exceptions
+2354412 floating point alignment exceptions
+2354412 floating point alignment exceptions
+2354412 floating point alignment exceptions
+iar 0010681c dear 02f692fc
+iar 00106704 dear 0245b83c
+16469355 floating point alignment exceptions
+iar 0010650c dear 0246a95c
+iar 00106988 dear 02f7bd6c
+iar 001066c4 dear 025251fc
+428412 floating point alignment exceptions
+instruction cache parity error corrected
+ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image, Permission denied
+iar 001061b4 dear 0247017c
+iar 001061e8 dear 0247015c
+iar 001061b4 dear 0247017c
+iar 00106448 dear 0246dbec
+5 torus receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected
+iar 00106274 dear 0246da8c
+CE sym 25, at 0x12127ee0, mask 0x10
+Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+rts: kernel terminated for reason 1004
+ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41554, Connection timed out
+ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41060, Connection timed out
+ciod: Received signal 15, code=0, errno=0, address=0x000001f2
+ciod: Received signal 15, code=0, errno=0, address=0x000001f2
+10740 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+10674 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+10718 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+10722 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+10738 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+10684 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+CE sym 27, at 0x1b70b860, mask 0x80
+CE sym 33, at 0x1ff2fc60, mask 0x04
+total of 1 ddr error(s) detected and corrected over 2487 seconds
+minus normalized number..................0
+Kernel detected 3830884 integer alignment exceptions (3830877) iar 0x00544ea8, dear 0x01fc1ba0 (3830878) iar 0x00544eb8, dear 0x01fc1bc0 (3830879) iar 0x00544ea8, dear 0x01fc1be0 (3830880) iar 0x00544eb8, dear 0x01fc1c00 (3830881) iar 0x00544ee0, dear 0x01fc1c20 (3830882) iar 0x00544ef0, dear 0x01fc1c40 (3830883) iar 0x00544ee0, dear 0x01fc1c60 (3830884) iar 0x00544ef0, dear 0x01fc1c80
+Kernel detected 3945740 integer alignment exceptions (3945733) iar 0x00544ea8, dear 0x01ef7960 (3945734) iar 0x00544eb8, dear 0x01ef7980 (3945735) iar 0x00544ea8, dear 0x01ef79a0 (3945736) iar 0x00544eb8, dear 0x01ef79c0 (3945737) iar 0x00544ee0, dear 0x01ef79e0 (3945738) iar 0x00544ef0, dear 0x01ef7a00 (3945739) iar 0x00544ee0, dear 0x01ef7a20 (3945740) iar 0x00544ef0, dear 0x01ef7a40
+ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1501./hpl_DD: invalid or missing program image, No such file or directory
+ciod: Error loading /g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline: invalid or missing program image, Permission denied
+ciod: pollControlDescriptors: Detected the debugger died.
+Machine State Register: 0x0002f900
+instruction cache parity error corrected
+instruction cache parity error corrected
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.6.191:50010 is added to blk_673825774073966710 size 67108864
+Received block blk_-2094397855762091248 of size 67108864 from /10.251.126.83
+PacketResponder 0 for block blk_7791237942696729620 terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.202.134:50010 is added to blk_2113880130496815041 size 3549917
+PacketResponder 0 for block blk_-4229375751333894621 terminating
+10.251.123.132:50010:Got exception while serving blk_3763728533434719668 to /10.251.38.214:
+Receiving block blk_8692428775973608797 src: /10.250.10.213:56574 dest: /10.250.10.213:50010
+PacketResponder 0 for block blk_-6837050820114491742 terminating
+PacketResponder 1 for block blk_2028803850179311599 terminating
+Receiving block blk_-6329494504520216748 src: /10.251.25.237:39332 dest: /10.251.25.237:50010
+PacketResponder 1 for block blk_-7656610147924319419 terminating
+Receiving block blk_-8255732027871411321 src: /10.251.39.179:33950 dest: /10.251.39.179:50010
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.15.240:50010 is added to blk_-1055254430948037872 size 67108864
+Receiving block blk_-5135777574223073423 src: /10.251.65.237:48648 dest: /10.251.65.237:50010
+PacketResponder 1 for block blk_-4799092443170733505 terminating
+Received block blk_-7514806214244798312 of size 67108864 from /10.250.15.101
+PacketResponder 1 for block blk_8060713381303305129 terminating
+Receiving block blk_5760391051658436046 src: /10.251.42.84:59752 dest: /10.251.42.84:50010
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.214.18:50010 is added to blk_-7555801584297376435 size 67108864
+Receiving block blk_7672124247291403094 src: /10.251.66.3:55531 dest: /10.251.66.3:50010
+PacketResponder 1 for block blk_1997668456720275587 terminating
+Received block blk_3304535870056962597 of size 67108864 from /10.251.203.166
+PacketResponder 1 for block blk_-4853183643928986291 terminating
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001506_0/part-01506. blk_1104376461837247304
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.111.130:50010 is added to blk_-5511630179413516751 size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001630_0/part-01630. blk_-8645365827804358878
+Received block blk_-8192956077351896648 of size 67108864 from /10.251.110.196
+PacketResponder 0 for block blk_3338047823148530794 terminating
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001840_0/part-01840. blk_4210124392039605712
+PacketResponder 0 for block blk_-9198375937828232046 terminating
+Receiving block blk_271142976916798281 src: /10.251.70.112:50176 dest: /10.251.70.112:50010
+PacketResponder 0 for block blk_679168189072909208 terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.43.192:50010 is added to blk_6285161494041403917 size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.43.210:50010 is added to blk_-6995454028444097802 size 67108864
+Receiving block blk_6398122733993275620 src: /10.251.111.80:53737 dest: /10.251.111.80:50010
+10.250.19.16:50010 Served block blk_1078000656626961731 to /10.250.19.16
+10.251.111.130:50010:Got exception while serving blk_3169060243663461885 to /10.251.214.32:
+10.251.31.5:50010:Got exception while serving blk_6332892729727950039 to /10.251.123.1:
+10.251.215.16:50010 Served block blk_2322432806134104317 to /10.251.215.16
+10.250.15.198:50010:Got exception while serving blk_-1851265222873801714 to /10.251.195.52:
+10.251.111.209:50010:Got exception while serving blk_7505828172725463922 to /10.251.111.209:
+10.251.106.10:50010 Served block blk_2273334621242106674 to /10.251.106.10
+BLOCK* NameSystem.delete: blk_8350646254685996250 is added to invalidSet of 10.251.199.159:50010
+BLOCK* NameSystem.delete: blk_7177118590277025973 is added to invalidSet of 10.251.121.224:50010
+BLOCK* NameSystem.delete: blk_5178539130945718870 is added to invalidSet of 10.251.107.19:50010
+BLOCK* NameSystem.delete: blk_-5145886774827574591 is added to invalidSet of 10.251.105.189:50010
+BLOCK* NameSystem.delete: blk_-8403618945096094999 is added to invalidSet of 10.251.42.9:50010
+BLOCK* NameSystem.delete: blk_-4954795063440871977 is added to invalidSet of 10.251.203.80:50010
+BLOCK* NameSystem.delete: blk_6489659315944341351 is added to invalidSet of 10.251.106.50:50010
+Deleting block blk_-8796256534683400159 file /mnt/hadoop/dfs/data/current/subdir18/blk_-8796256534683400159
+Deleting block blk_-4223625526513535681 file /mnt/hadoop/dfs/data/current/subdir60/blk_-4223625526513535681
+Deleting block blk_-5880591395067598620 file /mnt/hadoop/dfs/data/current/subdir32/blk_-5880591395067598620
+Deleting block blk_-6008397446568765070 file /mnt/hadoop/dfs/data/current/blk_-6008397446568765070
+Deleting block blk_826351419727053015 file /mnt/hadoop/dfs/data/current/subdir6/blk_826351419727053015
+Deleting block blk_-1581605246928123722 file /mnt/hadoop/dfs/data/current/subdir13/blk_-1581605246928123722
+Deleting block blk_-6127741703501838658 file /mnt/hadoop/dfs/data/current/subdir53/blk_-6127741703501838658
+Deleting block blk_7090935285617451450 file /mnt/hadoop/dfs/data/current/subdir60/blk_7090935285617451450
+Deleting block blk_9169945668827621796 file /mnt/hadoop/dfs/data/current/subdir50/blk_9169945668827621796
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.75.49:50010 is added to blk_-3684613761619321001 size 67108864
+PacketResponder 1 for block blk_-4624597753370705281 terminating
+Received block blk_-5236578579938215340 of size 67108864 from /10.250.7.244
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.39.144:50010 is added to blk_-6592952246351162022 size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.214.67:50010 is added to blk_-6449891932967810179 size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811101024_0001_m_000749_0/part-00749. blk_-6909607053783233975
+Receiving block blk_8752665860595246441 src: /10.251.70.5:44006 dest: /10.251.70.5:50010
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.123.99:50010 is added to blk_-2600305892036631113 size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt2/_temporary/_task_200811101024_0002_m_000299_0/part-00299. blk_4984150784048864430
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt2/_temporary/_task_200811101024_0002_m_000054_0/part-00054. blk_-4139299269696044017
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.111.37:50010 is added to blk_-7603740654202748654 size 67108864
+Receiving block blk_-7266711648018793699 src: /10.251.31.242:47086 dest: /10.251.31.242:50010
+Received block blk_-6966935672736779591 of size 67108864 from /10.251.90.64
+PacketResponder 1 for block blk_-3339018122410311668 terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.31.160:50010 is added to blk_3079488924320077240 size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.125.237:50010 is added to blk_4234385041723406944 size 67108864
+10.251.42.16:50010:Got exception while serving blk_4963214289850966664 to /10.251.202.181:
+10.251.197.226:50010:Got exception while serving blk_2101007907134483259 to /10.251.31.242:
+10.251.26.177:50010:Got exception while serving blk_3848747149919646864 to /10.251.125.174:
+10.250.10.100:50010 Served block blk_9216955386716663841 to /10.251.90.64
+Verification succeeded for blk_-4984504651603069357
+10.251.214.18:50010 Served block blk_7297060562345904886 to /10.251.29.239
+BLOCK* NameSystem.allocateBlock: /user/root/sortrand2/_temporary/_task_200811101024_0003_r_000258_0/part-00258. blk_387577766066135394
+Receiving block blk_6107935679779418195 src: /10.251.43.115:55925 dest: /10.251.43.115:50010
+Receiving block blk_1345503778930512538 src: /10.251.75.163:40307 dest: /10.251.75.163:50010
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.123.33:50010 is added to blk_-2916658835497879256 size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.27.63:50010 is added to blk_7838843222458775811 size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.66.102:50010 is added to blk_-8022986908643041177 size 67108864
+Receiving block blk_-5003122231679852524 src: /10.250.7.230:51033 dest: /10.250.7.230:50010
+Received block blk_-5633587983998853189 of size 67108864 from /10.251.73.220
+BLOCK* NameSystem.allocateBlock: /user/root/sortrand2/_temporary/_task_200811101024_0003_r_000315_0/part-00315. blk_-463998587096565542
+10.251.195.33:50010:Got exception while serving blk_6702054389824523327 to /10.251.195.33:
+Verification succeeded for blk_2904134648927436267
+BLOCK* NameSystem.delete: blk_-531469051872229488 is added to invalidSet of 10.251.71.146:50010
+BLOCK* NameSystem.delete: blk_7048740572660501729 is added to invalidSet of 10.251.107.98:50010
+BLOCK* NameSystem.delete: blk_1960893136630391966 is added to invalidSet of 10.251.39.144:50010
+BLOCK* NameSystem.delete: blk_-6932221506331060207 is added to invalidSet of 10.251.74.79:50010
+Deleting block blk_-8949548167466276130 file /mnt/hadoop/dfs/data/current/subdir2/blk_-8949548167466276130
+Deleting block blk_-9171803179611497035 file /mnt/hadoop/dfs/data/current/subdir35/blk_-9171803179611497035
+Deleting block blk_-5603192027616633151 file /mnt/hadoop/dfs/data/current/subdir34/blk_-5603192027616633151
+Deleting block blk_-1535908830476495455 file /mnt/hadoop/dfs/data/current/subdir10/blk_-1535908830476495455
+Deleting block blk_4162832865986721185 file /mnt/hadoop/dfs/data/current/subdir4/blk_4162832865986721185
+Deleting block blk_3076992299328673559 file /mnt/hadoop/dfs/data/current/subdir54/blk_3076992299328673559
+Deleting block blk_1746384029810476219 file /mnt/hadoop/dfs/data/current/subdir18/blk_1746384029810476219
+Deleting block blk_4939101994162863442 file /mnt/hadoop/dfs/data/current/subdir24/blk_4939101994162863442
+PacketResponder 1 for block blk_3940282600163903101 terminating
+Received block blk_4182287230523664560 of size 67108864 from /10.251.111.130
+Receiving block blk_995094303184954394 src: /10.251.91.84:35590 dest: /10.251.91.84:50010
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.30.6:50010 is added to blk_3585424189730250601 size 67108864
+Received block blk_3960527526103274525 of size 67108864 from /10.251.30.134
+BLOCK* ask 10.250.18.114:50010 to delete  blk_-5140072410813878235
+BLOCK* NameSystem.allocateBlock: /user/root/rand3/_temporary/_task_200811101024_0005_m_000720_0/part-00720. blk_-7988596544606686086
+Received block blk_2474460483915499078 of size 67108864 from /10.251.195.52
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.105.189:50010 is added to blk_-2035996502664501008 size 67108864
+Receiving block blk_6556854018013706836 src: /10.251.202.134:48721 dest: /10.251.202.134:50010
+Received block blk_8302956190102508375 of size 67108864 from /10.251.109.236
+BLOCK* NameSystem.allocateBlock: /user/root/rand3/_temporary/_task_200811101024_0005_m_001824_0/part-01824. blk_-4654885003331291932
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.91.84:50010 is added to blk_-2321016155994168744 size 67108864
+PacketResponder 0 for block blk_-1733154814375651491 terminating
+BLOCK* NameSystem.delete: blk_8442157310069672329 is added to invalidSet of 10.251.39.64:50010
+BLOCK* NameSystem.delete: blk_7017399031777870797 is added to invalidSet of 10.250.5.161:50010
+PacketResponder 2 for block blk_1349228381785843634 terminating
+Receiving block blk_4414644179961808738 src: /10.251.107.98:46161 dest: /10.251.107.98:50010
+PacketResponder 1 for block blk_-7170175035335391571 terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.39.160:50010 is added to blk_1865953191447352631 size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.90.239:50010 is added to blk_-5927343391895571936 size 67108864
+PacketResponder 1 for block blk_5912213716795619450 terminating
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt3/_temporary/_task_200811101024_0007_m_001560_0/part-01560. blk_3376391218693716925
+PacketResponder 2 for block blk_2691304991047255190 terminating
+Receiving block blk_-2989288139685694818 src: /10.250.19.227:60160 dest: /10.250.19.227:50010
+Receiving block blk_-3657751236932275338 src: /10.251.123.99:50481 dest: /10.251.123.99:50010
+10.251.123.99:50010 Served block blk_-7990763409688650846 to /10.251.197.161
+BLOCK* NameSystem.delete: blk_-6978845808078082463 is added to invalidSet of 10.251.109.209:50010
+BLOCK* NameSystem.delete: blk_7336636250384047238 is added to invalidSet of 10.251.26.177:50010
+Deleting block blk_-626413149556394155 file /mnt/hadoop/dfs/data/current/subdir26/blk_-626413149556394155
+Deleting block blk_6675564098604634452 file /mnt/hadoop/dfs/data/current/subdir1/blk_6675564098604634452
+Deleting block blk_5528471097481810388 file /mnt/hadoop/dfs/data/current/subdir5/blk_5528471097481810388
+Deleting block blk_9014154925388243050 file /mnt/hadoop/dfs/data/current/subdir28/blk_9014154925388243050
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.199.19:50010 is added to blk_6748710057489679257 size 67108864
+Receiving block blk_-8649503431827393598 src: /10.251.199.19:48778 dest: /10.251.199.19:50010
+PacketResponder 2 for block blk_-6883339133893273874 terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.30.179:50010 is added to blk_-900758580041645081 size 3543900
+Receiving block blk_7780461223860192433 src: /10.251.127.191:58148 dest: /10.251.127.191:50010
+BLOCK* NameSystem.allocateBlock: /user/root/rand4/_temporary/_task_200811101024_0009_m_001574_0/part-01574. blk_-7458279618877678162
+Receiving block blk_7924393760966842810 src: /10.251.202.209:59148 dest: /10.251.202.209:50010
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.43.21:50010 is added to blk_3206064173813164493 size 67108864
+PacketResponder 1 for block blk_6745520736924802462 terminating
+Receiving block blk_5256716488526744434 src: /10.251.73.220:42064 dest: /10.251.73.220:50010
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.26.177:50010 is added to blk_6928449948805597176 size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt4/_temporary/_task_200811101024_0010_m_000222_0/part-00222. blk_3764836840384130740
+Receiving block blk_2080318574920472813 src: /10.251.39.64:40530 dest: /10.251.39.64:50010
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.73.220:50010 is added to blk_5953577136151423920 size 67108864
+PacketResponder 2 for block blk_5115892145206906855 terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.70.211:50010 is added to blk_5570475465835003801 size 67108864
+PacketResponder 0 for block blk_-1842096107468319932 terminating
+BLOCK* NameSystem.delete: blk_3876184938151091897 is added to invalidSet of 10.251.30.85:50010
+BLOCK* NameSystem.delete: blk_-765820154946060546 is added to invalidSet of 10.251.65.203:50010
+Deleting block blk_-5934436507161953485 file /mnt/hadoop/dfs/data/current/subdir33/blk_-5934436507161953485
+Received block blk_-3922743468150895472 of size 67108864 from /10.251.39.179
+Deleting block blk_-5429042599096020592 file /mnt/hadoop/dfs/data/current/subdir34/blk_-5429042599096020592
+Deleting block blk_449049393237281194 file /mnt/hadoop/dfs/data/current/subdir18/blk_449049393237281194
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.75.143:50010 is added to blk_7434237665308221519 size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.6.214:50010 is added to blk_4893049344332234616 size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.126.22:50010 is added to blk_-8298519990603402919 size 67108864
+Received block blk_-2935178173527646581 of size 67108864 from /10.251.65.237
+Receiving block blk_2208589726473895860 src: /10.251.199.245:33914 dest: /10.251.199.245:50010
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.42.16:50010 is added to blk_-3253005280055520211 size 67108864
+Received block blk_8993862241777591326 of size 67108864 from /10.250.15.240
+Received block blk_4989329877491629543 of size 67108864 from /10.250.15.67
+Received block blk_4967370797322420259 of size 67108864 from /10.251.39.192
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.127.243:50010 is added to blk_-719178972315562824 size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.67.4:50010 is added to blk_9093176996492793041 size 67108864
+PacketResponder 1 for block blk_-7200400342436668240 terminating
+PacketResponder 1 for block blk_-9098645110390099509 terminating
+Received block blk_8699194381234371727 of size 67108864 from /10.251.214.67
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.214.67:50010 is added to blk_-5961895238114806886 size 28508403
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt5/_temporary/_task_200811101024_0012_m_001554_0/part-01554. blk_5183831565578080242
+PacketResponder 2 for block blk_-7256345477493725857 terminating
+BLOCK* NameSystem.delete: blk_-4438918035940270891 is added to invalidSet of 10.251.71.193:50010
+BLOCK* NameSystem.delete: blk_5580254744888391593 is added to invalidSet of 10.251.201.204:50010
+BLOCK* NameSystem.delete: blk_-719470845056640928 is added to invalidSet of 10.251.90.64:50010
+BLOCK* ask 10.250.17.177:50010 to delete  blk_-8570780307468499817 blk_-9122557405432088649 blk_-4393063808227796056 blk_8767569714374844347 blk_7079754042611867581 blk_7608961006114219538 blk_-5017273584996436939 blk_-6537833125980536955 blk_7610838808763810123 blk_3300803097775546532 blk_-5120750586032922592 blk_1577274266662884430 blk_765879159867598347 blk_-9076085976403711202 blk_-3198963348573340497 blk_-4645750029177277209 blk_-5136142986912961316 blk_5677959846373741243 blk_2107477892986152528 blk_-4235116161537008844 blk_6082535783543982566 blk_-4809870147222033236 blk_8818706925296961012 blk_-5203577173046267127 blk_189089569009261656 blk_446299976487589160 blk_-3916247521166632303 blk_-3324962406687427922 blk_-1807424528783081572 blk_-6858401049333055963 blk_6036564204960295926 blk_-8140723044408248078 blk_-3800132731140204959 blk_1716344083117307767 blk_-5194808114606613364 blk_-5473871016976323232 blk_2920934363167004552 blk_8736689095894369097 blk_-7642734632751940776 blk_3408482260833769309 blk_118013751374560901 blk_7963891081239759520 blk_3813114133944383323 blk_3042818489384932576 blk_-4570173726231458270 blk_-1564644006975920581 blk_338095650783321996 blk_3150135312641203550 blk_4285859645577726288 blk_3438772130782939627 blk_2634772258588877972 blk_-6795664812575964130 blk_3923069610304693233 blk_-1782996202120067721 blk_2004418049430157212 blk_1932147224007687756 blk_-582901062969027153 blk_5072240701440032119 blk_-7919006477393039068 blk_-7318022361288598312 blk_-6974693594143537436 blk_-5435767047126325206 blk_-5805500288959332434 blk_-7109885589081848850 blk_2161580591957523893 blk_7240227881194993860 blk_-8298405680648445349 blk_-4253026248821272215 blk_8377661448601579317 blk_8029153852899017155 blk_-8754388319080705916 blk_-7844092300527332901 blk_710178463364063355 blk_-5136849989188547884 blk_8393887138377503163 blk_-6950176077776664217 blk_-6488701068659548195 blk_2537458728254532453 blk_364441107933628577 blk_6207861897580168557 blk_8814943807366894581 blk_-4150682644311695471 blk_9174833667156726933 blk_649427218152856001 blk_-7403541028238011236 blk_-334982586592048773 blk_61908781908925992 blk_6385574357371832424 blk_-66376131060945541 blk_1372596948297458670 blk_-3389135155401857220 blk_-6035411221441929663 blk_-5127580069634421247 blk_-5685246533892022418 blk_4977937528993040451 blk_5680538862600094527 blk_-8378747462487962732 blk_425101290285860876 blk_6306622708327890839 blk_-1067866602168873257
+Deleting block blk_-9169228974826183399 file /mnt/hadoop/dfs/data/current/subdir5/blk_-9169228974826183399
+Receiving block blk_8596624696139957935 src: /10.251.214.175:41468 dest: /10.251.214.175:50010
+BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_200811101024_0013_m_000153_0/part-00153. blk_8596624696139957935
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.121.224:50010 is added to blk_3134656542322449478 size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_200811101024_0013_m_000523_0/part-00523. blk_-4801855948459616884
+PacketResponder 2 for block blk_-5504500392858491441 terminating
+PacketResponder 1 for block blk_-2068111211565768713 terminating
+PacketResponder 0 for block blk_-85872290979354091 terminating
+PacketResponder 0 for block blk_8550326614414622861 terminating
+PacketResponder 0 for block blk_-6525012344542022819 terminating
+Receiving block blk_7713504868233504097 src: /10.251.127.191:36437 dest: /10.251.127.191:50010
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.65.203:50010 is added to blk_8005746184358076390 size 67108864
+Received block blk_955083461510572332 of size 41287838 from /10.251.107.242
+BLOCK* NameSystem.delete: blk_-3671953658029337449 is added to invalidSet of 10.250.14.143:50010
+BLOCK* NameSystem.delete: blk_805187982300776163 is added to invalidSet of 10.251.73.188:50010
+Deleting block blk_-6750694665033046901 file /mnt/hadoop/dfs/data/current/subdir63/blk_-6750694665033046901
+Deleting block blk_-6131345369657245178 file /mnt/hadoop/dfs/data/current/blk_-6131345369657245178
+Deleting block blk_2489882700357182381 file /mnt/hadoop/dfs/data/current/blk_2489882700357182381
+Deleting block blk_2215517976324634098 file /mnt/hadoop/dfs/data/current/subdir4/blk_2215517976324634098
+Receiving block blk_-2250942073136893488 src: /10.251.126.22:59179 dest: /10.251.126.22:50010
+Received block blk_1473949624670719319 src: /10.251.29.239:35617 dest: /10.251.29.239:50010 of size 67108864
+Received block blk_2771018387166611008 of size 67108864 from /10.251.26.131
+PacketResponder 2 for block blk_8487226415276391460 terminating
+PacketResponder 1 for block blk_-808401720390253471 terminating
+Receiving block blk_1122812501843755360 src: /10.251.198.196:51036 dest: /10.251.198.196:50010
+PacketResponder 1 for block blk_7901008236334420364 terminating
+PacketResponder 1 for block blk_-8969188698416564850 terminating
+Receiving block blk_-5892603381347650390 src: /10.250.14.143:57484 dest: /10.250.14.143:50010
+BLOCK* NameSystem.delete: blk_3492869167398569662 is added to invalidSet of 10.250.5.161:50010
+BLOCK* NameSystem.delete: blk_2060553104861908174 is added to invalidSet of 10.251.201.204:50010
+BLOCK* NameSystem.delete: blk_-8312238797251504127 is added to invalidSet of 10.251.89.155:50010
+BLOCK* NameSystem.delete: blk_4516306414837452219 is added to invalidSet of 10.251.127.47:50010
+Deleting block blk_-5598693099021996971 file /mnt/hadoop/dfs/data/current/subdir19/blk_-5598693099021996971
+BLOCK* NameSystem.allocateBlock: /user/root/rand8/_temporary/_task_200811101024_0015_m_000737_0/part-00737. blk_5894088883762961800
+Receiving block blk_465845235850106928 src: /10.251.70.112:39499 dest: /10.251.70.112:50010
+Receiving block blk_3598226258881465924 src: /10.251.199.159:41752 dest: /10.251.199.159:50010
+Received block blk_-9167880724995702718 of size 67108864 from /10.251.214.225
+Received block blk_-5785220384376578831 of size 67108864 from /10.251.203.80
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.127.243:50010 is added to blk_1793140687921032046 size 67108864
+Receiving block blk_-3265479347842446682 src: /10.250.14.224:47278 dest: /10.250.14.224:50010
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.30.134:50010 is added to blk_2749066163012162435 size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.30.101:50010 is added to blk_6451403582950672007 size 67108864
+onStandStepChanged 3579
+onStandStepChanged 3583
+setTodayTotalDetailSteps=1514038440000##7011##548365##8661##12646##27175461
+ getTodayTotalDetailSteps = 1514038440000##7012##548365##8661##12741##27176464
+REPORT : 7015 5008 150261 240
+flush sensor data
+onExtend:1514038536000 0 0 4
+ getTodayTotalDetailSteps = 1514038440000##7018##548365##8661##13311##27179732
+onExtend:1514038537000 1 0 4
+onStandStepChanged 3593
+ getTodayTotalDetailSteps = 1514038440000##7021##548365##8661##13596##27181971
+calculateAltitudeWithCache totalAltitude=240
+ getTodayTotalDetailSteps = 1514038440000##7025##548365##8661##13976##27183974
+REPORT : 7026 5016 150496 240
+setTodayTotalDetailSteps=1514038440000##7028##548365##8661##14261##27185977
+onStandStepChanged 3604
+calculateAltitudeWithCache totalAltitude=240
+calculateAltitudeWithCache totalAltitude=240
+calculateCaloriesWithCache totalCalories=127418
+onExtend:1514038548000 1 0 4
+ getTodayTotalDetailSteps = 1514038440000##7038##548365##8661##15211##27192478
+REPORT : 7040 5026 150796 240
+ getTodayTotalDetailSteps = 1514038440000##7042##548365##8661##15591##27195470
+setTodayTotalDetailSteps=1514038440000##7045##548365##8661##15781##27196970
+onStandStepChanged 3619
+onStandStepChanged 3620
+onExtend:1514038555000 1 0 4
+onStandStepChanged 3622
+calculateCaloriesWithCache totalCalories=127696
+setTodayTotalDetailSteps=1514038500000##7054##548551##8661##16256##27205469
+onExtend:1514038639000 0 0 4
+calculateCaloriesWithCache totalCalories=127867
+onStandStepChanged 3632
+onExtend:1514038643000 2 0 4
+ getTodayTotalDetailSteps = 1514038560000##7070##548560##8661##16256##27288471
+calculateAltitudeWithCache totalAltitude=240
+calculateCaloriesWithCache totalCalories=128210
+calculateCaloriesWithCache totalCalories=128210
+calculateCaloriesWithCache totalCalories=128274
+calculateAltitudeWithCache totalAltitude=240
+REPORT : 7081 5055 151675 240
+ getTodayTotalDetailSteps = 1514038560000##7081##548567##8661##16256##27310970
+calculateAltitudeWithCache totalAltitude=240
+REPORT : 7088 5060 151824 240
+onStandStepChanged 3662
+calculateCaloriesWithCache totalCalories=128553
+REPORT : 7090 5062 151867 240
+onStandStepChanged 3664
+calculateCaloriesWithCache totalCalories=128595
+setTodayTotalDetailSteps=1514038560000##7094##548574##8661##16256##27314468
+setTodayTotalDetailSteps=1514038560000##7095##548575##8661##16256##27314968
+calculateCaloriesWithCache totalCalories=128660
+onExtend:1514038672000 2 0 4
+onStandStepChanged 3673
+calculateAltitudeWithCache totalAltitude=240
+REPORT : 7101 5070 152103 240
+onExtend:1514038673000 1 0 4
+setTodayTotalDetailSteps=1514038560000##7102##548579##8661##16256##27317468
+REPORT : 7103 5071 152146 240
+onStandStepChanged 3677
+calculateAltitudeWithCache totalAltitude=240
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+onStandStepChanged 3685
+REPORT : 7114 5079 152381 240
+calculateAltitudeWithCache totalAltitude=240
+onExtend:1514038749000 5 0 4
+calculateAltitudeWithCache totalAltitude=240
+calculateAltitudeWithCache totalAltitude=240
+onExtend:1514038752000 3 0 4
+calculateAltitudeWithCache totalAltitude=240
+setTodayTotalDetailSteps=1514038680000##7140##548910##8661##16256##27396969
+onExtend:1514038756000 0 0 0
+ getTodayTotalDetailSteps = 1514038680000##7154##548915##8661##16256##27398975
+onExtend:1514038756000 6 0 4
+setTodayTotalDetailSteps=1514038680000##7160##548925##8661##16256##27442097
+writeDataToDB size 327
+insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = 4,errorMessage = ERR_DATA_INSERT
+insertHiHealthData() end totalTime = 45
+uploadStaticsToDB failed message=true
+getAppContext() isAppValid health or wear, packageName = com.huawei.health
+saveHealthDetailData() deviceID = 2,clientID=1,id=1
+sendSyncFailedBroadcast
+new date =20171223, type=40002,6724.0,old=7163.0
+new date =20171223, type=40034,292.73999999999995,old=292.73999999999995
+new date =20171223, type=40024,79200.0,old=79200.0
+new date =20171223, type=40044,420.0,old=420.0
+InsertCallBack() onSuccess  type = 0 data=true
+onStandStepChanged 3737
+ getTodayTotalDetailSteps = 1514038680000##7165##548940##8661##16256##27443484
+onExtend:1514038802000 3 0 4
+setTodayTotalDetailSteps=1514038740000##7181##549251##8661##16256##27446989
+REPORT : 7183 5128 153859 240
+onStandStepChanged 3757
+onExtend:1514038806000 1 0 4
+calculateAltitudeWithCache totalAltitude=240
+REPORT : 7187 5131 153945 240
+setTodayTotalDetailSteps=1514038740000##7188##549506##8661##16256##27451985
+REPORT : 7189 5132 153988 240
+ getTodayTotalDetailSteps = 1514038740000##7189##549608##8661##16256##27457484
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+setTodayTotalDetailSteps=1514038980000##7189##549659##8661##16256##27706526
+ getTodayTotalDetailSteps = 1514038980000##7189##549659##8661##16256##27738504
+setTodayTotalDetailSteps=1514039400000##7189##549659##8661##16256##28163940
+REPORT : 7189 5132 153988 240
+startTimer start autoSync
+initDataPrivacy the dataPrivacy is true
+onExtend:1514039626000 0 0 0
+onReceive action: android.intent.action.SCREEN_OFF
+onExtend:1514039917000 0 0 5
+processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+onExtend:1514040348000 0 0 5
+onStandStepChanged 3761
+ getTodayTotalDetailSteps = 1514040600000##7189##549659##8661##16256##29307585
+onExtend:1514040697000 0 0 0
+onStandStepChanged 3761
+calculateAltitudeWithCache totalAltitude=240
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+setTodayTotalDetailSteps=1514040660000##7189##549659##8661##16256##29409806
+calculateCaloriesWithCache totalCalories=130673
+ getTodayTotalDetailSteps = 1514040660000##7189##549659##8661##16256##29410120
+setTodayTotalDetailSteps=1514040720000##7189##549659##8661##16256##29425533
+REPORT : 7189 5132 153988 240
+flush sensor data
+calculateAltitudeWithCache totalAltitude=240
+onStandStepChanged 3761
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+onReceive action: android.intent.action.SCREEN_OFF
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+onExtend:1514040966000 0 0 5
+onExtend:1514041386000 0 0 5
+onExtend:1514041446000 0 0 5
+onExtend:1514041566000 0 0 5
+onStandStepChanged 3761
+setTodayTotalDetailSteps=1514041560000##7189##549659##8661##16256##30270445
+onStandStepChanged 3761
+calculateAltitudeWithCache totalAltitude=240
+calculateCaloriesWithCache totalCalories=130673
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+onExtend:1514042022000 0 0 5
+calculateAltitudeWithCache totalAltitude=240
+onExtend:1514042064000 0 0 0
+REPORT : 7191 5134 154031 240
+onStandStepChanged 3764
+ getTodayTotalDetailSteps = 1514041980000##7192##549659##8661##16256##30727733
+REPORT : 7193 5135 154074 240
+onStandStepChanged 3783
+calculateCaloriesWithCache totalCalories=131144
+REPORT : 7212 5149 154481 240
+onStandStepChanged 3786
+onExtend:1514042088000 2 0 4
+onExtend:1514042091000 0 0 0
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+setTodayTotalDetailSteps=1514042160000##7214##549659##8661##16256##30905315
+timeStamp back,extendReportTimeStamp=1514042265000
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+onStandStepChanged 3786
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+calculateAltitudeWithCache totalAltitude=240
+setTodayTotalDetailSteps=1514042880000##7214##549659##8661##16256##31589757
+calculateCaloriesWithCache totalCalories=131208
+calculateAltitudeWithCache totalAltitude=240
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+calculateCaloriesWithCache totalCalories=131208
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+setTodayTotalDetailSteps=1514043660000##7214##549659##8661##16256##32403526
+onExtend:1514044249000 0 0 0
+ getTodayTotalDetailSteps = 1514044140000##7214##549659##8661##16256##32893026
+calculateAltitudeWithCache totalAltitude=240
+onStandStepChanged 3786
+onExtend:1514044411000 0 0 0
+setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33066759
+onExtend:1514044431000 0 0 5
+calculateAltitudeWithCache totalAltitude=240
+setTodayTotalDetailSteps=1514044380000##7214##549659##8661##16256##33113758
+calculateAltitudeWithCache totalAltitude=240
+calculateCaloriesWithCache totalCalories=131208
+onStandStepChanged 3786
+onExtend:1514044496000 0 0 0
+calculateAltitudeWithCache totalAltitude=240
+onExtend:1514044524000 0 0 5
+calculateAltitudeWithCache totalAltitude=240
+setTodayTotalDetailSteps=1514044500000##7214##549659##8661##16256##33217764
+ getTodayTotalDetailSteps = 1514044500000##7214##549659##8661##16256##33217764
+setTodayTotalDetailSteps=1514044500000##7214##549659##8661##16256##33239758
+theDayChanged 1514044800216
+reStartStepCounter
+clear()
+ getTodayTotalDetailSteps = 1514044560000##7214##549659##8661##16256##33306763
+calculateCaloriesWithCache totalCalories=0
+deleteHealthNotification()
+ getTodayTotalDetailSteps = 1514044740000##0##549659##8661##16256##33449757
+calculateAltitudeWithCache totalAltitude=0
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+calculateCaloriesWithCache totalCalories=0
+ getTodayTotalDetailSteps = 1514045040000##0##549659##8661##16256##33767093
+calculateCaloriesWithCache totalCalories=0
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+calculateCaloriesWithCache totalCalories=0
+onStandStepChanged 3786
+ getTodayTotalDetailSteps = 1514045160000##0##549659##8661##16256##33866758
+calculateAltitudeWithCache totalAltitude=0
+onStandStepChanged 3786
+onExtend:1514045375000 0 0 0
+setTodayTotalDetailSteps=1514045340000##0##549659##8661##16256##34053757
+onStandStepChanged 3786
+setTodayTotalDetailSteps=1514045340000##0##549659##8661##16256##34054759
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+ getTodayTotalDetailSteps = 1514045400000##0##549659##8661##16256##34160765
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+onExtend:1514045753000 0 0 0
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+stepSyncOrNot appSynTimes is 0
+initDataPrivacy the dataPrivacy switch is open, start push health data!
+initUserPrivacy the userPrivacy is true
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+processHandleBroadcastAction action:android.intent.action.TIME_TICK
+Component State Change: Component \042alt0\042 is in the unavailable state (HWID=4088)
+Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2478)
+bootGenvmunix  (command 1903)
+halt  (command 1982)
+wait  (command 1973)
+boot  (command 2141)
+halt  (command 2221)
+wait  (command 2189)
+wait  (command 2800)
+boot  (command 3169)
+boot  (command 3194)
+wait  (command 3319)
+boot  (command 3519)
+wait  (command 4061)
+wait  (command 4110)
+wait  (command 4145)
+wait  (command 4221)
+wait  (command 4219)
+Temperature (41C) exceeds warning threshold
+ClusterFileSystem: There is no server for ServerFileSystem domain storage131
+Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+Fan speeds ( 3534 3534 3375 4272 3497 3479 )
+Fan speeds ( 3534 3534 3375 4470 3497 3479 )
+Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+Link error
+ServerFileSystem: ServerFileSystem domain root22_local is full
+ClusterFileSystem: ServerFileSystem domain root_domain is no longer served by node node-160
+ClusterFileSystem: ServerFileSystem domain root9_domain is no longer served by node node-224
+ClusterFileSystem: ServerFileSystem domain root10_domain is no longer served by node node-224
+ClusterFileSystem: ServerFileSystem domain root28_domain is no longer served by node node-96
+ClusterFileSystem: ServerFileSystem domain root28_domain is no longer served by node node-187
+ClusterFileSystem: ServerFileSystem domain root5_tmp is no longer served by node node-228
+ClusterFileSystem: ServerFileSystem domain cluster_var_backup is no longer served by node node-224
+running
+running
+configured out
+running
+configured out
+running
+configured out
+running
+not responding
+not responding
+running
+configured out
+running
+configured out
+running
+blocked
+running
+running
+running
+running
+not responding
+running
+configured out
+not responding
+configured out
+configured out
+configured out
+running
+running
+running
+running
+running
+not responding
+configured out
+blocked
+running
+normal
+ambient=30
+normal
+normal
+warning
+ambient=31
+normal
+normal
+normal
+normal
+warning
+ambient=31
+warning
+warning
+ambient=31
+ambient=31
+ambient=29
+normal
+ambient=31
+normal
+warning
+normal
+normal
+normal
+warning
+ambient=30
+normal
+ambient=36
+warning
+ambient=30
+ambient=32
+normal
+normal
+ambient=27
+warning
+normal
+normal
+warning
+warning
+normal
+warning
+normal
+ambient=26
+normal
+ambient=29
+normal
+warning
+ambient=35
+warning
+ambient=27
+ambient=32
+warning
+normal
+normal
+ambient=24
+ambient=27
+normal
+warning
+ambient=26
+ambient=28
+ambient=29
+normal
+warning
+ambient=26
+ambient=27
+ambient=31
+normal
+warning
+ambient=28
+warning
+ambient=30
+ambient=33
+normal
+ambient=27
+ambient=25
+normal
+normal
+Link ok
+Link in reset
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+Linkerror event interval expired
+link errors remain current
+link errors remain current
+link errors remain current
+link errors remain current
+link errors remain current
+link errors remain current
+link errors remain current
+NIFF: node node-120 has detected an available network connection on network 5.5.226.0 via interface alt0
+NIFF: node node-234 has detected an available network connection on network 10.128.0.0 via interface ee0
+NIFF: node node-244 has detected an available network connection on network 10.128.0.0 via interface ee0
+NIFF: node node-44 has detected an available network connection on network 10.128.0.0 via interface ee0
+NIFF: node node-29 has detected an available network connection on network 0.0.0.0 via interface alt0
+NIFF: node node-203 has detected an available network connection on network 5.5.224.0 via interface alt0
+NIFF: node node-142 has detected an available network connection on network 10.128.0.0 via interface ee0
+NIFF: node node-45 has detected an available network connection on network 10.128.0.0 via interface ee0
+NIFF: node node-204 has detected an available network connection on network 5.5.224.0 via interface alt0
+NIFF: node node-26 has detected an available network connection on network 10.128.0.0 via interface ee0
+NIFF: node node-248 has detected an available network connection on network 10.128.0.0 via interface ee0
+IOThunderboltSwitch<0>(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 11 unplug = 0
+__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 439034 seconds.  Ignoring.
+ARPT: 621145.554555: IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': Yes, 'TimeRemaining': 0,
+AppleThunderboltGenericHAL::earlyWake - complete - took 0 milliseconds
+en0::IO80211Interface::postMessage bssid changed
+Thermal pressure state: 1 Memory pressure state: 0
+__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED
+Sandbox: com.apple.Addres(31328) deny(1) network-outbound /private/var/run/mDNSResponder
+Sandbox: com.apple.Addres(31346) deny(1) network-outbound /private/var/run/mDNSResponder
+Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+AppleCamIn::systemWakeCall - messageType = 0xE0000340
+CCXPCService::setStreamEventHandler Registered for notification callback.
+ARPT: 626625.204595: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 3034132215, Ack 528237229, Win size 278
+com.apple.suggestions.harvest: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 15323 seconds.  Ignoring.
+Location icon should now be in state 'Active'
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 0x7f9950712080>.
+Error returned from iconservicesagent: (null)
+button report: 0x8002bdf
+FA||Url||taskID[2019353117] dealloc
+Bluetooth -- LE is supported - Disable LE meta event
+ARPT: 646509.760609: AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+KeychainGetICDPStatus: keychain: -25300
+network changed: v4(en0:10.105.163.202) v6(en0+:2607:f140:6000:8:c6b3:1ff:fecd:467f) DNS! Proxy SMB
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 3
+Thermal pressure state: 0 Memory pressure state: 0
+com.apple.CacheDelete.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 61304 seconds.  Ignoring.
+device_generate_lock_screen_screenshot: authw 0x7fa823962400(2000)[0, 0, 1440, 900] shield 0x7fa82d372000(2001), dev [1440,900]
+[21:17:07.529] FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c line 92
+AppleCamIn::systemWakeCall - messageType = 0xE0000340
+SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=com.apple.security.sos.error Code=1035 "Account identity not set" UserInfo={NSDescription=Account identity not set}
+Wake reason: ?
+01:06:37.436 : Scanning mode Contacts Only
+ARPT: 671958.142550: wl0: setup_keepalive: Local port: 49791, Remote port: 5223
+ARPT: 672113.005012: wl0: setup_keepalive: interval 258, retry_interval 30, retry_count 10
+ARPT: 672113.005034: wl0: setup_keepalive: Seq: 1128495564, Ack: 3106452487, Win size: 4096
+mDNS_DeregisterInterface: Frequent transitions for interface en0 (10.142.110.44)
+ARPT: 672487.663921: wl0: MDNS: IPV6 Addr: 2607:f140:400:a01b:c6b3:1ff:fecd:467f
+com.apple.Addres(33047) deny network-outbound /private/var/run/mDNSResponder
+button report: 0x80039B7
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 3
+IOThunderboltSwitch<0>(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 11 unplug = 0
+IOThunderboltSwitch<0>(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 11 unplug = 0
+com.apple.Addres(33139) deny network-outbound /private/var/run/mDNSResponder
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 1
+[12:02:22.126] FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c line 92
+[12:22:42.202] itemasync_SetProperty signalled err=-12785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c line 2306
+ARPT: 681387.132167: AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake
+tcp_connection_handle_connect_conditions_bad 20851 failed: 3 - No network route
+dnssd_clientstub ConnectToServer: connect() failed path:/var/run/mDNSResponder Socket:4 Err:-1 Errno:1 Operation not permitted
+ARPT: 682406.173418: wl0: setup_keepalive: Remote IP: 17.249.28.77
+Received Capture Event
+CCFile::captureLog
+__42-[NETClientConnection evaluateCrazyIvan46]_block_invoke CI46 - Hit by torpedo! NeteaseMusic.17988 tc9008 103.251.128.144:80
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED
+assertion failed: 15G1510: com.apple.telemetry + 38574 [10D2E324-788C-30CC-A749-55AE67AEC7BC]: 0x7fc235807b90
+Wake reason: ARPT (Network)
+ASSERTION FAILED: dvcAddrRef != ((void *)0) -[DriverServices getDeviceAddress:] line: 2789
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- calling IOBluetoothFamily's registerService() -- 0x5fd0 -- 0x9a00 -- 0xc800 ****
+ARPT: 683779.928118: framerdy 0x0 bmccmd 3 framecnt 1024
+ARPT: 683780.224800: AQM agg results 0x8001 len hi/lo: 0x0 0x26 BAbitmap(0-3) 0 0 0 0
+hibernate_rebuild_pmap_structs done: last_valid_compact_indx 285862
+[20:20:37.119] <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 1
+com.apple.SoftwareUpdate.Activity: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 6306 seconds.  Ignoring.
+com.apple.SoftwareUpdate.Activity: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 5533 seconds.  Ignoring.
+com.apple.suggestions.harvest: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 9749 seconds.  Ignoring.
+com.apple.EscrowSecurityAlert.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 39837 seconds.  Ignoring.
+dnssd_clientstub ConnectToServer: connect() failed path:/var/run/mDNSResponder Socket:4 Err:-1 Errno:1 Operation not permitted
+en0: channel changed to 6
+ARPT: 698898.741521: AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake
+com.apple.EscrowSecurityAlert.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 28123 seconds.  Ignoring.
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 192946 seconds.  Ignoring.
+IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, enterQuietMode(true)
+com.apple.CacheDelete.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 23852 seconds.  Ignoring.
+NETWORK: requery, 0, 0, 0, 0, 320, items, fQueryRetries, 1, fLastRetryTimestamp, 520871064.1
+ARPT: 699815.080622: wl0: MDNS: IPV6 Addr: fe80:0:0:0:c6b3:1ff:fecd:467f
+com.apple.suggestions.harvest: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 5144 seconds.  Ignoring.
+Sandbox: QQ(10018) deny(1) mach-lookup com.apple.networking.captivenetworksupport
+AppleCamIn::wakeEventHandlerThread
+com.apple.CacheDelete.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 12051 seconds.  Ignoring.
+ARPT: 700254.389213: wl0: setup_keepalive: Seq: 2502126767, Ack: 2906384231, Win size: 4096
+ARPT: 700311.376442: wl0: MDNS: IPV6 Addr: 2607:f140:6000:8:c6b3:1ff:fecd:467f
+com.apple.suggestions.harvest: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 43063 seconds.  Ignoring.
+AppleThunderboltGenericHAL::earlyWake - complete - took 1 milliseconds
+Sandbox: com.apple.Addres(34685) deny(1) network-outbound /private/var/run/mDNSResponder
+com.apple.CacheDelete.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 7615 seconds.  Ignoring.
+AppleCamIn::wakeEventHandlerThread
+Path not allowed in target domain: type = pid, path = /System/Library/StagedFrameworks/Safari/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.History.xpc/Contents/MacOS/com.apple.Safari.History error = 147: The specified service did not ship in the requestor's bundle, origin = /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc
+[Accounts] Current connection, <NSXPCConnection: 0x7fda74805bf0> connection from pid 487, doesn't have account access.
+Location icon should now be in state 'Active'
+com.apple.SoftwareUpdate.Activity: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 4045 seconds.  Ignoring.
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 151433 seconds.  Ignoring.
+ARPT: 711752.511718: AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake
+17:26:44.228 : Scanning mode Contacts Only
+ARPT: 711979.641310: wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+ARPT: 712221.085635: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 70582765, Ack 3488103719, Win size 358
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 1
+ARPT: 712604.204993: wl0: MDNS: IPV6 Addr: fe80:0:0:0:c6b3:1ff:fecd:467f
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 139865 seconds.  Ignoring.
+ARPT: 713439.104255: IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': Yes, 'TimeRemaining': 0,
+AppleCamIn::systemWakeCall - messageType = 0xE0000340
+PM response took 113 ms (24144, WeChat)
+Cocoa scripting error for '0x03f20026': four character codes must be four characters long.
+Cocoa scripting error for '0x006a00a6': four character codes must be four characters long.
+Cocoa scripting error for '0x006a00a7': four character codes must be four characters long.
+Cocoa scripting error for '0x01f60001': four character codes must be four characters long.
+Cocoa scripting error for '0x0249002a': four character codes must be four characters long.
+Cocoa scripting error for '0x0295001d': four character codes must be four characters long.
+Cocoa scripting error for '0x02b70006': four character codes must be four characters long.
+FA||Url||taskID[2019353519] dealloc
+RTC: PowerByCalendarDate setting ignored
+ARPT: 720580.338311: AirPort_Brcm43xx::powerChange: System Sleep
+Wake reason: EC.SleepTimer (SleepTimer)
+**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- 0x6000 ****
+hibernate_newruntime_map time: 0 ms, IOPolledFilePollersOpen(), ml_get_interrupts_enabled 0
+BuildActDeviceEntry exit
+2017-07-05 10:52:16.779 ksfetch[35863/0x7fff79824000] [lvl=2] main() Fetcher received a request: <NSMutableURLRequest: 0x100501610> { URL: https://tools.google.com/service/update2?cup2hreq=a7873a51b1cb55518e420d20dff47d463781ed3f7aa83c3153129eefb148070b&cup2key=7:2501762722 }
+2017-07-05 10:52:16.977 GoogleSoftwareUpdateAgent[35861/0x700000323000] [lvl=2] -[KSPrefetchAction performAction] KSPrefetchAction no updates to prefetch.
+CCFile::copyFile fileName is [2017-07-05_11,39,39.743225]-CCIOReporter-001.xml, source path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/OneStats//[2017-07-05_11,39,39.743225]-CCIOReporter-001.xml, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-05_11,39,38.739976]=AuthFail:sts:5_rsn:0/OneStats//[2017-07-05_11,39,39.743225]-CCIOReporter-001.xml
+CGXDisplayDidWakeNotification [723587602857832]: posting kCGSDisplayDidWake
+button report: 0x8002bdf
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+en0: BSSID changed to 88:75:56:a0:95:ed
+AppleCamIn::systemWakeCall - messageType = 0xE0000340
+CCFile::copyFile fileName is [2017-07-05_14,04,19.163834]-AirPortBrcm4360_Logs-025.txt, source path:/var/log/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/DriverLogs//[2017-07-05_14,04,19.163834]-AirPortBrcm4360_Logs-025.txt, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/[2017-07-05_14,04,19.222771]=AuthFail:sts:5_rsn:0/DriverLogs//[2017-07-05_14,04,19.163834]-AirPortBrcm4360_Logs-025.txt
+ARPT: 724869.297011: IOPMPowerSource Information: onWake,  SleepType: Normal Sleep,  'ExternalConnected': No, 'TimeRemaining': 4551,
+nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 0x8000000000000000 to 0x4
+IOThunderboltSwitch<0>(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 11 unplug = 0
+ARPT: 725218.810934: AirPort_Brcm43xx::powerChange: System Sleep
+KeychainGetICDPStatus: status: off
+CCFile::captureLog
+Captive: CNPluginHandler en0: Inactive
+CCFile::captureLog
+AppleCamIn::systemWakeCall - messageType = 0xE0000340
+Sandbox: com.apple.Addres(36325) deny(1) network-outbound /private/var/run/mDNSResponder
+hostControllerOnline - Number of Paired devices = 1, List of Paired devices = ( "84-41-67-32-db-e1" )
+hibernate_newruntime_map time: 0 ms, IOPolledFilePollersOpen(), ml_get_interrupts_enabled 0
+[BluetoothHIDDeviceController] EventServiceConnectedCallback
+-[NETClientConnection effectiveBundleID] using process name apsd as bundle ID (this is expected for daemons without bundle ID
+**** [BroadcomBluetoothHostController][SetupController] -- Delay HCI Reset by 300ms  ****
+AppleActuatorHIDEventDriver: stop
+assertion failed: 15G1510: com.apple.telemetry + 38574 [10D2E324-788C-30CC-A749-55AE67AEC7BC]: 0x7fc235807b90
+2017-07-06 00:30:37.064 ksfetch[36439/0x7fff79824000] [lvl=2] main() Fetcher is exiting.
+hibernate_page_list_setall(preflight 1) start
+[IOBluetoothHostController::setConfigState] calling registerService
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+doSaveChannels@286: Will write to: /Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-06_08,33,08.335034] - AuthFail:sts:5_rsn:0.xml
+NETWORK: requery, 0, 0, 0, 0, 302, items, fQueryRetries, 0, fLastRetryTimestamp, 521048292.6
+ChromeExistion main strSendMsg = {"websitekey":false,"commandkey":true,"browserkey":true}
+the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin
+en0: channel changed to 36,+1
+CCFile::captureLogRun Skipping current file Dir file [2017-07-06_12,03,00.133649]-CCIOReporter-028.xml, Current File [2017-07-06_12,03,00.133649]-CCIOReporter-028.xml
+[0706/120312:WARNING:dns_config_service_posix.cc(306)] Failed to read DnsConfig.
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED
+tcp_connection_tls_session_error_callback_imp 2375 __tcp_connection_tls_session_callback_write_block_invoke.434 error 22
+Received Capture Event
+Service "com.apple.xpc.launchd.unmanaged.loginwindow.94" tried to hijack endpoint "com.apple.tsm.uiserver" from owner: com.apple.SystemUIServer.agent
+AppleCamIn::systemWakeCall - messageType = 0xE0000340
+AppleCamIn::handleWakeEvent_gated
+ARPT: 740501.982555: wl0: MDNS: IPV6 Addr: fe80:0:0:0:c6b3:1ff:fecd:467f
+ARPT: 740504.547655: AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+2017-07-06 06:22:57.163367 PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification
+2017/07/06 18:22:57.953 | I | VoipWrapper  | DAVEngineImpl.cpp:1400:Close             | close video chat. llFriendUIN = 1742124257.
+[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host (0x01)
+com.apple.SoftwareUpdate.Activity: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 5880 seconds.  Ignoring.
+com.apple.suggestions.harvest: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 16680 seconds.  Ignoring.
+ARPT: 744472.877165: AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+ARPT: 744593.160590: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 1529267953, Ack 4054195714, Win size 380
+IOThunderboltSwitch<0>(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 12 unplug = 0
+RTC: PowerByCalendarDate setting ignored
+Failed to connect (titleField) outlet from (MMSessionPickerChoosenRowView) to (NSTextField): missing setter or instance variable
+[com.apple.calendar.store.log.caldav.queue] [Account xpc_ben@163.com@https://caldav.163.com/caldav/principals/users/xpc_ben%40163.com/ timed out when executing operation: <CalDAVAccountRefreshQueueableOperation: 0x7fa11f9f2290; Sequence: 0>]
+CCFile::copyFile fileName is [2017-07-07_00,52,55.450817]-CCIOReporter-001.xml, source path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/OneStats//[2017-07-07_00,52,55.450817]-CCIOReporter-001.xml, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-07_00,52,54.449889]=AuthFail:sts:5_rsn:0/OneStats//[2017-07-07_00,52,55.450817]-CCIOReporter-001.xml
+AppleCamIn::systemWakeCall - messageType = 0xE0000340
+AppleCamIn::systemWakeCall - messageType = 0xE0000340
+com.apple.EscrowSecurityAlert.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 35733 seconds.  Ignoring.
+AppleCamIn::wakeEventHandlerThread
+com.apple.Addres(37725) deny network-outbound /private/var/run/mDNSResponder
+AirPort: Link Down on awdl0. Reason 1 (Unspecified).
+Thermal pressure state: 0 Memory pressure state: 0
+com.apple.EscrowSecurityAlert.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 10028 seconds.  Ignoring.
+AppleThunderboltGenericHAL::earlyWake - complete - took 0 milliseconds
+com.apple.EscrowSecurityAlert.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 9219 seconds.  Ignoring.
+Unrecognized XSSimpleTypeDefinition: OneOff
+Error returned from iconservicesagent: (null)
+CCFile::captureLog
+doSaveChannels@286: Will write to: /Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-07_13,38,22.072050] - AssocFail:sts:2_rsn:0.xml
+ARPT: 770712.519828: framerdy 0x0 bmccmd 3 framecnt 1024
+ARPT: 770802.879782: wlc_dump_aggfifo:
+ARPT: 770812.035971: AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake
+AppleCamIn::handleWakeEvent_gated
+PBRequester failed with Error Error Domain=NSURLErrorDomain Code=-1009 "The Internet connection appears to be offline." UserInfo={NSUnderlyingError=0x7fb7f0035dc0 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 "The Internet connection appears to be offline." UserInfo={NSErrorFailingURLStringKey=https://gs-loc.apple.com/clls/wloc, NSErrorFailingURLKey=https://gs-loc.apple.com/clls/wloc, _kCFStreamErrorCodeKey=8, _kCFStreamErrorDomainKey=12, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=https://gs-loc.apple.com/clls/wloc, NSErrorFailingURLKey=https://gs-loc.apple.com/clls/wloc, _kCFStreamErrorDomainKey=12, _kCFStreamErrorCodeKey=8, NSLocalizedDescription=The Internet connection appears to be offline.}
+############################## _getSysMsgList
+[16:57:09.235] <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+KeychainGetICDPStatus: status: off
+[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host (0x01)
+en0::IO80211Interface::postMessage bssid changed
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 441483 seconds.  Ignoring.
+Error returned from iconservicesagent: (null)
+[QL] No sandbox token for request <QLThumbnailRequest vmware-usbarb-25037.log>, it will probably fail
+schedule invalidation <DYTransport 0x7f89e8c00520, error: lost transport connection (31)>
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+KeychainGetICDPStatus: keychain: -25300
+KeychainGetICDPStatus: keychain: -25300
+ARPT: 783795.288172: AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake
+button report: 0x8002be0
+ARPT: 783991.995027: wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+IOThunderboltSwitch<0>(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 11 unplug = 0
+Wake reason: ARPT (Network)
+[HID] [MT] AppleActuatorHIDEventDriver::start entered
+Captive: CNPluginHandler en0: Inactive
+ARPT: 785104.988856: AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+setting hostname to "calvisitor-10-105-162-124.calvisitor.1918.berkeley.edu"
+hibernate image path: /var/vm/sleepimage
+CCFile::copyFile fileName is [2017-07-08_05,55,23.694116]-io80211Family-002.pcapng, source path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/IO80211AWDLPeerManager//[2017-07-08_05,55,23.694116]-io80211Family-002.pcapng, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-08_05,56,40.163377]=AssocFail:sts:2_rsn:0/IO80211AWDLPeerManager//[2017-07-08_05,55,23.694116]-io80211Family-002.pcapng
+[com.apple.calendar.store.log.caldav.coredav] [Refusing to parse response to PROPPATCH because of content-type: [text/html; charset=UTF-8].]
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2777061
+[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Took 19.05 seconds to spawn the instance on the hypervisor.
+[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Took 19.84 seconds to build instance.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1910 time: 0.2603891
+10.11.21.122,10.11.10.1 "GET /openstack/2013-10-17/user_data HTTP/1.1" status: 404 len: 176 time: 0.0010660
+Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.10.1 "POST /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers HTTP/1.1" status: 202 len: 733 time: 0.6686139
+[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Total disk: 15 GB, used: 0.00 GB
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2643161
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2665739
+[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] VM Started (Lifecycle Event)
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2555740
+10.11.21.123,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.2335150
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1916 time: 0.2644901
+Running instance usage audit for host cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us from 2017-05-16 05:00:00 to 2017-05-16 06:00:00. 87 instances.
+[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Deletion of /var/lib/nova/instances/96abccce-8d1f-4e07-b6d1-4b2ab87e23b4_del complete
+[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Total vcpu: 16 VCPU, used: 0.00 VCPU
+[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] VM Resumed (Lifecycle Event)
+[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Took 19.37 seconds to spawn the instance on the hypervisor.
+10.11.21.124,10.11.10.1 "GET /openstack/2013-10-17/user_data HTTP/1.1" status: 404 len: 176 time: 0.0010281
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage
+[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Took 0.45 seconds to deallocate network for instance.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 211 time: 0.0977290
+HTTP exception thrown: No instances found for any event
+Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2322080
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2675440
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2670941
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1910 time: 0.2577691
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 211 time: 0.1063731
+[instance: 95960536-049b-41f6-9049-05fc479b6a7c] disk limit not specified, defaulting to unlimited
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/95960536-049b-41f6-9049-05fc479b6a7c HTTP/1.1" status: 200 len: 1708 time: 0.1721809
+[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] VM Stopped (Lifecycle Event)
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2598870
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage
+10.11.10.1 "POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1" status: 200 len: 380 time: 0.0867331
+[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Took 19.71 seconds to spawn the instance on the hypervisor.
+[instance: 95960536-049b-41f6-9049-05fc479b6a7c] VM Resumed (Lifecycle Event)
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1910 time: 0.2752779
+10.11.21.126,10.11.10.1 "GET /latest/meta-data/placement/ HTTP/1.1" status: 200 len: 134 time: 0.2258282
+[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Instance destroyed successfully.
+[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Deleting instance files /var/lib/nova/instances/95960536-049b-41f6-9049-05fc479b6a7c_del
+[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Took 1.00 seconds to destroy the instance on the hypervisor.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 211 time: 0.1013889
+Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Creating image
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1759 time: 0.2973850
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage
+[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] VM Resumed (Lifecycle Event)
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1910 time: 0.2687280
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage
+10.11.21.127,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.2475102
+[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] memory limit: 96258.00 MB, free: 95746.00 MB
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1759 time: 0.2832489
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2634912
+[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] VM Paused (Lifecycle Event)
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.3798852
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+10.11.10.1 "DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/af5f7392-f7d4-4298-b647-c98924c64aa1 HTTP/1.1" status: 204 len: 203 time: 0.2809131
+[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Took 1.01 seconds to destroy the instance on the hypervisor.
+Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Total disk: 15 GB, used: 0.00 GB
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1759 time: 0.3028941
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2591050
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2656732
+[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] During sync_power_state the instance has a pending task (spawning). Skip.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2693179
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2679729
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2661889
+[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] VM Resumed (Lifecycle Event)
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.21.129,10.11.10.1 "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 119 time: 0.0008659
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1874 time: 0.1815979
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2748799
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2686439
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2646010
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2556951
+[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] VM Started (Lifecycle Event)
+[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] VM Paused (Lifecycle Event)
+[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] During sync_power_state the instance has a pending task (spawning). Skip.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.4322081
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.3834350
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage
+10.11.21.130,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.2199168
+[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] Deleting instance files /var/lib/nova/instances/43204226-2f87-4da7-b7ee-4d20cc66e846_del
+[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Total vcpu: 16 VCPU, used: 0.00 VCPU
+[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] vcpu limit not specified, defaulting to unlimited
+[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] VM Paused (Lifecycle Event)
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage
+10.11.21.131,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.2361510
+[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Deleting instance files /var/lib/nova/instances/fecdd5a9-3ca0-4c82-9336-63b7774f738e_del
+Removing base or swap file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2630441
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+10.11.21.132,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.2239330
+10.11.21.132,10.11.10.1 "GET /latest/meta-data/public-hostname HTTP/1.1" status: 200 len: 130 time: 0.2245400
+[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Terminating instance
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1916 time: 0.2783649
+Final resource view: name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB used_ram=512MB phys_disk=15GB used_disk=0GB total_vcpus=16 used_vcpus=0 pci_stats=[]
+[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Total memory: 64172 MB, used: 512.00 MB
+[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Total disk: 15 GB, used: 0.00 GB
+[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Claim successful
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2747049
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2688880
+[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] VM Paused (Lifecycle Event)
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2604382
+[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] VM Resumed (Lifecycle Event)
+[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Instance spawned successfully.
+[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Took 20.23 seconds to build instance.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1910 time: 0.2694650
+[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Instance destroyed successfully.
+10.11.21.133,10.11.10.1 "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 119 time: 0.4668469
+[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Took 0.47 seconds to deallocate network for instance.
+[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] memory limit: 96258.00 MB, free: 95746.00 MB
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2608740
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2652020
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.4219470
+[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] VM Resumed (Lifecycle Event)
+[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Instance spawned successfully.
+[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] During sync_power_state the instance has a pending task (spawning). Skip.
+[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Took 19.79 seconds to build instance.
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage
+10.11.21.134,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.0007591
+10.11.10.1 "DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/17288ea8-cbf4-4f0e-94fe-853fd2735f29 HTTP/1.1" status: 204 len: 203 time: 0.2726481
+[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Took 1.00 seconds to destroy the instance on the hypervisor.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1583 time: 0.1850250
+[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] vcpu limit not specified, defaulting to unlimited
+[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] VM Resumed (Lifecycle Event)
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.21.135,10.11.10.1 "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 119 time: 0.0006430
+10.11.21.135,10.11.10.1 "GET /latest/meta-data/local-ipv4 HTTP/1.1" status: 200 len: 129 time: 0.0008481
+Total usable vcpus: 16, total allocated vcpus: 0
+Removing base or swap file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/bf8c824d-f099-4433-a41e-e3da7578262e HTTP/1.1" status: 200 len: 1708 time: 0.1956160
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2563291
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2663469
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2652750
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2598419
+[instance: bf8c824d-f099-4433-a41e-e3da7578262e] VM Started (Lifecycle Event)
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.21.136,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.2159710
+10.11.21.136,10.11.10.1 "GET /latest/meta-data/placement/ HTTP/1.1" status: 200 len: 134 time: 0.0015550
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1916 time: 0.2665620
+Removable base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+Removing base or swap file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Total vcpu: 16 VCPU, used: 0.00 VCPU
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2605171
+Final resource view: name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB used_ram=2560MB phys_disk=15GB used_disk=20GB total_vcpus=16 used_vcpus=1 pci_stats=[]
+Compute_service record updated for cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2741919
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1910 time: 0.2641079
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.21.137,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.0005460
+10.11.21.137,10.11.10.1 "GET /openstack/2013-10-17/user_data HTTP/1.1" status: 404 len: 176 time: 0.2108901
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1916 time: 0.2693460
+10.11.10.1 "POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1" status: 404 len: 296 time: 0.0970299
+[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Total memory: 64172 MB, used: 512.00 MB
+[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Total disk: 15 GB, used: 0.00 GB
+[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] disk limit not specified, defaulting to unlimited
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2507980
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2690120
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.4303629
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1910 time: 0.2771690
+10.11.21.138,10.11.10.1 "GET /openstack/2013-10-17 HTTP/1.1" status: 200 len: 157 time: 0.0010941
+10.11.21.138,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.2357898
+Total usable vcpus: 16, total allocated vcpus: 0
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+[instance: d96a117b-0193-4549-bdcc-63b917273d1d] VM Resumed (Lifecycle Event)
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage
+10.11.21.139,10.11.10.1 "GET /openstack/2013-10-17/user_data HTTP/1.1" status: 404 len: 176 time: 0.0010579
+10.11.21.139,10.11.10.1 "GET /latest/meta-data/block-device-mapping/ HTTP/1.1" status: 200 len: 124 time: 0.2223170
+10.11.21.139,10.11.10.1 "GET /latest/meta-data/placement/availability-zone HTTP/1.1" status: 200 len: 120 time: 0.0008299
+10.11.21.139,10.11.10.1 "GET /latest/meta-data/ami-launch-index HTTP/1.1" status: 200 len: 117 time: 0.2664881
+[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] disk limit not specified, defaulting to unlimited
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/d6b7bd36-2943-4363-9235-fffdd89ea40e HTTP/1.1" status: 200 len: 1708 time: 0.2011390
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2556710
+[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Instance spawned successfully.
+[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] During sync_power_state the instance has a pending task (spawning). Skip.
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1910 time: 0.2428820
+10.11.21.140,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.2250240
+10.11.21.140,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.0006189
+10.11.21.140,10.11.10.1 "GET /openstack/2013-10-17/meta_data.json HTTP/1.1" status: 200 len: 967 time: 0.0032220
+10.11.10.1 "DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/d6b7bd36-2943-4363-9235-fffdd89ea40e HTTP/1.1" status: 204 len: 203 time: 0.2511380
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1874 time: 0.1959360
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2623498
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2643571
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2522879
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage
+[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] VM Resumed (Lifecycle Event)
+10.11.21.141,10.11.10.1 "GET /openstack/2013-10-17 HTTP/1.1" status: 200 len: 157 time: 0.0009151
+10.11.21.141,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.2228522
+10.11.21.141,10.11.10.1 "GET /openstack/2013-10-17/meta_data.json HTTP/1.1" status: 200 len: 967 time: 0.0009491
+10.11.10.1 "POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1" status: 404 len: 296 time: 0.0877421
+Removable base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+Removing base or swap file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2621701
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2570450
+10.11.21.142,10.11.10.1 "GET /openstack/2013-10-17 HTTP/1.1" status: 200 len: 157 time: 0.0008900
+10.11.21.142,10.11.10.1 "GET /openstack/2013-10-17/meta_data.json HTTP/1.1" status: 200 len: 967 time: 0.2257652
+[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Terminating instance
+[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] VM Stopped (Lifecycle Event)
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2665989
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2672279
+[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] VM Paused (Lifecycle Event)
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.4260600
+Creating event network-vif-plugged:1771f0af-aae8-4b03-97c9-a7bc9c5e4bb7 for instance faf974ea-cba5-4e1b-93f4-3a3bc606006f
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1910 time: 0.2753000
+10.11.21.143,10.11.10.1 "GET /openstack/2013-10-17/vendor_data.json HTTP/1.1" status: 200 len: 124 time: 0.2143800
+Changing view acls to: yarn,curi
+Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904]
+MemoryStore started with capacity 17.7 GB
+Successfully registered with driver
+Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 40984.
+Running task 2.0 in stage 0.0 (TID 2)
+Running task 3.0 in stage 0.0 (TID 3)
+Running task 4.0 in stage 0.0 (TID 4)
+Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:29168+7292
+Block broadcast_8_piece0 stored as bytes in memory (estimated size 21.4 KB, free 35.4 KB)
+Reading broadcast variable 0 took 21 ms
+Block broadcast_3_piece0 stored as bytes in memory (estimated size 152.0 B, free 318.1 KB)
+Block broadcast_3 stored as values in memory (estimated size 384.0 B, free 318.5 KB)
+Block broadcast_2 stored as values in memory (estimated size 384.0 B, free 319.4 KB)
+Times: total = 1072, boot = 856, init = 210, finish = 6
+Times: total = 1114, boot = 885, init = 223, finish = 6
+Finished task 0.0 in stage 0.0 (TID 0). 2703 bytes result sent to driver
+Got assigned task 56
+Running task 1.0 in stage 1.0 (TID 56)
+Found block rdd_2_1 locally
+Finished task 3.0 in stage 1.0 (TID 78). 2651 bytes result sent to driver
+Running task 1.0 in stage 2.0 (TID 101)
+Times: total = 39, boot = -159, init = 198, finish = 0
+Finished task 2.0 in stage 2.0 (TID 112). 2087 bytes result sent to driver
+Running task 1.0 in stage 3.0 (TID 136)
+Running task 4.0 in stage 3.0 (TID 159)
+Found block rdd_2_2 locally
+Finished task 2.0 in stage 3.0 (TID 150). 2667 bytes result sent to driver
+Got assigned task 171
+Got assigned task 198
+Found block rdd_6_0 locally
+Times: total = 40, boot = -78, init = 117, finish = 1
+Got assigned task 273
+Running task 2.0 in stage 6.0 (TID 273)
+Found block rdd_2_0 locally
+Got assigned task 299
+Running task 1.0 in stage 7.0 (TID 299)
+Block broadcast_16_piece0 stored as bytes in memory (estimated size 5.6 KB, free 422.1 KB)
+Times: total = 38, boot = 17, init = 21, finish = 0
+Times: total = 40, boot = 19, init = 21, finish = 0
+Finished task 3.0 in stage 7.0 (TID 318). 2667 bytes result sent to driver
+Finished task 4.0 in stage 7.0 (TID 319). 2667 bytes result sent to driver
+Running task 2.0 in stage 8.0 (TID 349)
+Running task 4.0 in stage 8.0 (TID 359)
+Block broadcast_17_piece0 stored as bytes in memory (estimated size 5.7 KB, free 438.5 KB)
+Found block rdd_11_0 locally
+Found block rdd_11_1 locally
+Times: total = 41, boot = -104, init = 144, finish = 1
+Got assigned task 374
+Got assigned task 398
+Times: total = 40, boot = -75, init = 114, finish = 1
+Running task 2.0 in stage 10.0 (TID 430)
+Found block rdd_2_4 locally
+Times: total = 41, boot = -115, init = 155, finish = 1
+Finished task 1.0 in stage 10.0 (TID 416). 2087 bytes result sent to driver
+Got assigned task 475
+Started reading broadcast variable 20
+Partition rdd_16_2 not found, computing it
+Times: total = 40, boot = -95, init = 135, finish = 0
+Times: total = 42, boot = -95, init = 137, finish = 0
+Started reading broadcast variable 21
+Got assigned task 519
+Running task 4.0 in stage 12.0 (TID 519)
+Finished task 4.0 in stage 12.0 (TID 519). 2155 bytes result sent to driver
+Finished task 1.0 in stage 12.0 (TID 494). 2105 bytes result sent to driver
+Block broadcast_22_piece0 stored as bytes in memory (estimated size 5.8 KB, free 409.0 KB)
+Block broadcast_22 stored as values in memory (estimated size 9.6 KB, free 418.6 KB)
+Found block rdd_2_2 locally
+Got assigned task 598
+Running task 3.0 in stage 14.0 (TID 598)
+Found block rdd_2_3 locally
+Partition rdd_21_4 not found, computing it
+Found block rdd_2_3 locally
+Block rdd_21_2 stored as bytes in memory (estimated size 163.0 B, free 403.5 KB)
+Finished task 1.0 in stage 15.0 (TID 626). 2667 bytes result sent to driver
+Started reading broadcast variable 25
+Times: total = 39, boot = -104, init = 143, finish = 0
+Times: total = 39, boot = -106, init = 145, finish = 0
+Finished task 1.0 in stage 16.0 (TID 657). 2163 bytes result sent to driver
+Running task 1.0 in stage 17.0 (TID 706)
+Got assigned task 718
+Block broadcast_26 stored as values in memory (estimated size 9.7 KB, free 389.6 KB)
+Running task 3.0 in stage 18.0 (TID 758)
+Times: total = 38, boot = -77, init = 115, finish = 0
+Times: total = 42, boot = -74, init = 115, finish = 1
+Running task 2.0 in stage 19.0 (TID 789)
+Running task 4.0 in stage 19.0 (TID 799)
+Reading broadcast variable 28 took 9 ms
+Partition rdd_26_1 not found, computing it
+Found block rdd_2_0 locally
+Times: total = 40, boot = 20, init = 20, finish = 0
+Running task 1.0 in stage 20.0 (TID 821)
+Block broadcast_29_piece0 stored as bytes in memory (estimated size 5.7 KB, free 379.5 KB)
+Running task 1.0 in stage 21.0 (TID 867)
+Times: total = 39, boot = -59, init = 98, finish = 0
+Finished task 0.0 in stage 21.0 (TID 853). 2348 bytes result sent to driver
+Running task 1.0 in stage 22.0 (TID 900)
+Running task 2.0 in stage 22.0 (TID 912)
+Running task 4.0 in stage 22.0 (TID 919)
+Finished task 0.0 in stage 22.0 (TID 886). 2667 bytes result sent to driver
+Got assigned task 940
+Started reading broadcast variable 32
+Got assigned task 970
+Running task 0.0 in stage 24.0 (TID 970)
+Got assigned task 1026
+Found block rdd_6_0 locally
+Saved output of task 'attempt_201706092018_0024_m_000004_1026' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000004
+attempt_201706092018_0024_m_000002_998: Committed
+Running task 40.0 in stage 24.0 (TID 1125)
+Found block rdd_11_1 locally
+Times: total = 38, boot = -390, init = 428, finish = 0
+Got assigned task 1135
+File Output Committer Algorithm version is 1
+File Output Committer Algorithm version is 1
+Saved output of task 'attempt_201706092018_0024_m_000082_1137' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000082
+Got assigned task 1146
+Got assigned task 1147
+Found block rdd_21_4 locally
+File Output Committer Algorithm version is 1
+File Output Committer Algorithm version is 1
+Saved output of task 'attempt_201706092018_0024_m_000123_1150' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000123
+Got assigned task 1156
+Got assigned task 1157
+Got assigned task 1158
+Found block rdd_26_0 locally
+Times: total = 38, boot = -45, init = 83, finish = 0
+Running task 0.0 in stage 25.0 (TID 1166)
+Running task 1.0 in stage 25.0 (TID 1180)
+Running task 2.0 in stage 25.0 (TID 1194)
+Block broadcast_34_piece0 stored as bytes in memory (estimated size 28.8 KB, free 515.7 KB)
+Reading broadcast variable 34 took 9 ms
+Found block rdd_30_2 locally
+Times: total = 39, boot = -700, init = 739, finish = 0
+Saved output of task 'attempt_201706092018_0025_m_000003_1198' to hdfs://10.10.34.11:9000/pjhe/test/2/_temporary/0/task_201706092018_0025_m_000003
+Running task 1.0 in stage 26.0 (TID 1201)
+Reading broadcast variable 36 took 11 ms
+Times: total = 42, boot = 23, init = 19, finish = 0
+Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:51044+7292
+Block rdd_42_5 stored as bytes in memory (estimated size 930.0 B, free 809.3 KB)
+Times: total = 58, boot = 7, init = 46, finish = 5
+Finished task 6.0 in stage 26.0 (TID 1206). 2697 bytes result sent to driver
+Partition rdd_42_14 not found, computing it
+Finished task 10.0 in stage 26.0 (TID 1210). 2703 bytes result sent to driver
+Got assigned task 1216
+Finished task 12.0 in stage 26.0 (TID 1212). 2703 bytes result sent to driver
+Running task 19.0 in stage 26.0 (TID 1219)
+Running task 20.0 in stage 26.0 (TID 1220)
+Finished task 17.0 in stage 26.0 (TID 1217). 2701 bytes result sent to driver
+Block rdd_42_20 stored as bytes in memory (estimated size 917.0 B, free 821.7 KB)
+Finished task 22.0 in stage 26.0 (TID 1222). 2703 bytes result sent to driver
+Times: total = 41, boot = 16, init = 25, finish = 0
+Running task 32.0 in stage 26.0 (TID 1232)
+Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:240636+7292
+Block rdd_42_32 stored as bytes in memory (estimated size 993.0 B, free 832.1 KB)
+Partition rdd_42_35 not found, computing it
+Running task 36.0 in stage 26.0 (TID 1236)
+Running task 38.0 in stage 26.0 (TID 1238)
+Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:277096+7292
+Partition rdd_42_39 not found, computing it
+Times: total = 53, boot = 12, init = 36, finish = 5
+Found block rdd_42_3 locally
+Running task 5.0 in stage 27.0 (TID 1245)
+Found block rdd_42_5 locally
+Found block rdd_42_7 locally
+Finished task 6.0 in stage 27.0 (TID 1246). 2220 bytes result sent to driver
+Found block rdd_42_10 locally
+Finished task 10.0 in stage 27.0 (TID 1250). 2667 bytes result sent to driver
+Times: total = 41, boot = 11, init = 29, finish = 1
+Found block rdd_42_16 locally
+Found block rdd_42_17 locally
+Running task 25.0 in stage 27.0 (TID 1265)
+Running task 26.0 in stage 27.0 (TID 1266)
+Found block rdd_42_26 locally
+Running task 28.0 in stage 27.0 (TID 1268)
+Running task 33.0 in stage 27.0 (TID 1273)
+Found block rdd_42_30 locally
+Got assigned task 1274
+Running task 38.0 in stage 27.0 (TID 1278)
+Finished task 36.0 in stage 27.0 (TID 1276). 2673 bytes result sent to driver
+Got assigned task 1280
+Running task 1.0 in stage 28.0 (TID 1281)
+Block broadcast_39 stored as values in memory (estimated size 9.2 KB, free 868.3 KB)
+Found block rdd_42_3 locally
+Times: total = 49, boot = -793, init = 841, finish = 1
+Running task 10.0 in stage 28.0 (TID 1290)
+Running task 16.0 in stage 28.0 (TID 1296)
+Times: total = 41, boot = 12, init = 28, finish = 1
+Finished task 14.0 in stage 28.0 (TID 1294). 2087 bytes result sent to driver
+Running task 19.0 in stage 28.0 (TID 1299)
+Times: total = 40, boot = 20, init = 20, finish = 0
+Finished task 15.0 in stage 28.0 (TID 1295). 2087 bytes result sent to driver
+Running task 20.0 in stage 28.0 (TID 1300)
+Found block rdd_42_20 locally
+Finished task 22.0 in stage 28.0 (TID 1302). 2087 bytes result sent to driver
+Finished task 24.0 in stage 28.0 (TID 1304). 2087 bytes result sent to driver
+Times: total = 43, boot = 15, init = 27, finish = 1
+Finished task 23.0 in stage 28.0 (TID 1303). 2087 bytes result sent to driver
+Got assigned task 1309
+Finished task 27.0 in stage 28.0 (TID 1307). 2087 bytes result sent to driver
+Running task 34.0 in stage 28.0 (TID 1314)
+Times: total = 40, boot = 18, init = 22, finish = 0
+Finished task 32.0 in stage 28.0 (TID 1312). 2087 bytes result sent to driver
+Got assigned task 1318
+Got assigned task 1319
+Running task 39.0 in stage 28.0 (TID 1319)
+Found block rdd_42_39 locally
+Started reading broadcast variable 40
+Finished task 2.0 in stage 29.0 (TID 1322). 2128 bytes result sent to driver
+Got assigned task 1326
+Times: total = 39, boot = 18, init = 20, finish = 1
+Times: total = 43, boot = 25, init = 17, finish = 1
+Got assigned task 1330
+Running task 13.0 in stage 29.0 (TID 1333)
+Found block rdd_42_14 locally
+Found block rdd_42_13 locally
+Times: total = 42, boot = 18, init = 23, finish = 1
+Running task 20.0 in stage 29.0 (TID 1340)
+Got assigned task 1344
+Found block rdd_42_21 locally
+Got assigned task 1346
+Found block rdd_42_30 locally
+Finished task 29.0 in stage 29.0 (TID 1349). 2128 bytes result sent to driver
+SQM: Failed to start upload with file pattern: C:\Windows\servicing\sqm\*_std.sqm, flags: 0x2 [HRESULT = 0x80004005 - E_FAIL]
+SQM: Failed to start standard sample upload. [HRESULT = 0x80004005 - E_FAIL]
+00000004 IAdvancedInstallerAwareStore_ResolvePendingTransactions (call 1) (flags = 00000004, progress = NULL, phase = 0, pdwDisposition = @0xb6fd90
+00000007@2016/9/27:20:30:31.462 CSI perf trace:
+00000008 CSI Store 4991456 (0x00000000004c29e0) initialized
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Failed to internally open package. [HRESULT = 0x800f0805 - CBS_E_INVALID_PACKAGE]
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Warning: Unrecognized packageExtended attribute.
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Warning: Unrecognized packageExtended attribute.
+Warning: Unrecognized packageExtended attribute.
+Warning: Unrecognized packageExtended attribute.
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Warning: Unrecognized packageExtended attribute.
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Read out cached package applicability for package: Package_for_KB3108664~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112
+Session: 30546174_1767108 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB2978742~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112
+Read out cached package applicability for package: Package_for_KB3055642~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112
+Read out cached package applicability for package: Package_for_KB3078601~31bf3856ad364e35~amd64~~6.1.1.5, ApplicableState: 112, CurrentState:112
+Session: 30546174_10517608 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB2789645~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112
+Read out cached package applicability for package: Package_for_KB3184471~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 0, CurrentState:0
+Read out cached package applicability for package: Package_for_KB3146963~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112
+Read out cached package applicability for package: Package_for_KB3078667~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112
+Read out cached package applicability for package: Package_for_KB3168965~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 80, CurrentState:112
+Session: 30546174_27518581 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB3071756~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 112, CurrentState:112
+Session: 30546174_35689048 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB2798162~31bf3856ad364e35~amd64~~6.1.1.5, ApplicableState: 80, CurrentState:112
+Read out cached package applicability for package: Package_for_KB3118401~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112
+Session: 30546174_45239594 initialized by client WindowsUpdateAgent.
+Session: 30546174_49119816 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB2929733~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112
+Session: 30546174_84441836 initialized by client WindowsUpdateAgent.
+Session: 30546174_84491839 initialized by client WindowsUpdateAgent.
+Session: 30546174_84891862 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB2685811~31bf3856ad364e35~amd64~~6.1.1.11, ApplicableState: 112, CurrentState:112
+Session: 30546174_90912206 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB2853952~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 112, CurrentState:112
+Session: 30546174_94722424 initialized by client WindowsUpdateAgent.
+Session: 30546174_97402578 initialized by client WindowsUpdateAgent.
+Session: 30546174_99252683 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB3139398~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112
+Read out cached package applicability for package: Package_for_KB3040272~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 80, CurrentState:112
+Read out cached package applicability for package: Package_for_KB3142042~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 112, CurrentState:112
+Session: 30546174_106683108 initialized by client WindowsUpdateAgent.
+Session: 30546174_107383149 initialized by client WindowsUpdateAgent.
+Session: 30546174_107523157 initialized by client WindowsUpdateAgent.
+Session: 30546174_108313202 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB2621146~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 0, CurrentState:0
+Read out cached package applicability for package: Package_for_KB3123479~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112
+Session: 30546174_132514586 initialized by client WindowsUpdateAgent.
+Session: 30546174_132944611 initialized by client WindowsUpdateAgent.
+Session: 30546174_132984613 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB2853587~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 0, CurrentState:0
+Session: 30546174_143895237 initialized by client WindowsUpdateAgent.
+Session: 30546174_147205426 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB3161958~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112
+Read out cached package applicability for package: Package_for_KB3020388~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112
+Read out cached package applicability for package: Package_for_KB3156016~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112
+Session: 30546174_156695969 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB3139914~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112
+Session: 30546174_159636137 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB2868116~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112
+Read out cached package applicability for package: Package_for_KB3006121~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112
+Session: 30546174_169666711 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB3184122~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112
+Session: 30546174_169726714 initialized by client WindowsUpdateAgent.
+Session: 30546174_172566877 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB2491683~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112
+Read out cached package applicability for package: Package_for_KB2973351~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112
+Read out cached package applicability for package: Package_for_KB2836943~31bf3856ad364e35~amd64~~6.1.2.0, ApplicableState: 80, CurrentState:112
+Session: 30546174_180077306 initialized by client WindowsUpdateAgent.
+Session: 30546174_184807577 initialized by client WindowsUpdateAgent.
+Session: 30546174_186107651 initialized by client WindowsUpdateAgent.
+Reboot mark refs incremented to: 1
+00000010@2016/9/27:20:40:54.787 CSI Transaction @0x47e9e0 destroyed
+Ending the TrustedInstaller main loop.
+Ending TrustedInstaller finalization.
+00000001@2016/9/28:16:00:46.160 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x7fed875eb5d @0x7fee5c39b6d @0x7fee5c0358f @0xffeee97c @0xffeed799 @0xffeedb2f)
+Ending TrustedInstaller initialization.
+00000005 Creating NT transaction (seq 1), objectname [6]"(null)"
+Loading offline registry hive: DEFAULT, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/DEFAULT' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\DEFAULT'.
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Session: 30546354_2823393669 initialized by client WindowsUpdateAgent.
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Warning: Unrecognized packageExtended attribute.
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Warning: Unrecognized packageExtended attribute.
+Warning: Unrecognized packageExtended attribute.
+Warning: Unrecognized packageExtended attribute.
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Warning: Unrecognized packageExtended attribute.
+Warning: Unrecognized packageExtended attribute.
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Warning: Unrecognized packageExtended attribute.
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+Session: 30546354_2850685230 initialized by client WindowsUpdateAgent.
+Session: 30546354_2850715232 initialized by client WindowsUpdateAgent.
+Session: 30546354_2852095311 initialized by client WindowsUpdateAgent.
+Session: 30546354_2868336240 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB2656356~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 80, CurrentState:112
+Read out cached package applicability for package: Package_for_KB3127220~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112
+Session: 30546354_2926539569 initialized by client WindowsUpdateAgent.
+Session: 30546354_2937600202 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB2789645~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112
+Read out cached package applicability for package: Package_for_KB2918077~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112
+Read out cached package applicability for package: Package_for_KB3078667~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112
+Read out cached package applicability for package: Package_for_KB3020369~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 80, CurrentState:112
+Read out cached package applicability for package: Package_for_KB2763523~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112
+Session: 30546354_2984902907 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB2840631~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112
+Session: 30546354_3009694325 initialized by client WindowsUpdateAgent.
+Session: 30546354_3041116122 initialized by client WindowsUpdateAgent.
+Session: 30546354_3045146353 initialized by client WindowsUpdateAgent.
+Session: 30546354_3047216471 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB2985461~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112
+Read out cached package applicability for package: Package_for_KB2937610~31bf3856ad364e35~amd64~~6.1.1.3, ApplicableState: 112, CurrentState:112
+Session: 30546354_3067097608 initialized by client WindowsUpdateAgent.
+Session: 30546354_3070417798 initialized by client WindowsUpdateAgent.
+Failed to internally open package. [HRESULT = 0x800f0805 - CBS_E_INVALID_PACKAGE]
+Session: 30546354_3072147897 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB3080079~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112
+Read out cached package applicability for package: Package_for_KB3145739~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112
+Read out cached package applicability for package: Package_for_KB947821~31bf3856ad364e35~amd64~~6.1.34.0, ApplicableState: 112, CurrentState:0
+Read out cached package applicability for package: Package_for_KB3020370~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 112, CurrentState:112
+Session: 30546354_3183124245 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB2660075~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112
+Session: 30546354_3190364659 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB3021917~31bf3856ad364e35~amd64~~6.1.1.3, ApplicableState: 112, CurrentState:112
+Read out cached package applicability for package: Package_for_KB2510531~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112
+Session: 30546354_3193364831 initialized by client WindowsUpdateAgent.
+Session: 30546354_3196675020 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB2871997~31bf3856ad364e35~amd64~~6.1.2.5, ApplicableState: 112, CurrentState:112
+Session: 30546354_3202615360 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Microsoft-Windows-RDP-WinIP-Package-TopLevel~31bf3856ad364e35~amd64~~7.1.7601.16398, ApplicableState: 112, CurrentState:112
+Session: 30546354_3209785770 initialized by client WindowsUpdateAgent.
+Session: 30546354_3214976067 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB3040272~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 80, CurrentState:112
+Session: 30546354_3230936980 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB3123479~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112
+Session: 30546354_3273319404 initialized by client WindowsUpdateAgent.
+Session: 30546354_3283119964 initialized by client WindowsUpdateAgent.
+Session: 30546354_3284880065 initialized by client WindowsUpdateAgent.
+Session: 30546354_3290900409 initialized by client WindowsUpdateAgent.
+Session: 30546354_3292390494 initialized by client WindowsUpdateAgent.
+Session: 30546354_3301050990 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB2690533~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112
+Session: 30546354_3312401639 initialized by client WindowsUpdateAgent.
+Session: 30546354_3313121680 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB2732487~31bf3856ad364e35~amd64~~6.1.2.0, ApplicableState: 112, CurrentState:112
+Read out cached package applicability for package: Package_for_KB2506014~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112
+Read out cached package applicability for package: Package_for_KB3102429~31bf3856ad364e35~amd64~~6.1.2.0, ApplicableState: 112, CurrentState:112
+Session: 30546354_3338913155 initialized by client WindowsUpdateAgent.
+Session: 30546354_3343653427 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB3004375~31bf3856ad364e35~amd64~~6.1.3.1, ApplicableState: 112, CurrentState:112
+Session: 30546354_3351723888 initialized by client WindowsUpdateAgent.
+Read out cached package applicability for package: Package_for_KB2564958~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112
+Session: 30546354_3357894241 initialized by client WindowsUpdateAgent.
